@@ -1,0 +1,10 @@
+#
+# Image maps for internal and external images
+# image coordinates separated by spaces, other fields by tabs
+#
+
+
++ blog/images/arboretum-planting.jpg
+
+814 466    Sitka Spruce    Sitka Spruces grow up to 80m tall    wiki.html?target=Picea_sitchensis
+584 900    Lime tree       Lime trees grow up to 40m tall       wiki.html?target=Tilia

@@ -1,0 +1,22 @@
+{
+    "title": "Demo Guide",
+    "filesize" : {
+        "max" : 120,
+        "except" : [
+                "*.html",
+                "scripts/*",
+                "styles/*"
+        ]
+    },
+    "blogs" : [
+            "blog/"
+    ],
+    "theme" : "jqm",
+    "uiTheme" : "w",
+    "email": "compiler@cilogi.com",
+    "defaultTour": "botanics-trail",
+    "compile": {
+        "compress": false,
+        "offline": false
+    }
+}
