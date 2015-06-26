@@ -13,5 +13,5 @@ for details.
 
 Car parking is available off Byres road and in the [Ford Road Gate](map/map1?id=15") area.
 
-[Map showing access](/map/gettingHere)
+[Map showing access](map/gettingHere)
 

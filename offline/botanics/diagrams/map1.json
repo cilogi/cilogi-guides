@@ -13,10 +13,27 @@
     "showLocation" : true,
     "image"  : {"src" : "botanics1200optpsCOL.png",
                 "locates": [
-                    {"pixel": [6, 42], "latlng": [55.881681,-4.293718], "tag": "top gate"},
-                    {"pixel": [1139, 241], "latlng": [55.878952,-4.287736], "tag": "side gate"},
-                    {"pixel": [1009, 603], "latlng": [55.878045,-4.289697], "tag": "main gate"}
-                 ]
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.881846736578304, -4.293551445007324],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.879614344497924, -4.286578421624719],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.8774956100752, -4.288734197616577],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.879728123990134, -4.295707220999184],
+                        "tag": "sw corner"
+                    }
+                ]
     },
     "items": [{ "id": 1,  "description": "Curator's House", "pixel": [878, 224], "marker": "historical"},
               { "id": 2,  "description": "Peter Walker Memorial", "pixel": [903, 329]},
