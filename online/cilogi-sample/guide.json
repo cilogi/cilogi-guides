@@ -1,0 +1,312 @@
+{"name": "cilogi-sample", "guideSpecVersion": "1", "config": {
+    "title": "Cilogi Sample",
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Cilogi Sample", "owner": "author@cilogi.com", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "author@cilogi.com",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Toilets",
+            "shape": "square"
+        },
+        {
+            "id": "playground",
+            "icon": "fa-child",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Playground",
+            "shape": "square"
+        },
+        {
+            "id": "cafe",
+            "icon": "fa-coffee",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Cafe",
+            "shape": "square"
+        },
+        {
+            "id": "trail",
+            "icon": "fa-leaf",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Botanics Trail",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "map1",
+            "title": "The Botanics Gardens",
+            "provider": "osm",
+            "image": {
+                "src": "botanics1200optpsCOL.png",
+                "opacity": 1.0,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.88191293252376, -4.293798208236694],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.87965514682348, -4.286532438841437],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.877447462102424, -4.288712739944458],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.879705376196426, -4.295978509339715],
+                        "tag": "sw corner"
+                    }
+                ],
+                "empty": false
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "101",
+                    "description": "Toilets, Male  and Female.  Open until 4:45pm summer, 4:15pm winter",
+                    "latlng": [55.8790784414329, -4.287790060043335],
+                    "marker": "toilets"
+                },
+                {
+                    "id": "201",
+                    "description": "Kibble Palace",
+                    "latlng": [55.87882567421509, -4.289088249206543],
+                    "marker": "trail"
+                },
+                {
+                    "id": "202",
+                    "description": "Main Range",
+                    "latlng": [55.879310143270175, -4.290381073951721],
+                    "marker": "trail"
+                },
+                {
+                    "id": "401",
+                    "description": "Weeping Ash",
+                    "latlng": [55.87882567421509, -4.291008710861206],
+                    "marker": "trail"
+                }
+            ],
+            "bounds": {
+                "tl": [55.882484620082735, -4.295589923858643],
+                "br": [55.87528676036317, -4.285011291503906]
+            },
+            "zoom": {
+                "min": 16,
+                "max": 18,
+                "start": 16
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {
+                "index": ["501"]
+            }
+        }
+    ]
+}, "images": [
+    {
+        "id": "begonia-sample.jpg",
+        "tags": [],
+        "width": 640,
+        "height": 640
+    },
+    {
+        "id": "main-range.jpg",
+        "tags": [],
+        "width": 754,
+        "height": 442
+    },
+    {
+        "id": "kibble-palace.jpg",
+        "tags": [],
+        "width": 1024,
+        "height": 683
+    },
+    {
+        "id": "botanic-flower.jpg",
+        "tags": [],
+        "width": 731,
+        "height": 1024
+    },
+    {
+        "id": "botanics1200optpsCOL.png",
+        "tags": [],
+        "width": 1200,
+        "height": 650
+    },
+    {
+        "id": "weeping-ash.jpg",
+        "tags": [],
+        "width": 377,
+        "height": 491
+    }
+], "audioClips": [
+    {
+        "id": "road-to-the-isles.mp3",
+        "title": "The Road to the Isles",
+        "description": "Harry Lauder sings a famous Scottish song",
+        "tags": [],
+        "duration": 0
+    }
+], "pages": [
+    {
+        "id": 201,
+        "title": "Kibble Palace (1873)",
+        "guideName": "cilogi-sample",
+        "image": "kibble-palace.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 202,
+        "title": "Main Range of Glasshouses (1883)",
+        "guideName": "cilogi-sample",
+        "image": "main-range.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 401,
+        "title": "Weeping Ash",
+        "guideName": "cilogi-sample",
+        "image": "weeping-ash.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 0,
+        "title": "Botanic Gardens",
+        "guideName": "cilogi-sample",
+        "image": "botanic-flower.jpg",
+        "pageLinks": [
+            {
+                "type": "page",
+                "value": "201"
+            },
+            {
+                "type": "tour",
+                "value": "trail"
+            },
+            {
+                "type": "map",
+                "value": "map1"
+            }
+        ],
+        "metaData": {},
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "tours": [
+    {
+        "id": "trail",
+        "title": "The Botanics Trail",
+        "background": "begonia-sample.jpg",
+        "description": "This tour of the main sights of the gardens will take you about 1 hour.",
+        "stops": [
+            {
+                "id": 201,
+                "intro": "Our tour starts at the Kibble Palace.\n\n[Road to the Isles](audio/road-to-the-isles.mp3)",
+                "title": "Kibble Palace (1873)"
+            },
+            {
+                "id": 401,
+                "intro": "Head left from the Kibble almost to the main gates before turning right on the path which passes the Willow",
+                "title": "Weeping Ash"
+            },
+            {
+                "id": 202,
+                "intro": "Up and left on the path, then right to enter the main range on its left-most side.",
+                "title": "Main Range of Glasshouses (1883)"
+            }
+        ],
+        "metaData": {
+            "index": [""]
+        }
+    }
+], "etags": {}, "listings": [
+    {
+        "id": "trail",
+        "type": "image",
+        "title": "The Botanics Trail in Images",
+        "description": "The Botanics trail covers the main features of the Gardens.",
+        "tags": ["trail"],
+        "metaData": {
+            "tag": ["trail"]
+        }
+    }
+], "deployed": true, "editors": [
+    {
+        "id": "author@cilogi.comcilogi-sample",
+        "role": "owner",
+        "email": "author@cilogi.com",
+        "guide": "cilogi-sample"
+    },
+    {
+        "id": "tim@timniblett.netcilogi-sample",
+        "role": "editor",
+        "email": "tim@timniblett.net",
+        "guide": "cilogi-sample"
+    }
+], "configName": "config.json"}
