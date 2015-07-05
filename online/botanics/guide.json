@@ -1936,99 +1936,70 @@
         "stops": [
             {
                 "id": 1,
+                "title": "Curator's House/Visitor Centre (1840)",
                 "intro": "The Curator's House is the start of the Botanics Trail.\nThe trail takes about one and a half hours to complete."
             },
-            {
-                "id": 2
-            },
-            {
-                "id": 3
-            },
-            {
-                "id": 81
-            },
-            {
-                "id": 82
-            },
-            {
-                "id": 80
-            },
-            {
-                "id": 4
-            },
-            {
-                "id": 5
-            },
-            {
-                "id": 6
-            },
-            {
-                "id": 7
-            },
-            {
-                "id": 8
-            },
-            {
-                "id": 9
-            },
-            {
-                "id": 10
-            },
-            {
-                "id": 11
-            },
-            {
-                "id": 12
-            },
-            {
-                "id": 13
-            },
-            {
-                "id": 14
-            },
-            {
-                "id": 15
-            },
-            {
-                "id": 16
-            },
-            {
-                "id": 17
-            },
-            {
-                "id": 18
-            },
-            {
-                "id": 19
-            },
-            {
-                "id": 20
-            },
-            {
-                "id": 21
-            },
-            {
-                "id": 23
-            },
-            {
-                "id": 24
-            },
-            {
-                "id": 25
-            },
-            {
-                "id": 26
-            },
-            {
-                "id": 27
-            },
-            {
-                "id": 28
-            },
-            {
-                "id": 29,
-                "intro": "This is where the tour ends.  We hope you've enjoyed it"
-            }
+            { "id": 2,
+              "title": "Peter Walker Memorial (1906)"},
+            { "id": 3,
+              "title": "Main Range of Glasshouses (1883)"},
+            { "id": 81,
+              "title": "Hopkirk Building"},
+            { "id": 82,
+              "title": "Euing Range"},
+            { "id": 80,
+              "title": "Filmy Fern House"},
+            { "id": 4,
+              "title": "Sundial"},
+            { "id": 5,
+              "title": "Kibble Palace (1873)"},
+            { "id": 6,
+              "title": "Main Gates and East and West Lodges"},
+            { "id": 7,
+              "title": "Weeping Ash"},
+            { "id": 8,
+              "title": "Botanic Gardens Station (Disused)"},
+            { "id": 9,
+              "title": "Herb Garden"},
+            { "id": 10,
+              "title": "The Herbaceous Border"},
+            { "id": 11,
+              "title": "Chronological Border"},
+            { "id": 12,
+              "title": "Flag Pole"},
+            { "id": 13,
+              "title": "World Rose Garden"},
+            { "id": 14,
+              "title": "Memorial Plaques"},
+            { "id": 15,
+              "title": "Kirklee Gate, Kirklee Station, Ford Road"},
+            { "id": 16,
+              "title": "Arboretum"},
+            { "id": 17,
+              "title": "Garrioch Footbridge"},
+            { "id": 18,
+              "title": "Railway Viaduct at Garrioch (c. 1896)"},
+            { "id": 19,
+              "title": "Kirklee Bridge (1900)"},
+            { "id": 20,
+              "title": "Kelvin Walkway"},
+            { "id": 21,
+              "title": "Halfpenny Bridge House"},
+            { "id": 23,
+              "title": "Queen Margaret Bridge"},
+            { "id": 24,
+              "title": "Old Queen Margaret Bridge"},
+            { "id": 25,
+              "title": "Flint Mill Bridge"},
+            { "id": 26,
+              "title": "Belmont Street Bridge (1870)"},
+            { "id": 27,
+              "title": "North Woodside Flint Mill"},
+            { "id": 28,
+               "title": "Weir and Mill Lade"},
+            { "id": 29,
+              "title": "Humpback Bridge (1908)",
+              "intro": "This is where the tour ends.  We hope you've enjoyed it"}
         ],
         "metaData": {}
     }
