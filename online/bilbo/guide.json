@@ -1,0 +1,307 @@
+{"name": "bilbos", "guideSpecVersion": "1", "config": {
+    "title": "Botanic Gardens",
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Botanic Gardens", "owner": "bilbo@cilogi.com", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "bilbo@cilogi.com",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Toilets",
+            "shape": "square"
+        },
+        {
+            "id": "playground",
+            "icon": "fa-child",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Playground",
+            "shape": "square"
+        },
+        {
+            "id": "cafe",
+            "icon": "fa-coffee",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Cafe",
+            "shape": "square"
+        },
+        {
+            "id": "trail",
+            "icon": "fa-leaf",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Botanics Trail",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "map1",
+            "title": "Botanic Gardens",
+            "image": {
+                "src": "botanics1200optpsCOL.png",
+                "opacity": 1.0,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.880457865762466, -4.288411259651184],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.880457865762466, -4.283252835273743],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.87889053755911, -4.283252835273743],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.87889053755911, -4.288411259651184],
+                        "tag": "sw corner"
+                    }
+                ],
+                "empty": false
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "-2",
+                    "description": "Open 9 to 4",
+                    "pixel": [1114.261642822977, 221.86480845327657],
+                    "marker": "toilets"
+                },
+                {
+                    "id": "202",
+                    "description": "Main Range",
+                    "pixel": [754.7299647780145, 348.8465886854807],
+                    "marker": "trail"
+                },
+                {
+                    "id": "401",
+                    "description": "Weeping Ash",
+                    "pixel": [765.8216289081184, 509.8469365569423],
+                    "marker": "trail"
+                }
+            ],
+            "bounds": {
+                "tl": [55.88044155056048, -4.286148548126221],
+                "br": [55.878642116037355, -4.28292453289032]
+            },
+            "zoom": {
+                "min": 18,
+                "max": 20,
+                "start": 18
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {}
+        }
+    ]
+}, "images": [
+    {
+        "id": "begonia-sample.jpg",
+        "width": 640,
+        "height": 640,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "main-range.jpg",
+        "width": 754,
+        "height": 442,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanic-flower-2.jpg",
+        "width": 400,
+        "height": 561,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "curators-house.jpg",
+        "width": 654,
+        "height": 459,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "weeping-ash-leaves.jpg",
+        "width": 630,
+        "height": 945,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "kibble-palace.jpg",
+        "width": 1024,
+        "height": 683,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanics1200optpsCOL.png",
+        "width": 1200,
+        "height": 650,
+        "metaData": {},
+        "tags": []
+    }
+], "audioClips": [], "pages": [
+    {
+        "id": 0,
+        "title": "Botanic Gardens",
+        "guideName": "bilbos",
+        "image": "botanic-flower-2.jpg",
+        "pageLinks": [
+            {
+                "type": "page",
+                "value": "201"
+            },
+            {
+                "type": "map",
+                "value": "map1"
+            }
+        ],
+        "metaData": {},
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 201,
+        "title": "Kibble Palace",
+        "guideName": "bilbos",
+        "image": "kibble-palace.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 202,
+        "title": "Main Range",
+        "guideName": "bilbos",
+        "image": "main-range.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 203,
+        "title": "Curator's House",
+        "guideName": "bilbos",
+        "image": "curators-house.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 401,
+        "title": "Weeping Ash",
+        "guideName": "bilbos",
+        "image": "weeping-ash-leaves.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "tours": [
+    {
+        "id": "trail",
+        "title": "Botanic Trail",
+        "background": "begonia-sample.jpg",
+        "description": "A tour of the Gardens' main sites in about an hour",
+        "stops": [
+            {
+                "id": 203,
+                "intro": "Start at the Curator's House Cafe",
+                "title": "Curator's House"
+            },
+            {
+                "id": 201,
+                "intro": "Move across to the Kibble Palace",
+                "title": "Kibble Palace"
+            },
+            {
+                "id": 401,
+                "intro": "Turn left towards the gates, then right to the Weeping Ash.",
+                "title": "Weeping Ash"
+            },
+            {
+                "id": 202,
+                "intro": "Go up and to the right to the left end of the Main Range",
+                "title": "Main Range"
+            }
+        ],
+        "metaData": {
+            "index": [""]
+        }
+    }
+], "etags": {}, "listings": [], "shop": {
+    "storeCurrency": "GBP",
+    "skus": []
+}, "editors": [
+    {
+        "id": "bilbo@cilogi.combilbos",
+        "role": "owner",
+        "email": "bilbo@cilogi.com",
+        "guide": "bilbos"
+    }
+], "configName": "config.json", "deployed": true}

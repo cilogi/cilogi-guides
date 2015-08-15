@@ -1,1 +1,4 @@
-{"id":3,"title":"Kibble Palace (1873)","guideName":"demo-guide","image":"kibble-palace.jpg","pageLinks":[],"metaData":{"index":["3"],"tag":["trail","image-display:cover"]},"etag":"387a181885412e211ead476a27980f67","text":"This is the most famous attraction in the Gardens, refurbished\nunder a lottery grant in 2003."}
+{"id": 3, "title": "Kibble Palace (1873)", "guideName": "demo-guide", "image": "kibble-palace.jpg", "pageLinks": [], "metaData": {
+    "index": ["3"],
+    "tag": ["trail", "image-display:cover", "sku:kibble"]
+}, "etag": "387a181885412e211ead476a27980f67", "text": "This is the most famous attraction in the Gardens, refurbished\nunder a lottery grant in 2003."}
