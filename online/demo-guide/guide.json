@@ -1,1 +1,392 @@
-{"name":"demo-guide","guideSpecVersion":"1","config":{"title":"Demo Guide","blogs":["blog/"],"theme":"jqm","analyticsKey":"","copyright":"","attribution":"","uiTheme":"w","email":"compiler@cilogi.com","defaultTour":"botanics-trail","showKeypad":true,"listview":[],"permissions":{"permissions":{}},"templates":{},"compile":{"isCompress":false,"isOffline":false,"offline":false,"compress":false},"filesize":{"max":120,"except":["*.html","scripts/*","styles/*"]},"imageDisplay":"image-display:contain"},"title":"demo-guide","owner":"tim.niblett@cilogi.com","servingVersion":"1","versions":["1"],"pages":[{"id":203,"title":"Cilogi Technology","guideName":"demo-guide","pageLinks":[],"metaData":{"index":["203"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":202,"title":"Using this guide","guideName":"demo-guide","pageLinks":[],"metaData":{"index":["202"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":200,"title":"Opening Times","guideName":"demo-guide","image":"kibble-roof.jpg","pageLinks":[],"metaData":{"index":["200"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":201,"title":"Getting here","guideName":"demo-guide","pageLinks":[],"metaData":{"index":["201"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":101,"title":"Begonia sericoneura Liebm.","guideName":"demo-guide","image":"begonia-sericoneura.jpg","pageLinks":[],"metaData":{"index":["101"],"tag":["begonia"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":102,"title":"Begonia tomentosa","guideName":"demo-guide","image":"begonia-tomentosa.jpg","pageLinks":[],"metaData":{"index":["102"],"tag":["begonia"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":1,"title":"Curator's House (1840)","guideName":"demo-guide","image":"curators-house.jpg","pageLinks":[],"metaData":{"index":["1"],"tag":["trail"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":3,"title":"Kibble Palace (1873)","guideName":"demo-guide","image":"kibble-palace.jpg","pageLinks":[],"metaData":{"index":["3"],"tag":["trail","image-display:cover"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":2,"title":"Sundial","guideName":"demo-guide","image":"sundial.jpg","pageLinks":[],"metaData":{"index":["2"],"tag":["trail"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""}],"diagrams":{"markers":[{"id":"default","icon":"fa-star","iconColor":"white","color":"green","theme":"Item","shape":"square"},{"id":"red","icon":"fa-star","iconColor":"white","color":"red","theme":"Plant","shape":"square"},{"id":"info","icon":"fa-info","iconColor":"white","color":"green","theme":"Info","shape":"square"},{"id":"parking","icon":"fa-car","iconColor":"white","color":"red","theme":"Travel","shape":"square"},{"id":"tube","icon":"fa-magnet","iconColor":"white","color":"red","theme":"Travel","shape":"square"},{"id":"news","icon":"fa-exclamation","iconColor":"white","color":"black","theme":"Item Locator","shape":"square"},{"id":"listing","icon":"fa-list","iconColor":"yellow","color":"blue","theme":"Listing","shape":"circle"},{"id":"map","icon":"fa-compass","iconColor":"yellow","color":"blue","theme":"Plants","shape":"circle"},{"id":"toilets","icon":"fa-toilets","iconColor":"white","color":"brown","theme":"Toilets","shape":"circle"}],"diagrams":[{"name":"chrono16","title":"Chronological border 16th Century","image":{"src":"chronological-c16.jpg","opacity":1.0},"markers":[],"items":[{"id":"40","description":"Plant A","pixel":[197.0,411.0],"marker":"red"},{"id":"41","description":"Plant B","pixel":[436.0,345.0],"marker":"red"}],"zoom":{"min":1,"max":3,"start":0},"sizes":{"min":0.5,"max":2.0,"threshold":1.0},"showLocation":false,"cluster":false,"metaData":{"index":[400]}},{"name":"gettingHere","title":"Travelling to the Gardens","provider":"osm","markers":[],"items":[{"id":"-1","description":"Margaret Drive Gate","latlng":[55.87892,-4.287637],"marker":"info"},{"id":"-1","description":"Ford Road Gate.","latlng":[55.881665,-4.293677],"marker":"parking","text":"Parking is available on the roads around this gate."},{"id":"-1","description":"Main Gate","latlng":[55.877989,-4.289662],"marker":"info"},{"id":"-1","description":"Hillhead Underground","latlng":[55.875232,-4.293385],"marker":"tube","text":"Travel from the main stations"}],"bounds":{"tl":[55.885317,-4.304213],"br":[55.873582,-4.278614]},"zoom":{"min":15,"max":17,"start":16},"sizes":{"min":0.5,"max":1.0,"threshold":0.75},"showLocation":false,"cluster":false,"metaData":{}},{"name":"map1","title":"Map of the Botanic Gardens","provider":"osm","image":{"src":"botanics1200optpsCOL.png","opacity":1.0,"locates":[{"pixel":[0.0,0.0],"latlng":[55.881858772213135,-4.2935729026794425],"tag":"nw corner"},{"pixel":[1200.0,0.0],"latlng":[55.87961494227534,-4.286578104800032],"tag":"ne corner"},{"pixel":[1200.0,650.0],"latlng":[55.87748959158185,-4.288744926452637],"tag":"se corner"},{"pixel":[0.0,650.0],"latlng":[55.87973354436089,-4.295739724332048],"tag":"sw corner"}]},"markers":[],"items":[{"id":"1","description":"Curator's House","pixel":[878.0,224.0],"marker":"red"},{"id":"2","description":"Sundial","pixel":[880.0,359.0],"marker":"red"},{"id":"3","description":"Kibble Palace","pixel":[980.0,363.0]},{"id":"400","description":"Chronological Border","pixel":[267.0,466.0],"marker":"map"},{"id":"50","description":"Toilets","pixel":[1111.0,209.0],"marker":"toilets","text":"Disabled and nursing.  Open 9:00-4:45 in summer, 9:00-4:15 winter"},{"id":"500","description":"Begonias in the Gardens","pixel":[652.0,347.0],"marker":"listing"}],"bounds":{"tl":[55.884759,-4.294045],"br":[55.874589,-4.277612]},"zoom":{"min":16,"max":18,"start":17},"sizes":{"min":0.5,"max":2.0,"threshold":1.0},"showLocation":true,"cluster":true,"metaData":{}}]},"images":[],"audioClips":[],"tours":[],"listings":[],"etags":{},"configName":"config.json","deployed":true}
+{"name": "demo-guide", "guideSpecVersion": "1", "config": {
+    "title": "Demo Guide",
+    "blogs": ["blog/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "compiler@cilogi.com",
+    "defaultTour": "botanics-trail",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "demo-guide", "owner": "tim.niblett@cilogi.com", "servingVersion": "1", "versions": ["1"], "pages": [
+    {
+        "id": 203,
+        "title": "Cilogi Technology",
+        "guideName": "demo-guide",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["203"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 202,
+        "title": "Using this guide",
+        "guideName": "demo-guide",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["202"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 200,
+        "title": "Opening Times",
+        "guideName": "demo-guide",
+        "image": "kibble-roof.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["200"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 201,
+        "title": "Getting here",
+        "guideName": "demo-guide",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["201"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 101,
+        "title": "Begonia sericoneura Liebm.",
+        "guideName": "demo-guide",
+        "image": "begonia-sericoneura.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["101"],
+            "tag": ["begonia"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 102,
+        "title": "Begonia tomentosa",
+        "guideName": "demo-guide",
+        "image": "begonia-tomentosa.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["102"],
+            "tag": ["begonia"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 1,
+        "title": "Curator's House (1840)",
+        "guideName": "demo-guide",
+        "image": "curators-house.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["1"],
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 3,
+        "title": "Kibble Palace (1873)",
+        "guideName": "demo-guide",
+        "image": "kibble-palace.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["3"],
+            "tag": ["trail", "image-display:cover"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 2,
+        "title": "Sundial",
+        "guideName": "demo-guide",
+        "image": "sundial.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "index": ["2"],
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Item",
+            "shape": "square"
+        },
+        {
+            "id": "red",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Plant",
+            "shape": "square"
+        },
+        {
+            "id": "info",
+            "icon": "fa-info",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Info",
+            "shape": "square"
+        },
+        {
+            "id": "parking",
+            "icon": "fa-car",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Travel",
+            "shape": "square"
+        },
+        {
+            "id": "tube",
+            "icon": "fa-magnet",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Travel",
+            "shape": "square"
+        },
+        {
+            "id": "news",
+            "icon": "fa-exclamation",
+            "iconColor": "white",
+            "color": "black",
+            "theme": "Item Locator",
+            "shape": "square"
+        },
+        {
+            "id": "listing",
+            "icon": "fa-list",
+            "iconColor": "yellow",
+            "color": "blue",
+            "theme": "Listing",
+            "shape": "circle"
+        },
+        {
+            "id": "map",
+            "icon": "fa-compass",
+            "iconColor": "yellow",
+            "color": "blue",
+            "theme": "Plants",
+            "shape": "circle"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "brown",
+            "theme": "Toilets",
+            "shape": "circle"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "chrono16",
+            "title": "Chronological border 16th Century",
+            "image": {
+                "src": "chronological-c16.jpg",
+                "opacity": 1.0
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "40",
+                    "description": "Plant A",
+                    "pixel": [197.0, 411.0],
+                    "marker": "red"
+                },
+                {
+                    "id": "41",
+                    "description": "Plant B",
+                    "pixel": [436.0, 345.0],
+                    "marker": "red"
+                }
+            ],
+            "zoom": {
+                "min": 1,
+                "max": 3,
+                "start": 0
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {
+                "index": [400]
+            }
+        },
+        {
+            "name": "gettingHere",
+            "title": "Travelling to the Gardens",
+            "provider": "osm",
+            "markers": [],
+            "items": [
+                {
+                    "id": "-1",
+                    "description": "Margaret Drive Gate",
+                    "latlng": [55.87892, -4.287637],
+                    "marker": "info"
+                },
+                {
+                    "id": "-1",
+                    "description": "Ford Road Gate.",
+                    "latlng": [55.881665, -4.293677],
+                    "marker": "parking",
+                    "text": "Parking is available on the roads around this gate."
+                },
+                {
+                    "id": "-1",
+                    "description": "Main Gate",
+                    "latlng": [55.877989, -4.289662],
+                    "marker": "info"
+                },
+                {
+                    "id": "-1",
+                    "description": "Hillhead Underground",
+                    "latlng": [55.875232, -4.293385],
+                    "marker": "tube",
+                    "text": "Travel from the main stations"
+                }
+            ],
+            "bounds": {
+                "tl": [55.885317, -4.304213],
+                "br": [55.873582, -4.278614]
+            },
+            "zoom": {
+                "min": 15,
+                "max": 17,
+                "start": 16
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 1.0,
+                "threshold": 0.75
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {}
+        },
+        {
+            "name": "map1",
+            "title": "Map of the Botanic Gardens",
+            "provider": "osm",
+            "image": {
+                "src": "botanics1200optpsCOL.png",
+                "opacity": 1.0,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.881858772213135, -4.2935729026794425],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.87961494227534, -4.286578104800032],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.87748959158185, -4.288744926452637],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.87973354436089, -4.295739724332048],
+                        "tag": "sw corner"
+                    }
+                ]
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "1",
+                    "description": "Curator's House",
+                    "pixel": [878.0, 224.0],
+                    "marker": "red"
+                },
+                {
+                    "id": "2",
+                    "description": "Sundial",
+                    "pixel": [880.0, 359.0],
+                    "marker": "red"
+                },
+                {
+                    "id": "3",
+                    "description": "Kibble Palace",
+                    "pixel": [980.0, 363.0]
+                },
+                {
+                    "id": "400",
+                    "description": "Chronological Border",
+                    "pixel": [267.0, 466.0],
+                    "marker": "map"
+                },
+                {
+                    "id": "50",
+                    "description": "Toilets",
+                    "pixel": [1111.0, 209.0],
+                    "marker": "toilets",
+                    "text": "Disabled and nursing.  Open 9:00-4:45 in summer, 9:00-4:15 winter"
+                },
+                {
+                    "id": "500",
+                    "description": "Begonias in the Gardens",
+                    "pixel": [652.0, 347.0],
+                    "marker": "listing"
+                }
+            ],
+            "bounds": {
+                "tl": [55.884759, -4.294045],
+                "br": [55.874589, -4.277612]
+            },
+            "zoom": {
+                "min": 16,
+                "max": 18,
+                "start": 17
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": true,
+            "cluster": true,
+            "metaData": {}
+        }
+    ]
+}, "images": [], "audioClips": [], "tours": [], "listings": [], "etags": {}, "configName": "config.json", "deployed": true}

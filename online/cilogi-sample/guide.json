@@ -126,7 +126,7 @@
                     "marker": "playground"
                 },
                 {
-                    "id": "201",
+                    "id": "demo-guide/3",
                     "description": "Kibble",
                     "latlng": [55.87882567421509, -4.289056062698364],
                     "marker": "trail"
@@ -251,20 +251,21 @@
         "id": 0,
         "title": "Botanic Gardens",
         "guideName": "cilogi-sample",
-        "pageLinks": [],
+        "pageLinks": [
+            {
+                "type": "page",
+                "value": "demo-guide/3"
+            },
+            {
+                "type": "map",
+                "value": "map1"
+            },
+            {
+                "type": "tour",
+                "value": "trail"
+            }
+        ],
         "metaData": {},
-        "etag": "d41d8cd98f00b204e9800998ecf8427e",
-        "text": ""
-    },
-    {
-        "id": 201,
-        "title": "Kibble Palace",
-        "guideName": "cilogi-sample",
-        "image": "kibble-palace.jpg",
-        "pageLinks": [],
-        "metaData": {
-            "tag": ["trail"]
-        },
         "etag": "d41d8cd98f00b204e9800998ecf8427e",
         "text": ""
     },
@@ -300,17 +301,17 @@
         "description": "The tour of the main sights of the Gardens takes about an hour.",
         "stops": [
             {
-                "id": 201,
+                "id": "demo-guide/3",
                 "intro": "Our tour starts at the Kibble palace",
                 "title": "Kibble Palace"
             },
             {
-                "id": 401,
+                "id": "401",
                 "intro": "Head left from the Kibble almost to the main gates before turning right on the path which passes the Willow",
                 "title": "Weeping Ash"
             },
             {
-                "id": 202,
+                "id": "202",
                 "intro": "Up and left on the path, then right to enter the main range on its leftmost side.",
                 "title": "Main Range"
             }

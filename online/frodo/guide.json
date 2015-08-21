@@ -1,0 +1,130 @@
+{"name": "frodos", "guideSpecVersion": "1", "config": {
+    "title": "Botanic Gardens",
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Botanic Gardens", "owner": "bilbo@cilogi.com", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "bilbo@cilogi.com",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "naked",
+            "title": "Naked Map",
+            "provider": "osm",
+            "image": {
+                "src": "botanics1200-24bit.png",
+                "opacity": 1.0,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.88062346533137, -4.2889509201049805],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.88062346533137, -4.282702445983887],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.87872493799021, -4.282702445983887],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.87872493799021, -4.2889509201049805],
+                        "tag": "sw corner"
+                    }
+                ],
+                "empty": false
+            },
+            "markers": [],
+            "items": [],
+            "bounds": {
+                "tl": [55.88147363004733, -4.289731979370117],
+                "br": [55.87787477327424, -4.28192138671875]
+            },
+            "zoom": {
+                "min": 17,
+                "max": 19,
+                "start": 17
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {}
+        }
+    ]
+}, "images": [
+    {
+        "id": "botanics1200-24bit.png",
+        "width": 1200,
+        "height": 650,
+        "metaData": {},
+        "tags": []
+    }
+], "audioClips": [], "pages": [
+    {
+        "id": 0,
+        "title": "Frodos",
+        "guideName": "frodos",
+        "pageLinks": [
+            {
+                "type": "map",
+                "value": "naked"
+            }
+        ],
+        "metaData": {},
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "tours": [], "etags": {}, "listings": [], "shop": {
+    "storeCurrency": "GBP",
+    "skus": []
+}, "editors": [
+    {
+        "id": "bilbo@cilogi.comfrodos",
+        "role": "owner",
+        "email": "bilbo@cilogi.com",
+        "guide": "frodos"
+    }
+], "configName": "config.json", "deployed": true}
