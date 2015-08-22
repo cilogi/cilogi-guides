@@ -1,0 +1,8 @@
+{
+    "id": "kibble_statues",
+    "type": "image",
+    "title": "Statues in the Kibble Palace",
+    "description": "The Kibble Palace contains a variety of statues",
+    "background": "kibble-demo.jpg",
+    "tags": ["kibble:statue"]
+}
