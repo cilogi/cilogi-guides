@@ -7,4 +7,4 @@ classes/
 *.zip
 bower_components/
 secret.properties
-backups/
+online/backups/
