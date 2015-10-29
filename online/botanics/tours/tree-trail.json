@@ -1,0 +1,29 @@
+{
+    "id": "tree-trail",
+    "title": "The Tree Trail",
+    "background": "english-oak.jpg",
+    "description": "The tree trail starts at the Corsican Pine and should take about 45 minutes.",
+    "stops": [
+        { "id": "700" },
+        { "id": "701", "intro": "We start at the Corsican Pine, just beyond the left end of the main range of glasshouses" },
+        { "id": "702", "intro": "Walk along the main range to the Chinese Mahogony, just before the Kibble Palace" },
+        { "id": "703", "intro": "The Prickly Castor Oil Tree is round the side of the Kibble Palace, on the grass." },
+        { "id": "704" },
+        { "id": "705" },
+        { "id": "706" },
+        { "id": "707" },
+        { "id": "708" },
+        { "id": "709" },
+        { "id": "710" },
+        { "id": "711" },
+        { "id": "712" },
+        { "id": "713" },
+        { "id": "714" },
+        { "id": "715" },
+        { "id": "716" },
+        { "id": "717" },
+        { "id": "718" },
+        { "id": "719" },
+        { "id": "720", "intro": "This is where the tour ends.  We hope you've enjoyed it" }
+    ]
+}

@@ -1,0 +1,10 @@
+# File not to load on the initial load
+.hg/*
+.hgignore
+.hgtags
+*.picasa.ini
+*.jar
+*.bat
+*.*~
+seq.html
+*.psd

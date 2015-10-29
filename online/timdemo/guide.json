@@ -1,0 +1,260 @@
+{"name": "timdemo", "guideSpecVersion": "1", "config": {
+    "title": "Tim Demo",
+    "description": "",
+    "shared": true,
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Tim Demo", "owner": "tim.niblett@gmail.com", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "tim.niblett@gmail.com",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Toilets",
+            "shape": "square"
+        },
+        {
+            "id": "playground",
+            "icon": "fa-child",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "PLayground",
+            "shape": "square"
+        },
+        {
+            "id": "trail",
+            "icon": "fa-leaf",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Botanics Trail",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "map1",
+            "title": "Map of the Gardens",
+            "provider": "osm",
+            "image": {
+                "src": "",
+                "opacity": 0.5,
+                "locates": [],
+                "empty": true
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "201",
+                    "description": "",
+                    "latlng": [55.879265006657086, -4.288927316665649],
+                    "marker": "trail"
+                },
+                {
+                    "id": "203",
+                    "description": "",
+                    "latlng": [55.879271024875194, -4.2903220653533936],
+                    "marker": "trail"
+                },
+                {
+                    "id": "205",
+                    "description": "",
+                    "latlng": [55.87881965592795, -4.289056062698364],
+                    "marker": "trail"
+                }
+            ],
+            "bounds": {
+                "tl": [55.881329200749995, -4.294227361679077],
+                "br": [55.87773033058743, -4.286041259765625]
+            },
+            "zoom": {
+                "min": 17,
+                "max": 19,
+                "start": 17
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {
+                "index": ["500"]
+            }
+        }
+    ]
+}, "images": [
+    {
+        "id": "curators-house.jpg",
+        "width": 2000,
+        "height": 1402,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "main-range.jpg",
+        "width": 754,
+        "height": 442,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "kibble-palace.jpg",
+        "width": 1024,
+        "height": 683,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanic-flower.jpg",
+        "width": 731,
+        "height": 1024,
+        "metaData": {},
+        "tags": []
+    }
+], "audioClips": [], "pages": [
+    {
+        "id": 0,
+        "title": "Glasgow Botanic Gardens",
+        "guideName": "timdemo",
+        "images": ["botanic-flower.jpg"],
+        "pageLinks": [
+            {
+                "type": "map",
+                "value": "map1",
+                "externalGuide": false
+            },
+            {
+                "type": "page",
+                "value": "205",
+                "externalGuide": false
+            }
+        ],
+        "metaData": {},
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": "",
+        "image": "botanic-flower.jpg"
+    },
+    {
+        "id": 201,
+        "title": "Curator's House",
+        "guideName": "timdemo",
+        "images": ["curators-house.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": "",
+        "image": "curators-house.jpg"
+    },
+    {
+        "id": 203,
+        "title": "Main Range",
+        "guideName": "timdemo",
+        "images": ["main-range.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": "",
+        "image": "main-range.jpg"
+    },
+    {
+        "id": 205,
+        "title": "Kibble Palace",
+        "guideName": "timdemo",
+        "images": ["kibble-palace.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": "",
+        "image": "kibble-palace.jpg"
+    }
+], "tours": [
+    {
+        "id": "trail",
+        "title": "The Botanics Trail",
+        "background": "kibble-palace.jpg",
+        "description": "A 30 minute tour of the main sites",
+        "stops": [
+            {
+                "id": "201",
+                "intro": "",
+                "title": "Curator's House"
+            },
+            {
+                "id": "205",
+                "intro": "",
+                "title": "Kibble Palace"
+            },
+            {
+                "id": "203",
+                "intro": "",
+                "title": "Main Range"
+            }
+        ],
+        "metaData": {
+            "index": [""]
+        }
+    }
+], "galleries": [], "etags": {}, "listings": [
+    {
+        "id": "trail",
+        "type": "image",
+        "title": "The Botanics Trail in pictures",
+        "description": "",
+        "tags": ["trail"],
+        "metaData": {}
+    }
+], "shop": {
+    "storeCurrency": "GBP",
+    "skus": []
+}, "editors": [
+    {
+        "id": "tim.niblett@gmail.comtimdemo",
+        "role": "owner",
+        "email": "tim.niblett@gmail.com",
+        "guide": "timdemo"
+    }
+], "configName": "config.json", "deployed": true}

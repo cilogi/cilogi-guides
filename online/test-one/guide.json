@@ -1,0 +1,304 @@
+{"name": "test-one", "guideSpecVersion": "1", "config": {
+    "title": "Test Guide",
+    "location": [55.879703, -4.291188],
+    "shared": true,
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Test Guide", "owner": "tim@timniblett.net", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "tim@timniblett.net",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        },
+        {
+            "id": "trail",
+            "icon": "fa-leaf",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Botanics Trail",
+            "shape": "square"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Toilets",
+            "shape": "square"
+        },
+        {
+            "id": "cafe",
+            "icon": "fa-coffee",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Cafe",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "map1",
+            "title": "Map of the Botanic Gardens",
+            "provider": "osm",
+            "image": {
+                "src": "botanics1200-24bit.png",
+                "opacity": 0.4,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.88184071875949, -4.293529987335205],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.8796218974955, -4.286591526645946],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.877513665549586, -4.288734197616577],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.87973260730727, -4.295672658305835],
+                        "tag": "sw corner"
+                    }
+                ],
+                "empty": false
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "-2",
+                    "description": "Toilets are open from 9am to 4:45pm",
+                    "latlng": [55.8790784414329, -4.287816882133484],
+                    "marker": "toilets"
+                },
+                {
+                    "id": "102",
+                    "description": "Kibble Palace",
+                    "latlng": [55.87884071992889, -4.2890506982803345],
+                    "marker": "trail"
+                },
+                {
+                    "id": "-3",
+                    "description": "",
+                    "latlng": [55.879313152375865, -4.288948774337768],
+                    "marker": "default"
+                },
+                {
+                    "id": "401",
+                    "description": "Weeping Ash",
+                    "latlng": [55.87880160106092, -4.290692210197449],
+                    "marker": "trail"
+                }
+            ],
+            "bounds": {
+                "tl": [55.88436210315056, -4.294581413269043],
+                "br": [55.8771645915565, -4.278209209442139]
+            },
+            "zoom": {
+                "min": 16,
+                "max": 18,
+                "start": 16
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {}
+        }
+    ]
+}, "images": [
+    {
+        "id": "curators-house.jpg",
+        "width": 2000,
+        "height": 1402,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "weeping-ash-leaves.jpg",
+        "width": 630,
+        "height": 945,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanics1200-24bit.png",
+        "width": 1200,
+        "height": 650,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "kibble-palace.jpg",
+        "width": 1024,
+        "height": 683,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanic-flower.jpg",
+        "width": 731,
+        "height": 1024,
+        "metaData": {},
+        "tags": []
+    }
+], "audioClips": [], "pages": [
+    {
+        "id": 0,
+        "title": "Home Page",
+        "guideName": "test-one",
+        "image": "botanic-flower.jpg",
+        "pageLinks": [
+            {
+                "type": "map",
+                "value": "map1"
+            },
+            {
+                "type": "tour",
+                "value": "trail"
+            },
+            {
+                "type": "page",
+                "value": "102"
+            }
+        ],
+        "metaData": {},
+        "etag": "cfe6e34a4c7f24aad32aa4299562f5b1",
+        "text": "Home Page"
+    },
+    {
+        "id": 101,
+        "title": "Curator's House",
+        "guideName": "test-one",
+        "image": "curators-house.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 102,
+        "title": "Kibble Palace",
+        "guideName": "test-one",
+        "image": "kibble-palace.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 401,
+        "title": "Weeping Ash",
+        "guideName": "test-one",
+        "image": "weeping-ash-leaves.jpg",
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"],
+            "gallery": ["gallery"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "tours": [
+    {
+        "id": "trail",
+        "title": "The Botanics Trail",
+        "description": "A tour of the main features of the Gardens",
+        "stops": [
+            {
+                "id": 101,
+                "intro": "The Curator's House is the start of the tour.  Its also the end, and we'd recommend stopping in the Cafe when you finish for a well-deserved cup of tea or coffee.",
+                "title": "Curator's House"
+            },
+            {
+                "id": 102,
+                "intro": "The Kibble Palace can be found as you head to the main gate.  Its a large structure, hard to miss.  Enter on the garden=facing side.",
+                "title": "Kibble Palace"
+            },
+            {
+                "id": 401,
+                "intro": "Head towards the main gate and take the first right.  This will bring you to the Weeping Ash.",
+                "title": "Weeping Ash"
+            }
+        ],
+        "metaData": {
+            "index": [""]
+        }
+    }
+],
+   "galleries": [
+       {
+           "id": "gallery",
+           "title": "Gallery Title",
+           "description": "",
+           "images": [
+               {
+                   "imageId": "curators-house.jpg",
+                   "title": "Curator's House",
+                   "description": ""
+               }, "weeping-ash-leaves.jpg", "kibble-palace.jpg"
+               ]
+       }
+], "etags": {}, "listings": [
+    {
+        "id": "trail",
+        "type": "image",
+        "title": "The Botanics Trail in pictures",
+        "description": "",
+        "tags": ["trail"],
+        "metaData": {}
+    }
+], "shop": {
+    "storeCurrency": "GBP",
+    "skus": []
+}, "editors": [
+    {
+        "id": "tim@timniblett.nettest-one",
+        "role": "owner",
+        "email": "tim@timniblett.net",
+        "guide": "test-one"
+    }
+], "configName": "config.json", "deployed": true}

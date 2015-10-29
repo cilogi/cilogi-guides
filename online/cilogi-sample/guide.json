@@ -1,1 +1,324 @@
-{"name":"cilogi-sample","guideSpecVersion":"1","config":{"title":"Sample","blogs":["blogs/"],"theme":"jqm","analyticsKey":"","copyright":"","attribution":"","uiTheme":"w","email":"","showKeypad":true,"listview":[],"permissions":{"permissions":{}},"templates":{},"compile":{"isCompress":false,"isOffline":false,"offline":false,"compress":false},"filesize":{"max":120,"except":["*.html","scripts/*","styles/*"]},"imageDisplay":"image-display:contain"},"title":"Sample","owner":"tim@timniblett.net","servingVersion":"1","versions":["1"],"link":{"linkType":"Online","userID":0,"url":"","userName":"tim@timniblett.net","valid":true},"diagrams":{"markers":[{"id":"default","icon":"fa-star","iconColor":"white","color":"green","theme":"","shape":"square"},{"id":"toilets","icon":"fa-toilets","iconColor":"white","color":"red","theme":"Toilets","shape":"square"},{"id":"cafe","icon":"fa-coffee","iconColor":"white","color":"red","theme":"Cafe","shape":"square"},{"id":"playground","icon":"fa-child","iconColor":"white","color":"red","theme":"Playground","shape":"square"},{"id":"trail","icon":"fa-leaf","iconColor":"white","color":"green","theme":"Botanics Trail","shape":"square"}],"diagrams":[{"name":"map1","title":"Map of the Botanic Gardens","provider":"osm","image":{"src":"botanics1200optpsCOL.png","opacity":0.0,"locates":[{"pixel":[0.0,0.0],"latlng":[55.881846736578304,-4.2935729026794425],"tag":"nw corner"},{"pixel":[1200.0,0.0],"latlng":[55.87963373186842,-4.286575685411481],"tag":"ne corner"},{"pixel":[1200.0,650.0],"latlng":[55.87750764705907,-4.288712739944458],"tag":"se corner"},{"pixel":[0.0,650.0],"latlng":[55.879720772964504,-4.295709957212419],"tag":"sw corner"}],"empty":false},"markers":[],"items":[{"id":"50","description":"Toilets","latlng":[55.87910251441543,-4.2878007888793945],"marker":"toilets"},{"id":"51","description":"Tea in the Botanics","latlng":[55.879271024875194,-4.288895130157471],"marker":"cafe"},{"id":"201","description":"Kibble Palace","latlng":[55.87884372907096,-4.289045333862305],"marker":"trail"},{"id":"202","description":"Main Range","latlng":[55.87930111595177,-4.290289878845215],"marker":"trail"},{"id":"401","description":"Weeping Ash","latlng":[55.878681235066054,-4.290601015090942],"marker":"trail"}],"bounds":{"tl":[55.880769532147305,-4.293422698974609],"br":[55.87717061010022,-4.285976886749268]},"zoom":{"min":17,"max":19,"start":17},"sizes":{"min":0.5,"max":2.0,"threshold":1.0},"showLocation":false,"cluster":false,"metaData":{"index":["501"]}}]},"images":[{"id":"begonia-sample.jpg","width":640,"height":640,"metaData":{},"tags":[]},{"id":"weeping-ash.jpg","width":377,"height":491,"metaData":{},"tags":[]},{"id":"main-range.jpg","width":754,"height":442,"metaData":{},"tags":[]},{"id":"curators-house.jpg","title":"","description":"","width":654,"height":459,"metaData":{"tag":[""]},"tags":[""]},{"id":"kibble-palace.jpg","width":1024,"height":683,"metaData":{},"tags":[]},{"id":"botanic-flower.jpg","width":731,"height":1024,"metaData":{},"tags":[]},{"id":"botanics1200optpsCOL.png","width":1200,"height":650,"metaData":{},"tags":[]}],"audioClips":[],"pages":[{"id":0,"title":"Botanic Gardens","guideName":"cilogi-sample","image":"botanic-flower.jpg","pageLinks":[{"type":"page","value":"201"},{"type":"map","value":"map1"},{"type":"tour","value":"trail"}],"metaData":{},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":201,"title":"Kibble Palace (1873)","guideName":"cilogi-sample","image":"kibble-palace.jpg","pageLinks":[],"metaData":{"tag":["trail"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":202,"title":"Main Range of Glasshouses (1883)","guideName":"cilogi-sample","image":"main-range.jpg","pageLinks":[],"metaData":{"tag":["trail"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""},{"id":401,"title":"Weeping Ash","guideName":"cilogi-sample","image":"weeping-ash.jpg","pageLinks":[],"metaData":{"tag":["trail"]},"etag":"d41d8cd98f00b204e9800998ecf8427e","text":""}],"tours":[{"id":"trail","title":"The Botanics Trail","background":"begonia-sample.jpg","description":"This tour of the main sights of the gardens will take about 1 hour.","stops":[{"id":201,"intro":"","title":"Kibble Palace (1873)"},{"id":401,"intro":"","title":"Weeping Ash"},{"id":202,"intro":"","title":"Main Range of Glasshouses (1883)"}],"metaData":{"index":[""]}}],"etags":{},"listings":[{"id":"trail","type":"image","title":"The Botanics Trail in Pictures","description":"","tags":["trail"],"metaData":{}}],"shop":{"storeCurrency":"GBP","skus":[]},"editors":[{"id":"tim@timniblett.netcilogi-sample","role":"owner","email":"tim@timniblett.net","guide":"cilogi-sample"}],"deployed":true,"configName":"config.json"}
+{"name": "cilogi-sample", "guideSpecVersion": "1", "config": {
+    "title": "Sample",
+    "blogs": ["blogs/"],
+    "theme": "jqm",
+    "analyticsKey": "",
+    "copyright": "",
+    "attribution": "",
+    "uiTheme": "w",
+    "email": "",
+    "showKeypad": true,
+    "listview": [],
+    "latlng": [55.877974, -4.289899],
+    "shared": true,
+    "permissions": {
+        "permissions": {}
+    },
+    "templates": {},
+    "compile": {
+        "isCompress": false,
+        "isOffline": false,
+        "offline": false,
+        "compress": false
+    },
+    "filesize": {
+        "max": 120,
+        "except": ["*.html", "scripts/*", "styles/*"]
+    },
+    "imageDisplay": "image-display:contain"
+}, "title": "Sample", "owner": "TimN", "servingVersion": "1", "versions": ["1"], "link": {
+    "linkType": "Online",
+    "userID": 0,
+    "url": "",
+    "userName": "timN",
+    "valid": true
+}, "diagrams": {
+    "markers": [
+        {
+            "id": "default",
+            "icon": "fa-star",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "",
+            "shape": "square"
+        },
+        {
+            "id": "toilets",
+            "icon": "fa-toilets",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Toilets",
+            "shape": "square"
+        },
+        {
+            "id": "cafe",
+            "icon": "fa-coffee",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Cafe",
+            "shape": "square"
+        },
+        {
+            "id": "playground",
+            "icon": "fa-child",
+            "iconColor": "white",
+            "color": "red",
+            "theme": "Playground",
+            "shape": "square"
+        },
+        {
+            "id": "trail",
+            "icon": "fa-leaf",
+            "iconColor": "white",
+            "color": "green",
+            "theme": "Botanics Trail",
+            "shape": "square"
+        }
+    ],
+    "diagrams": [
+        {
+            "name": "map1",
+            "title": "Map of the Botanic Gardens",
+            "provider": "osm",
+            "image": {
+                "src": "botanics1200optpsCOL.png",
+                "opacity": 0.0,
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.881846736578304, -4.2935729026794425],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.87963373186842, -4.286575685411481],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.87750764705907, -4.288712739944458],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.879720772964504, -4.295709957212419],
+                        "tag": "sw corner"
+                    }
+                ],
+                "empty": false
+            },
+            "markers": [],
+            "items": [
+                {
+                    "id": "50",
+                    "description": "Toilets",
+                    "latlng": [55.87910251441543, -4.2878007888793945],
+                    "marker": "toilets"
+                },
+                {
+                    "id": "51",
+                    "description": "Tea in the Botanics",
+                    "latlng": [55.879271024875194, -4.288895130157471],
+                    "marker": "cafe"
+                },
+                {
+                    "id": "201",
+                    "description": "Kibble Palace",
+                    "latlng": [55.87884372907096, -4.289045333862305],
+                    "marker": "trail"
+                },
+                {
+                    "id": "202",
+                    "description": "Main Range",
+                    "latlng": [55.87930111595177, -4.290289878845215],
+                    "marker": "trail"
+                },
+                {
+                    "id": "401",
+                    "description": "Weeping Ash",
+                    "pixel": [775, 487],
+                    "marker": "trail"
+                }
+            ],
+            "bounds": {
+                "tl": [55.880769532147305, -4.293422698974609],
+                "br": [55.87717061010022, -4.285976886749268]
+            },
+            "zoom": {
+                "min": 17,
+                "max": 19,
+                "start": 17
+            },
+            "sizes": {
+                "min": 0.5,
+                "max": 2.0,
+                "threshold": 1.0
+            },
+            "showLocation": false,
+            "cluster": false,
+            "metaData": {
+                "index": ["501"]
+            }
+        }
+    ]
+}, "images": [
+    {
+        "id": "begonia-sample.jpg",
+        "width": 640,
+        "height": 640,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "weeping-ash.jpg",
+        "width": 377,
+        "height": 491,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "main-range.jpg",
+        "width": 754,
+        "height": 442,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "curators-house.jpg",
+        "title": "",
+        "description": "",
+        "width": 654,
+        "height": 459,
+        "metaData": {
+            "tag": [""]
+        },
+        "tags": [""]
+    },
+    {
+        "id": "kibble-palace.jpg",
+        "width": 1024,
+        "height": 683,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanic-flower.jpg",
+        "width": 731,
+        "height": 1024,
+        "metaData": {},
+        "tags": []
+    },
+    {
+        "id": "botanics1200optpsCOL.png",
+        "width": 1200,
+        "height": 650,
+        "metaData": {},
+        "tags": []
+    }
+], "audioClips": [], "pages": [
+    {
+        "id": 0,
+        "title": "Botanic Gardens",
+        "guideName": "cilogi-sample",
+        "images": ["botanic-flower.jpg"],
+        "pageLinks": [
+            {
+                "type": "page",
+                "value": "201"
+            },
+            {
+                "type": "map",
+                "value": "map1"
+            },
+            {
+                "type": "tour",
+                "value": "trail"
+            }
+        ],
+        "metaData": {},
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 201,
+        "title": "Kibble Palace (1873)",
+        "guideName": "cilogi-sample",
+        "images": ["kibble-palace.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 202,
+        "title": "Main Range of Glasshouses (1883)",
+        "guideName": "cilogi-sample",
+        "images": ["main-range.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    },
+    {
+        "id": 401,
+        "title": "Weeping Ash",
+        "guideName": "cilogi-sample",
+        "images": ["weeping-ash.jpg"],
+        "pageLinks": [],
+        "metaData": {
+            "tag": ["trail"]
+        },
+        "etag": "d41d8cd98f00b204e9800998ecf8427e",
+        "text": ""
+    }
+], "tours": [
+    {
+        "id": "trail",
+        "title": "The Botanics Trail",
+        "background": "begonia-sample.jpg",
+        "description": "This tour of the main sights of the gardens will take about 1 hour.",
+        "stops": [
+            {
+                "id": "201",
+                "intro": "",
+                "title": "Kibble Palace (1873)"
+            },
+            {
+                "id": "401",
+                "intro": "",
+                "title": "Weeping Ash"
+            },
+            {
+                "id": "202",
+                "intro": "",
+                "title": "Main Range of Glasshouses (1883)"
+            }
+        ],
+        "metaData": {
+            "index": [""]
+        }
+    }
+], "etags": {}, "listings": [
+    {
+        "id": "trail",
+        "type": "image",
+        "title": "The Botanics Trail in Pictures",
+        "description": "",
+        "tags": ["trail"],
+        "metaData": {}
+    }
+], "shop": {
+    "storeCurrency": "GBP",
+    "skus": []
+}, "editors": [
+    {
+        "id": "tim@timniblett.netcilogi-sample",
+        "role": "owner",
+        "email": "tim@timniblett.net",
+        "guide": "cilogi-sample"
+    }
+], "deployed": true, "configName": "config.json"}

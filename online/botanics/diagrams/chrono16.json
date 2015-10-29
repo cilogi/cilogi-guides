@@ -1,0 +1,18 @@
+{
+    "name" : "chrono16",
+    "title": "Chronological border 16th Century",
+
+    "markers": [{"id" : "red", "color": "red", "icon": "fa-star", "theme": "Plant"}],
+
+    "image": {"src" : "chronological-c16.jpg"},
+
+    "items": [{ "id": "401", "description": "Geranium Macrorrhizum", "pixel": [468,626], "marker": "red"},
+              { "id": "402", "description": "Lychnis Chalcedonica", "pixel": [854,600], "marker": "red"}],
+
+    "prevMap": "map1",
+
+    "zoom": {"min" : 1, "max": 4, "start": 1},
+    "sizes": {"min": 1, "max": 1.7, "threshold": 0.5},
+    "layer": 1,
+    "metaData": {"index": [400]}
+}
