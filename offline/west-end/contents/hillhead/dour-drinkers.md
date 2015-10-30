@@ -17,7 +17,6 @@ love affair, a theological wrangle, or
 a literary controversy.
 I have never been able, despite
 repeated efforts, to understand the
-
 periodicity of those complaints
 against the Scottish pub which have
 been made during the past half
@@ -39,7 +38,6 @@ that narrow sawdust-filled trough
 which serves as a comprehensive
 combined ash-tray, litter-bin, and
 cuspidor. So it was when I first began
-
 to drink nearly fifty years ago; so it
 still is for the most part. Certainly
 nowadays, in addition to the common
@@ -170,6 +168,7 @@ any kind as our deadliest enemy.
 There are, of course, clubs and hotels,
 but _hoi polloi_ have nothing
 to do with either of these.
+
 Only a few years ago there were
 also Burns Clubs which took advantage
 of a loophole in the law
@@ -204,6 +203,7 @@ of a club could otherwise get a
 drink in Glasgow on Sundays. (It
 was — and is still — jolly difficult
 to get a meal even.)
+
 During these two wars there
 were all kinds of interferences with
 the incidence and duration of the
@@ -298,6 +298,7 @@ conventionality a mile thick) of
 _l'humour noir_ and, as William Blake
 said, "All poets are of the devil's
 party."
+
 There is a well-known story about
 Carlyle and Emerson spending several
 hours together without exchanging
@@ -439,7 +440,7 @@ soak.
 
 Elsewhere I have summed up my
 regard for Glasgow in a brief poem
-"Placenta Previa" which runs:
+"_Placenta Previa_" which runs:
 
 "It'll be no easy matter to keep the
 dirt in its place
@@ -578,7 +579,7 @@ no similar case was cited in any
 medical or scientific book known to
 them.
 
-I have bever succeeded in solving
+I have never succeeded in solving
 the mystery or getting any light
 on it at all. But it can certainly
 serve as a parable of much that has
