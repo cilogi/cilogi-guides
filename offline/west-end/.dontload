@@ -1,7 +1,5 @@
 # File not to load on the initial load
-.hg/*
-.hgignore
-.hgtags
+.git/
 *.picasa.ini
 *.jar
 *.bat

@@ -1,0 +1,1 @@
+* [The West End Trail](tours/hillhead-trail)

@@ -25,11 +25,9 @@
     "theme" : "jqm",
     "uiTheme" : "w",
     "email": "tim.niblett@cilogi.com",
-    "defaultTour": "botanics-trail",
+    "defaultTour": "hillhead-trail",
     "showKeypad": true,
-    "permissions" : {
-        "2" : ["tim.niblett@cilogi.com", "tim@timniblett.net"],
-        "3" : ["tim@timniblett.net"]
-    }
+    "shared": false,
+    "latlng": [55.875296,-4.293593]
 
 }
