@@ -1,0 +1,8 @@
+# File not to load on the initial load
+.git/
+*.picasa.ini
+*.jar
+*.bat
+*.*~
+seq.html
+*.psd

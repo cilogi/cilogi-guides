@@ -1,0 +1,33 @@
+{
+    "title": "Glasgow Botanic Gardens",
+    "filesize" : {
+        "max" : 120,
+        "except" : [
+                "*.html",
+                "*.json",
+                "*js/*",
+                "*css/*",
+                "*scripts/*",
+                "*styles/*"
+        ]
+    },
+    "blogs" : [
+            "blog/"
+    ],
+    "templates" : {
+        "*.md":      "md.ftl"
+     },
+    "listview" : [
+            "contents/plants/index.html",
+            "contents/trail/index.html",
+            "contents/plants/economic/index.html"
+    ],
+    "theme" : "jqm",
+    "uiTheme" : "w",
+    "email": "tim.niblett@cilogi.com",
+    "defaultTour": "hillhead-trail",
+    "showKeypad": true,
+    "shared": false,
+    "latlng": [55.875296,-4.293593]
+
+}
