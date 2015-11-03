@@ -1,4 +1,5 @@
 index: 108
+location: 55.874495,-4.285409
 
 # Hillhead High School
 

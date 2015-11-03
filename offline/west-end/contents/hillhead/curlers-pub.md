@@ -1,4 +1,5 @@
 index: 101
+location: 55.875327,-4.293582
 
 # Curler's Rest (formerly Curlers Tavern)
 
@@ -23,6 +24,6 @@ the pen-name of Christopher Murray Grieve (1892-1978), one of
 Scotland's most well known and influential poets.  MacDiarmid lived in
 Glasgow in the 1930s and 40s. He was a Communist and a founder of the
 SNP. A taste of what it was like to drink in Glasgow at that time can
-be found in his letter [_The Dour Drinkers of Glasgow_](dour-drinkers.html) which you can read in
-this guide.
+be found in his letter [_The Dour Drinkers of Glasgow_](dour-drinkers.html)
+which you can read in this guide.
 

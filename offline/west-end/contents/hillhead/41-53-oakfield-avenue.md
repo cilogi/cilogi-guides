@@ -1,4 +1,5 @@
 index: 107
+location: 55.874059,-4.284613
 
 # Eton Terrace, 41-43 Oakfield Avenue
 
