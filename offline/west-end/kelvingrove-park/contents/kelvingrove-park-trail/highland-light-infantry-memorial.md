@@ -3,7 +3,7 @@ location: 55.870274,-4.283830
 
 # Highland Light Infantry Memorial
 
-![Highlan Light Infantry Memorial](highland-light-infantry-mem.jpg)
+![Highland Light Infantry Memorial](highland-light-infantry-mem.jpg)
 
 Leading Scots sculptor William Birnie Rhind was responsible for this
 1906 naturalistic memorial to the HLI soldiers who died on various
