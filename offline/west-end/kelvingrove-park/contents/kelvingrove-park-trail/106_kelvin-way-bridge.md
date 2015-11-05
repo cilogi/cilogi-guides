@@ -3,6 +3,7 @@ location: 55.868124,-4.287601
 
 # Kelvin Way Bridge
 
+![Kelvin Way Bridge](kelvin-way-bridge.jpg)
 ![Kelvin Way Bridge Sculptures](kelvin-way-bridge-sculptures.jpg)
 
 Of all the many crossings of the Kelvin, this bridge has the most
