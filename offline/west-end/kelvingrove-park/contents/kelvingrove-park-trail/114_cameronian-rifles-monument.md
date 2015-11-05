@@ -52,7 +52,7 @@ An early description of the Cameronians:
 > never conquered. Great numbers of them have lost their lives, but
 > few or none of them ever yielded.”
 
-![Cameronian Cap Badge](cameronian-badge.gif)
+![Cameronian Cap Badge with Star and Bugle](cameronian-badge.gif)
 
 In 1881 the 90th, The Perthshire Light Infantry, the _Perthshire Grey
 Breeks_, linked to the Cameronians as the 2nd Battalion. The
@@ -62,7 +62,7 @@ first Colonel, and the bugle for the Perthshire Light Infantry.
 In the first World War the first Battalion left for France in August
 1914 and took part in the Battle of Mons, and the retreat to Paris.
 The 2nd Battalion arrived from Malta and was almost wiped out at the
-Battle of Neuve Chapelle, and again at teh Battle of Fromelles.
+Battle of Neuve Chapelle, and again at the Battle of Fromelles.
 
 The Regiment had 19 holders of the Victoria Cross
 
