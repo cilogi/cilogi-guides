@@ -5,13 +5,20 @@ location: 55.870274,-4.283830
 
 ![Highland Light Infantry Memorial](highland-light-infantry-mem.jpg)
 
-Leading Scots sculptor William Birnie Rhind was responsible for this
-1906 naturalistic memorial to the HLI soldiers who died on various
-South African campaigns at the start of the 20th century. Rhind was
-best known for work in his native Edinburgh (in Princes Street
-Gardens, in St Giles, and on the facades of the Scotsman, Jenners and
-Portrait Gallery buildings), but also had commissions as far away as
-Australia and Canada. His interpretation of an infantryman clambering
-over a rock was the first of several dynamic military monuments in
-Kelvingrove Park (although it was first proposed to be situated in
-Glasgow Green).
+This sculpture is by William Birnie Rhind (1853-1933) created in 1906.
+
+It is a memorial to the Highland Light Infantry soldiers who died in
+the South African Campaigns.
+
+This sculpture was the first military monument to be located in the
+park.
+
+Rhind is better known for his works in Edinburgh, which are many.
+Other works in Glasgow include: the allegorical figures on Charing
+Cross Mansions (1889-91); Cumming & Smith's Furniture Warehouse,
+128-52 Sauchiehall Street (1891-2); the sculpture on the former Sun
+Life Building, 117-21 West George Street (1889-94); the statue
+representing Science on Kelvingrove Art Gallery (1898); and the
+figures and heraldic panel on the former National Bank of Scotland,
+2-4 Glassford Street (1902-3).
+
