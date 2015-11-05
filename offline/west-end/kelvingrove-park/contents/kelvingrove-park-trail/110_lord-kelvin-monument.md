@@ -4,20 +4,43 @@ tag: statue
 
 # Lord Kelvin Monument
 
-Dedicated to Sir William Thomson, Baron Kelvin of Largs, perhaps the
-most celebrated scientist and academic of his generation, this bronze
-monument was undertaken by Archibald Macfarlane Shannan shortly after
-the great man's death in 1908. William Thomson moved from his native
-Belfast when his father became Professor of Mathematics at the
-University of Glasgow. He himself enrolled in the university at age
-ten, became Professor of Natural Philosophy (now Physics) at 22, and
-was knighted for his achievements at 44. In a career lasting more than
-fifty years, the prolific Lord Kelvin not only developed important
-thermodynamic and electrodynamic theories, but also applied his
-inventive mind to practical inventions such as the design of a marine
-compass and other instruments, the development of the first
-transatlantic cable and early applications of electricity. Lord Kelvin
-held more than fifty patents, published widely, and received a raft of
-awards and honours, though is perhaps best remembered for determining
-the temperature of Absolute Zero, now known as the Kelvin Scale. He
-was buried in Westminster Abbey (between Newton and Darwin!).
+![Lord Kelvin Monument](lord-kelvin-monument.jpg)
+
+Lord Kelvin -- Sir William Thompson, 1st Baron Kelvin of Largs --
+lived between 1824 and 1907. He was born in Belfast and was a
+mathematical physicist.
+
+At the University of Glasgow he did important work in the mathematical
+analysis of electricity and formulation of the first and second laws
+of thermodynamics, and did much to unify the emerging discipline of
+physics as we know it today.
+
+Absolute temperatures are stated in units of Kelvin in his
+honour. While the existence of a lower limit to temperature (absolute
+zero) was known prior to his work, Lord Kelvin is known for
+determining its correct value as approximately −273.15 degree Celsius
+or −459.67 degree Fahrenheit.
+
+He also had a career as an electric telegraph engineer and inventor,
+which propelled him into the public eye and ensured his wealth, fame
+and honour. For his work on the transatlantic telegraph project he was
+knighted by Queen Victoria, becoming Sir William Thomson.
+
+He was ennobled in 1892 in recognition of his achievements in
+thermodynamics, and of his opposition to Irish Home Rule,
+becoming Baron Kelvin, of Largs in the County of Ayr. He was the first
+British scientist to be elevated to the House of Lords.
+
+[More about Lord Kelvin on Wikipedia](/wiki/William_Thomson,_1st_Baron_Kelvin)
+
+---
+
+The statue was sculpted by Archibald Macfarlane Shannan (1850-1915)
+and cast by J W Singer.  The granite on which the statue rests is from
+[Creetown][1].
+
+Shannan's other works in Glasgow include: The Ross Taylor Memorial,
+Kelvinside UF Church (1909, now Oran Mor) and the seated statue of
+Mrs Isabella Elder, Elder Park, Govan (1905). 
+
+[1]: /wiki/Creetown

@@ -6,33 +6,23 @@ tag: statue
 
 ![Carlyle Monument](carlyle-monument.jpg)
 
-Across the Prince of Wales Bridge from the anonymous soldier of the
-HLI, stands one of Victorian Scotland's greatest men of letters,
-Thomas Carlyle.
+Thomas Carlyle (1795-1881) was a Scottish writer and Historian.  He
+was born in Ecclefeachan, Dumfriesshire. He went to University in
+Edinburgh and moved to London in 1831.
 
-Sculpted out of three massive blocks of grey granite
-by Glasgow artist William Kellock Brown, this unusual bust has
-Carlyle's head, shoulders and arms emerging nobly from the coarsely
-cleft stone.
+His 1837 _The Frech Revolution: A History_ was the inspiration for
+Dickens' _A Tale of Two Cities_.  His novel _Sartor Resartus_ was one
+of the finest of the 19th century.
 
-Although the Dumfriesshire-born and Chelsea-based writer
-died in 1881, it was not until 1911 that the memorial was commissioned
-(and was not unveiled for another five years).
+The statue is made from 3 blocks of grey granite by
+[William Kellock Brown][1].  The memorial was commissioned in 1911, 30
+years after his death.
 
-Carlyle was one of
-19th-century Britain's most influential writers and commentators, best
-known for his translations of the German Romantics, his history of the
-French Revolution, his biographies of Cromwell and Frederick the
-Great, and his essays on Chartism and the Reform Act.
+![Carlyle by Whistler](whistler-portrait-carlyle.jpg)
 
-Apparently he
-had no particular link with Glasgow other than his portrait by
-Whistler, whose purchase by the City Corporation became a major
-turning point in the struggling artist's career (and a major factor
-for the bequest of the bulk of the Whistler estate to the University
-of Glasgow many years later).
+Carlyle had no link with Glasgow apart from his portrait by
+[Whistler][2] which is the Kelvingrove Art Gallery and Museum.
 
-Unfortunately, petty vandalism has been
-a persistent problem for many of Kelvingrove's fine monuments; over
-the past decade or so, Carlyle's granite nose has been hacked off and
-repaired on numerous occasions.
+
+[1]: /wiki/William_Kellock_Brown
+[2]: /wiki/James_Abbott_McNeill_Whistler
