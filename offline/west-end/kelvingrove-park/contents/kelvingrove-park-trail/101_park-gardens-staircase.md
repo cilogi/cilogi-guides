@@ -3,12 +3,14 @@ location: 55.868247,-4.280204
 
 # Park Gardens Staircase
 
-Architect Charles Wilson's grand entrance to his Park Circus
-development was originally planned for the westerly Park Gate entrance
-to Kelvingrove, as part of an axial route leading down to a proposed
-new bridge over the river. For some unknown reason, in Wilson's
-revised scheme of 1855 the staircase was relocated to a less prominent
-site at Park Gardens. Constructed of grey Bonawe granite from Argyll,
-Wilson's imposing staircase and balustrades are reputed to have cost a
-staggering £10,000. Unfortunately, this exorbitant sum forced the
-omission of planned statues on the main piers.
+![park Gardens Staircase](park-gardens-staircase.jpg)
+
+These imposing stairs are built from grey Bonawe granite from Argyll in 1853-4.
+
+The architect was [Charles Wilson][1] who was a principal architect of the
+park area of Glasgow. His design for 22 Park Circus was executed after his death.
+
+The cost of the stairs was reputed to be £10,000, which was a large sum at
+this time.
+
+[1]: /wiki/Charles_Wilson_(Scottish_architect)

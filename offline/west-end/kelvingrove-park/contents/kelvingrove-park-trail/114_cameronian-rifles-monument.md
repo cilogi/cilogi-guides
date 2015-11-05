@@ -52,7 +52,7 @@ An early description of the Cameronians:
 > never conquered. Great numbers of them have lost their lives, but
 > few or none of them ever yielded.”
 
-![Cameronian Cap Badge](cameronian-badge-gif)
+![Cameronian Cap Badge](cameronian-badge.gif)
 
 In 1881 the 90th, The Perthshire Light Infantry, the _Perthshire Grey
 Breeks_, linked to the Cameronians as the 2nd Battalion. The

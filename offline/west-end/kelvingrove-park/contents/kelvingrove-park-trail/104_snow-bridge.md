@@ -1,17 +1,17 @@
 index: 104
-location: 55.869785,-4.293582
+location: 55.869799,-4.293571
 
-# Snow Bridge
+# The Snowbridge
 
-The Snow Bridge, built around 1800 as part of the new turnpike from
-Glasgow to Yoker, is probably the oldest surviving river crossing
-downstream from the Kelvin Aqueduct at Maryhill. Constructed in local
-cream sandstone (now ivy-clad), this simple structure has three arches
-over the river and another, smaller arch over the old Bunhouse Mill
-lade. It has long been known as the Snow Bridge due to its central
-gates in the parapet railings that enabled cleansing carts to dump
-snow into the river after heavy storms. Due to the tight curves of the
-approaches off Dumbarton Road, the bridge was deemed unsuitable for
-the new tram network implemented in the 1870s. Thus it was soon
-superseded by Partick Bridge (built in 1878) and relegated to
-pedestrian use within the new Kelvingrove Park.
+![The Snowbridge](snowbridge.jpg)
+
+This bridge is the original Partick Bridge from 1800.  Dumbarton Road
+crossed here before the new bridge was opened in 1878.
+
+The bridge is a triple-arched droved ashlar masonry bridge with
+pilasters and stone cut waters.  An extra arch is provided for
+Bunhouse Mill Lade.
+
+Its called the _Snowbridge_ because gates on the south side used open,
+allowing snow to be swept into the Kelvin below.
+

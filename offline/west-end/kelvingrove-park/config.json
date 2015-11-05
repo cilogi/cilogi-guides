@@ -1,5 +1,5 @@
 {
-    "title": "Glasgow Botanic Gardens",
+    "title": "Kelvingrove Park",
     "filesize" : {
         "max" : 120,
         "except" : [
@@ -26,6 +26,7 @@
     "uiTheme" : "w",
     "email": "tim.niblett@cilogi.com",
     "defaultTour": "hillhead-trail",
+    "mapTitle": "Kelvingrove",
     "showKeypad": true,
     "shared": false,
     "latlng": [55.875296,-4.293593]

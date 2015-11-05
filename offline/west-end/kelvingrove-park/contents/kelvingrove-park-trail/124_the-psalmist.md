@@ -5,12 +5,14 @@ sku: 0903065371
 
 # The Psalmist
 
+![The Psalmist by Benno Schotz](the-psalmist.jpg)
+
 This is a 1972 sculpture by [Benno Schotz][1] which was commissioned by
 the Glasgow Tree Lovers Society and Glasgow Art Gallery and Museums
 Association.
 
 The work forms part of the memorial garden to [Tom Honeyman][2] who
-was Director of the Kelvingove Gallery from 1939.  Among many
+was Director of the Kelvingrove Gallery from 1939.  Among many
 achievements he was responsible for the purchase of Dali's
 [Christ of St. John of the Cross][3]
 
