@@ -15,3 +15,7 @@ rail network.
 
 Hillhead station was modernised in 2012.  Part of the modernization
 includes a mural by Alasdair Gray in the Foyer.
+
+[Alasdair Gray on Wikipedia][1]
+
+[1]: /wiki/Alasdair_Gray

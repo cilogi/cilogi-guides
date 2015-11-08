@@ -1,1 +1,2 @@
-* [The West End Trail](tours/hillhead-trail)
+* [Home](index.html)
+* [The Hillhead Trail](tours/hillhead-trail)

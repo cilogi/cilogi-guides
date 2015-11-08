@@ -2,6 +2,6 @@ index: 0
 listview : true
 background: gilbert-scott.jpg
 
-# Glasgow West End
+# Glasgow Hillhead
 
-* [The West End Trail](tours/hillhead-trail)
+* [The Hillhead Trail](tours/hillhead-trail)
