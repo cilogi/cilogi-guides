@@ -1,5 +1,5 @@
 index: 117
-location: 55.868265-4.291487
+location: 55.868265,-4.291487
 
 # The Italian Gardens
 

@@ -27,8 +27,8 @@
     "email": "tim.niblett@cilogi.com",
     "defaultTour": "hillhead-trail",
     "mapTitle": "Kelvingrove",
-    "showKeypad": true,
-    "shared": false,
+    "showKeypad": false,
+    "shared": true,
     "latlng": [55.875296,-4.293593]
 
 }

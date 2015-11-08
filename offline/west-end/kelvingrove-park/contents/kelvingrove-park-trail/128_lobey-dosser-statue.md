@@ -24,3 +24,5 @@ placed in Partick Station in 2011.  This was sculpted by MacColl
 himself.
 
 ![G.I. Bride](gi-bride.jpg)
+
+
