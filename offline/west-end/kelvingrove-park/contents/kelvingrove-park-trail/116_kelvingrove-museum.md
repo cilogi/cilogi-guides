@@ -1,4 +1,5 @@
 index: 116
+location: 55.868393,-4.291124
 
 # Kelvingrove Museum and Art Gallery
 

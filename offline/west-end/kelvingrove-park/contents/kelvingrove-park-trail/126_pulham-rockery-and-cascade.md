@@ -1,5 +1,5 @@
 index: 126
-location:
+location: 55.870560,-4.285030
 
 # The Pulham Rockery and Cascade
 

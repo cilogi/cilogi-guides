@@ -29,7 +29,7 @@
     "mapTitle": "Kelvingrove",
     "showKeypad": false,
     "shared": true,
-    "latlng": [55.875296,-4.293593],
+    "latlng": [55.870307, -4.284043],
     "bounds": {"tl": [55.872539, -4.294827], "br": [55.866459, -4.278985]}
 
 }

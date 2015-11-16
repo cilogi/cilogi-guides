@@ -5,12 +5,22 @@ location: 55.870586,-4.291754
 
 ![Port Sunlight Cottages](port-sunlight-cottages.jpg)
 
-These cottages were built for the [1901 International Exhibition][2].  They
+The cottages were built for the [1901 International Exhibition][2]. They
 are in the style of the model housing created by Lever Brothers
 Ltd. (now Unilever) for their workers at Port Sunlight near Liverpool.
 
+Lever Brothers made a new type of soap invented by William Hough Watson, a Bolton chemist.
+
+The soap formula used glycerin and vegetable oils, including Palm Oil, rather than
+tallow -- an animal fat.
+They made hundreds of tons of soap each week.
+It was called Sunlight Soap.
+Here is an advertisement for Sunlight Soap from 1915
+
+![Sunlight Soap, First World War Advertisement](sunlight-soap.jpg)
+
 The cottages were designed by [James Miller][1] and given to Glasgow
-Council by Lever Bothers after the exhibition closed.  James Miller
+Council by Lever Brothers after the exhibition closed.  James Miller
 was a prolific Glasgow architect.  His first commission was the
 Belmont Church, in Great George Street, now derelict and due for
 redevelopment.
