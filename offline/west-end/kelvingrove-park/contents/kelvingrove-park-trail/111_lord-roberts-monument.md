@@ -1,6 +1,7 @@
 index: 111
 location: 55.870320,-4.281850
 tag: statue
+marker: sculpture
 
 # Lord Roberts Monument
 

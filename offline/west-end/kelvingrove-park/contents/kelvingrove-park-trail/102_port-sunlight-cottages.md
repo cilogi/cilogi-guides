@@ -1,5 +1,6 @@
 index: 102
 location: 55.870586,-4.291754
+marker: building
 
 # The Port Sunlight Cottages
 

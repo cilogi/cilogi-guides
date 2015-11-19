@@ -1,6 +1,7 @@
 index: 110
 location: 55.869760,-4.287027
 tag: statue
+marker: sculpture
 
 # Lord Kelvin Monument
 

@@ -1,5 +1,6 @@
 index: 113
 location: 55.869546,-4.287705
+marker: sculpture
 
 # Statue of Lord Lister
 

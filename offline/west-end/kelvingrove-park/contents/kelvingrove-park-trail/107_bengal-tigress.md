@@ -1,6 +1,7 @@
 index: 107
 location: 55.867831,-4.282674
 tag: statue
+marker: sculpture
 
 # Bengal Tigress
 

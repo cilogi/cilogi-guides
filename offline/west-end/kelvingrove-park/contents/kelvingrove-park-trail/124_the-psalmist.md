@@ -2,6 +2,7 @@ index: 124
 location: 55.869401,-4.288171
 tag: statue
 sku: 0903065371
+marker: sculpture
 
 # The Psalmist
 

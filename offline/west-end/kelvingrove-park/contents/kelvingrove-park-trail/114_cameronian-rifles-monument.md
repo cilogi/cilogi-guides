@@ -1,6 +1,7 @@
 index: 114
 location: 55.869385,-4.292208
 tag: statue
+marker: sculpture
 
 # Cameronian Rifles Memorial
 

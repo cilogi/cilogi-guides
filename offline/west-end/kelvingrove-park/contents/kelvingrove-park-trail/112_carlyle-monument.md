@@ -1,6 +1,7 @@
 index: 112
 location: 55.870552,-4.284892
 tag: statue
+ marker: sculpture
 
 # Carlyle Monument
 

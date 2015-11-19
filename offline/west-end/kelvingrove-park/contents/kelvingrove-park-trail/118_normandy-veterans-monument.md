@@ -1,5 +1,6 @@
 index: 118
 location: 55.869431,-4.291812
+marker: sculpture
 
 # Normandy Veterans Monument
 

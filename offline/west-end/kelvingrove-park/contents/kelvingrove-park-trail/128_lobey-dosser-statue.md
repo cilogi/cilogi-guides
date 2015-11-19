@@ -1,8 +1,9 @@
 index: 128
 location: 55.869809,-4.275301
 tag: statue
+marker: sculpture
 
-# Lobey Dosser Statue
+# Lobey Dosser
 
 ![Lobey Dosser](lobey-dosser-statue.jpg)
 
