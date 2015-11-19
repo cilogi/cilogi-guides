@@ -10,7 +10,7 @@
     "showKeypad": true,
     "listview": [],
     "latlng": [55.877974, -4.289899],
-    "shared": true,
+    "shared": false,
     "permissions": {
         "permissions": {}
     },
@@ -220,7 +220,7 @@
         "id": 0,
         "title": "Botanic Gardens",
         "guideName": "cilogi-sample",
-        "images": ["botanic-flower.jpg"],
+        "images": [{"src": "botanic-flower.jpg"}],
         "pageLinks": [
             {
                 "type": "page",
@@ -243,7 +243,7 @@
         "id": 201,
         "title": "Kibble Palace (1873)",
         "guideName": "cilogi-sample",
-        "images": ["kibble-palace.jpg"],
+        "images": [{"src": "kibble-palace.jpg"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["trail"]
@@ -255,7 +255,7 @@
         "id": 202,
         "title": "Main Range of Glasshouses (1883)",
         "guideName": "cilogi-sample",
-        "images": ["main-range.jpg"],
+        "images": [{"src": "main-range.jpg"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["trail"]
@@ -267,7 +267,7 @@
         "id": 401,
         "title": "Weeping Ash",
         "guideName": "cilogi-sample",
-        "images": ["weeping-ash.jpg"],
+        "images": [{"src": "weeping-ash.jpg"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["trail"]

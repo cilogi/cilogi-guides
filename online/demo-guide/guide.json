@@ -95,7 +95,7 @@
         "id": 0,
         "title": "Hello World",
         "guideName": "demo-guide",
-        "image": "botanic-flower.jpg",
+        "images": [{"src": "botanic-flower.jpg", "alt": "Flower"}],
         "pageLinks": [
             {
                 "type": "tour",
@@ -110,7 +110,7 @@
         "id": 1,
         "title": "Curator's House",
         "guideName": "demo-guide",
-        "image": "curators-house.jpg",
+        "images": [{"src": "curators-house.jpg", "alt": "Curator's House"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["sku:1908931515", "trail"]
@@ -122,7 +122,7 @@
         "id": 2,
         "title": "Sundial",
         "guideName": "demo-guide",
-        "image": "sundial.jpg",
+        "images": [{"src": "sundial.jpg", "alt": "Sundial"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["trail"]
@@ -134,7 +134,7 @@
         "id": 3,
         "title": "Kibble",
         "guideName": "demo-guide",
-        "image": "kibble-palace.jpg",
+        "images": [{"src": "kibble-palace.jpg", "alt": "Kibble Palace"}],
         "pageLinks": [],
         "metaData": {
             "tag": ["trail"]

@@ -27,6 +27,7 @@
     "email": "tim.niblett@cilogi.com",
     "defaultTour": "botanics-trail",
     "showKeypad": true,
+    "shared": false,
     "permissions" : {
         "2" : ["tim.niblett@cilogi.com", "tim@timniblett.net"],
         "3" : ["tim@timniblett.net"]
