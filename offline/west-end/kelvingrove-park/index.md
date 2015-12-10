@@ -1,6 +1,7 @@
 index: 0
 listview : true
 background: herbaceous-border-autumn.jpg
+description: A guide to Glasgow's Kelvingrove Park.
 
 # Kelvingrove Park
 

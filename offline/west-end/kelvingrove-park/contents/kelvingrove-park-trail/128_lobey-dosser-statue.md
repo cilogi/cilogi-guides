@@ -5,11 +5,11 @@ marker: sculpture
 
 # Lobey Dosser
 
-![Lobey Dosser](lobey-dosser-statue.jpg)
+![Bronze of Lobey Dosser](lobey-dosser-statue.jpg)
 
-This statue was created in 1992.  It is the world's only two-legged
-equestrian statue.  It shows Sheriff Lobey Dosser and his nemesis Rank
-Bajin riding Lobey's horse El Fideldo, better known as Elfie.
+This bronze was created in 1992.  It is the world's only statue of a two-legged
+horse.  It shows Sheriff Lobey Dosser and his nemesis Rank
+Bajin riding Lobey's horse El Fideldo, otherwise known as Elfie.
 
 > A Lobey Dosser, in the Glasgow vernacular, is someone who sleeps in the
 entrance to a tenement building -- literally _lobby sleeper_. In similar vein
