@@ -1,0 +1,18 @@
+{
+    "id": "local-trail",
+    "title": "Kelvingrove Park Local Trail",
+    "background": "carlyle-monument.jpg",
+    "description": "The trail starts at Kelvingrove Museum and takes about 90 minutes",
+    "stops": [
+        {
+            "id": "stop/1",
+            "title": "Park Gardens Staircase",
+            "location" : [55.868247,-4.280204],
+            "intro": "![Park Gardens Staircase](park-gardens-staircase.jpg)\n\nThe staircase was built from grey Bonawe granite from Argyll in 1853-4."
+        },
+        {
+            "id": "102",
+            "intro": "This is a comment, which should display OK"
+        }
+    ]
+}

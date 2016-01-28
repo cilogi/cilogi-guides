@@ -27,7 +27,7 @@
     "email": "tim.niblett@cilogi.com",
     "defaultTour": "hillhead-trail",
     "showKeypad": false,
-    "shared": false,
+    "shared": true,
     "latlng": [55.875296,-4.293593]
 
 }
