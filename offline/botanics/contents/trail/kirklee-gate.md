@@ -18,9 +18,9 @@ after the station closed.
 
 It was a two platform through station, with neat single
 storey red sandstone buildings. Though the down
-platform building was not particular1y unusual, the up
+platform building was not particularly unusual, the up
 platform building was supported at the rear on massive
-rustic walls, with recessed arches and had a little semioctagonal
+rustic walls, with recessed arches and had a little semi-octagonal
 porch at the east end. Kirklee Station closed
 on 1st May 1939, and the line closed down in October
 1964.The station was demolished in 1970.

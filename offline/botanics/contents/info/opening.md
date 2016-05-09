@@ -1,4 +1,4 @@
-index: 200
+index: 1700
 
 # Opening Times
 
@@ -9,6 +9,6 @@ facilities within the park are subject to opening times.
  
 [Glasshouses:](map/map1?id=3) 10.00am – 6.00pm (4.15pm in winter)
  
-[Visitor Centre:](map/map1?id=1) 11.00am – 4.00pm
+[Visitor Centre:](map/map1#1) 11.00am – 4.00pm
 
-[Toilets:](map/map1?id=50) 10.00am – dusk (this varies through the year)
+[Toilets:](map/map1#50) 10.00am – dusk (this varies through the year)

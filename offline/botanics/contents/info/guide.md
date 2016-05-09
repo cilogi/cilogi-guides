@@ -1,4 +1,4 @@
-index: 202
+index: 1702
 
 # Using this guide
 
@@ -35,8 +35,4 @@ From left to right these are:
     only one map.  If you touch the map button the item's map will be
     shown, with the item in solid blue.  Other items will be
     semi-transparent. If you go to the map directly all items are visible.
-  
-----
 
-There is some information about the technology
-[here](cilogi-tech.html).

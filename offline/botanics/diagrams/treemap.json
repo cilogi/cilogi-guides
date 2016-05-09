@@ -1,0 +1,69 @@
+{
+    "name"   : "treemap",
+    "title"  : "Tree Trail",
+    "markers": [{"id" : "green", "color": "green", "icon": "fa-tree", "theme": "Tree Trail"},
+              {"id" : "toilets", "color": "red", "icon": "fa-toilets", "theme": "Toilets"},
+              {"id" : "playground", "color": "red", "icon": "fa-child", "theme": "Playground"},
+              {"id" : "cafe", "color": "red", "icon": "fa-coffee", "theme": "Cafe"},
+              {"id" : "entrance", "color": "red", "icon": "fa-user", "theme": "Entrance"}
+    ],
+    "provider"    : "mapnik",
+    "showLocation" : true,
+    "image"  : {"src" : "botanics1200optpsCOL.png",
+                "locates": [
+                    {
+                        "pixel": [0.0, 0.0],
+                        "latlng": [55.881846736578304, -4.293551445007324],
+                        "tag": "nw corner"
+                    },
+                    {
+                        "pixel": [1200.0, 0.0],
+                        "latlng": [55.879614344497924, -4.286578421624719],
+                        "tag": "ne corner"
+                    },
+                    {
+                        "pixel": [1200.0, 650.0],
+                        "latlng": [55.8774956100752, -4.288734197616577],
+                        "tag": "se corner"
+                    },
+                    {
+                        "pixel": [0.0, 650.0],
+                        "latlng": [55.879728123990134, -4.295707220999184],
+                        "tag": "sw corner"
+                    }
+                ]
+    },
+    "items": [
+        { "id": "701",  "description": "Corsican Pine", "latlng": [55.879457, -4.291821]},
+        { "id": "702",  "description": "Chinese Mahogony", "latlng": [55.879034, -4.289167]},
+        { "id": "703",  "description": "Prickly Castor Oil Tree", "latlng": [55.878645, -4.288546]},
+        { "id": "704",  "description": "Maidenhair tree", "latlng": [55.878503, -4.288929]},
+        { "id": "705",  "description": "Sycamore", "latlng": [55.878238, -4.289696]},
+        { "id": "706",  "description": "Weeping Ash", "latlng": [55.878627, -4.290530]},
+        { "id": "707",  "description": "English Oak", "latlng": [55.878765, -4.291657]},
+        { "id": "708", "description": "Dawn Redwood", "latlng": [55.879765, -4.292847]},
+        { "id": "709",  "description": "Black Oak", "latlng": [55.880748, -4.293441]},
+        { "id": "710",  "description": "Wellingtonia", "latlng": [55.882114, -4.291633]},
+        { "id": "711", "description": "Western Hemlock", "latlng": [55.883063, -4.290153]},
+        { "id": "712", "description": "Himalayan Birch", "latlng": [55.883205, -4.290181]},
+        { "id": "713", "description": "Sitka Spruce", "latlng": [55.883448, -4.289649]},
+        { "id": "714", "description": "Arran Whitebeam", "latlng": [55.883764, -4.289574]},
+        { "id": "715", "description": "Japanese Alder.", "latlng": [55.883163, -4.289333]},
+        {           "description": "Margaret Drive Gate", "latlng": [55.878936, -4.287737], "marker": "entrance"},
+        {           "description": "Ford Road Gate", "latlng": [55.881667, -4.293674], "marker": "entrance"},
+        {           "description": "Main Gate", "latlng": [55.877978, -4.289645], "marker": "entrance"},
+        {           "description": "Saltoun Gate", "latlng": [55.878801, -4.292384], "marker": "entrance"},
+        { "id": "50", "description": "Toilets.", "text":  "Disabled and nursing.  Open 10:00-4:45 in summer, 10:00-4:15 winter", "latlng": [55.879168, -4.287775], "marker": "toilets"},
+        { "id": "51", "description": "Cafe.", "text":  "Cafe in the Botanics", "latlng": [55.879346, -4.288907], "marker": "cafe"},
+        { "id": "52", "description": "Playground.", "text":  "Children's Playground", "latlng": [55.880047, -4.292135], "marker":"playground"},
+        { "id": "716", "description": "Paperbark Maple", "latlng": [55.883157, -4.289585]},
+        { "id": "717", "description": "Scots Pine", "latlng": [55.880438, -4.292523]},
+        { "id": "718", "description": "Moroccan Fir", "latlng": [55.880346, -4.292316]},
+        { "id": "719", "description": "Monkey Puzzle", "latlng": [55.879863, -4.291434]},
+        { "id": "720", "description": "Monarch Birch", "latlng": [55.879114, -4.291713]}
+    ],
+    "zoom"  : {"min" : 16, "max": 18, "start": 17},
+    "sizes" : {"min": 0.7, "max": 2.1, "threshold": 0.5} ,
+    "bounds": {"tl": [55.884202, -4.294497], "br": [55.877465, -4.286322], "center": [55.8797043, -4.2911777]},
+    "nextMap": "map1"
+}

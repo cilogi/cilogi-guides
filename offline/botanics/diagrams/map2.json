@@ -8,8 +8,8 @@
     "showLocation" : true,
     "image": {"src" : "botanics1200optpsCOL.png"},
 
-    "items": [{ "id": 4, "description": "Sundial", "pixel": [880, 359], "marker": "green"},
-              { "id": 1, "description": "Curator's House", "pixel": [878, 224], "marker": "red"}],
+    "items": [{ "id": "4", "description": "Sundial", "pixel": [880, 359], "marker": "green"},
+              { "id": "1", "description": "Curator's House", "pixel": [878, 224], "marker": "red"}],
 
     "prevMap": "map1",
 

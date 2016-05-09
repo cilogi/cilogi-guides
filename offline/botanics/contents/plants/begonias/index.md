@@ -16,3 +16,4 @@ flowers are separately male and female on the same plant and may
 differ in size.  The National Collection of Begonias which is grown
 here in the Botanic Gardens, illustrates their diversity.
 
+[Back to Plants](../index.html)

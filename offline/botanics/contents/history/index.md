@@ -1,5 +1,6 @@
-index:600
 isGallery: true
+index: 5000
+sku:1908931515
 
 # History of Glasgow Botanic Gardens
 

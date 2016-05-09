@@ -29,3 +29,8 @@ div.today {
     top: 0;
     right: 0;
 }
+
+.species-info {
+    text-align: center;
+    color: gray;
+}

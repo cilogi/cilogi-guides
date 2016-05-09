@@ -1,10 +1,10 @@
-index: 300
 background: weeping-ash.jpg
 listview: true
+index: 1720
 
 # Our Flora
 
-* [Begonias](page/103)
-* [Economically important plants](listing/economic)
-* [Chronological Border](page/11)
-* [Trees](listing/trees)
+* [Begonias](listings/begonias)
+* [Economically important plants](listings/economic.html)
+* [Chronological Border](pages/11)
+* [Trees](tours/tree-trail)
