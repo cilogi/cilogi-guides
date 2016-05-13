@@ -3,6 +3,23 @@
     "storeCurrency": "GBP",
     "skus": [
         {
+            "id": "1907057471",
+            "title": "The Hillier Manual of Trees and Shrubs",
+            "description": "",
+            "thumb": {
+                "width": 55,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/619E2gSK4BL._SL75_.jpg"
+            },
+            "image": {
+                "width": 368,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/619E2gSK4BL.jpg"
+            },
+            "unitPrice": "19.99",
+            "tags": []
+        },
+        {
             "id": "0715320211",
             "title": "Hillier Gardener's Guide to Trees and Shrubs",
             "description": "Unique in its detailed and comprehensive coverage of temperate-zone trees and shrubs, and backed by the world-famous Hillier name, this book provides great expertise in a highly illustrated, eminently usable package.",
@@ -37,6 +54,40 @@
             "tags": []
         },
         {
+            "id": "0002200139",
+            "title": "Collins Wildlife Trust Guide: Trees: a photographic guide to the trees of Britain & Europe",
+            "description": "The Collins Trust field guide to the trees of northern Europe contains some of the finest original tree illustrations ever produced. The introduction contains illustrations of the main leaves, buds, and firs you are likely to find, and these provide the starting point for identification by leading you to a 'key' species.\n\nWithin each tree family there is a list of key species and a guide to the most important features to look for when identifying a particular tree from that family. Then individual species are clearly described and a detailed illustration is given on the same page.\n\nCovering all the tree species found outside the major arboretums, from the olive tree to the eucalyptus, this is one of the most important tree guides to have appeared in the last 20 years. The illustrations are annotated with essential identification features, and the text highlights key diagnostic points for fast and accurate identification. There is also coverage of all the species native to Southern Europe.",
+            "thumb": {
+                "width": 37,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/51EX2C4MQ0L._SL75_.jpg"
+            },
+            "image": {
+                "width": 235,
+                "height": 475,
+                "url": "http://ecx.images-amazon.com/images/I/51EX2C4MQ0L.jpg"
+            },
+            "unitPrice": "16.99",
+            "tags": []
+        },
+        {
+            "id": "1847972314",
+            "title": "Tuberous Begonias: An Essential Guide",
+            "description": "Tuberous begonias are sensational flowers: their abundant blooms capture everyone's heart and eye. This authoritative guide introduces the best varieties and celebrates the great range of colours grown. Written by Jack Larter, who has devoted many years of love and toil to the plants, it covers everything that both novice and veteran need to know to grow blooms for the home, garden and show bench.",
+            "thumb": {
+                "width": 57,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/51mF3JG7wHL._SL75_.jpg"
+            },
+            "image": {
+                "width": 382,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/51mF3JG7wHL.jpg"
+            },
+            "unitPrice": "16.99",
+            "tags": []
+        },
+        {
             "id": "1908931515",
             "title": "The Story of Glasgow's Botanic Gardens",
             "description": "",
@@ -54,6 +105,40 @@
             "tags": []
         },
         {
+            "id": "1903657067",
+            "title": "Britain's Orchids (WILDGuides)",
+            "description": "A comprehensive photographic guide to the orchids of Britain and Ireland, covering the 51 species recorded, including all the varieties and sub-species, as well as 9 species of uncertain or doubtful provenance.",
+            "thumb": {
+                "width": 52,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/51Y9AVEQVHL._SL75_.jpg"
+            },
+            "image": {
+                "width": 347,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/51Y9AVEQVHL.jpg"
+            },
+            "unitPrice": "16.95",
+            "tags": []
+        },
+        {
+            "id": "1851532072",
+            "title": "A Guide to the Identification of Deciduous Broad - Leaved Trees and Shrubs in Winter (Field studies)",
+            "description": "",
+            "thumb": {
+                "width": 53,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/51znSyqLU-L._SL75_.jpg"
+            },
+            "image": {
+                "width": 351,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/51znSyqLU-L.jpg"
+            },
+            "unitPrice": "6",
+            "tags": []
+        },
+        {
             "id": "0300096747",
             "title": "Glasgow (Pevsner Architectural Guides: Buildings of Scotland)",
             "description": "Glasgow has a wide array of architectural treasures: the greatest medieval cathedral in Scotland; fragments of a seventeenth- and eighteenth-century 'merchant city'; the well-preserved heart of a planned new town, Blythswood; a city centre dense with Victorian and Edwardian commercial buildings; stately nineteenth-century terraces lining the Great Western Road and picturesquely crowning Woodlands Hill; opulent villas in suburbs like Pollokshields and Kelvinside; and streets of tenements from the workaday to the grand.\n\n The twentieth century has encircled the city with a broad belt of public housing, and this too has a fascinating history that encompasses garden suburbs, early experiments in high-rise, comprehensive redevelopments and new interpretations of the tenement tradition. Charles Rennie Mackintosh and Alexander 'Greek' Thomson are, of course, internationally known, but the exceptional talents of Glasgow's many other architects, such as Charles Wilson, James Salmon Jr. and Jack Coia, have helped to shape the city's distinctive character.",
@@ -68,6 +153,23 @@
                 "url": "http://ecx.images-amazon.com/images/I/41T5PFESN3L.jpg"
             },
             "unitPrice": "35",
+            "tags": []
+        },
+        {
+            "id": "117278583X",
+            "title": "Trees and shrubs hardy in the British Isles",
+            "description": "For the past century W J Bean’s Trees and Shrubs Hardy in the British Isles has been the pre-eminent reference to woody plants hardy in Britain and Ireland, usually referred to by gardeners simply as ‘Bean’.",
+            "thumb": {
+                "width": 55,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/31vmBJ9TNaL._SL75_.jpg"
+            },
+            "image": {
+                "width": 381,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/51xIyIq%2BClL.jpg"
+            },
+            "unitPrice": "28.99",
             "tags": []
         }
     ]
