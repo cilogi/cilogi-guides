@@ -1,7 +1,7 @@
 index: 21
 tag: trail
 
-## Halfpenny Bridge House
+# Halfpenny Bridge House
 
 ![Halfpenny Bridge House](images/halfpenny-bridge-house.jpg)
 

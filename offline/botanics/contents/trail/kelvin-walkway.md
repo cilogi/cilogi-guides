@@ -1,7 +1,7 @@
 index: 20
 tag: trail
 
-## Kelvin Walkway
+# Kelvin Walkway
 
 ![The Kelvin Walkway](images/kelvin-walkway.jpg)
 

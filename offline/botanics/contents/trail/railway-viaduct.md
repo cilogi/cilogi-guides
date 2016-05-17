@@ -1,7 +1,7 @@
 index: 18
 tag: trail
 
-## Railway Viaduct at Garrioch (c. 1896)
+# Railway Viaduct at Garrioch (c. 1896)
 
 ![Railway Viaduct at Garrioch](images/garrioch-viaduct.jpg)
 

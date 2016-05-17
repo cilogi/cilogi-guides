@@ -1,7 +1,7 @@
 index: 28
 tag: trail
 
-## Weir and Mill Lade
+# Weir and Mill Lade
 
 ![Weir and Mill Lade](images/weir-and-mill-lade.jpg)
 

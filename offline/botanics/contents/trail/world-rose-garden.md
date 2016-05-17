@@ -1,7 +1,7 @@
 index: 13
 tag: trail
 
-## World Rose Garden
+# World Rose Garden
 
 ![World Rose Garden (2003)](images/rose-garden.jpg)
 

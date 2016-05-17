@@ -1,7 +1,7 @@
 index: 17
 tag: trail
 
-## Garrioch Footbridge
+# Garrioch Footbridge
 
 ![Garrioch Footbridge](images/garrioch-footbridge.jpg)
 

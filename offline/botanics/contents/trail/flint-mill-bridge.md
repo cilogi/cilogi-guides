@@ -1,7 +1,7 @@
 index: 25
 tag: trail
 
-## Flint Mill Bridge
+# Flint Mill Bridge
 
 ![Flint Mill Bridge](images/flint-mill-bridge.jpg)
 

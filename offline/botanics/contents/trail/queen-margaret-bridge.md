@@ -1,7 +1,7 @@
 index: 23
 tag: trail
 
-## Queen Margaret Bridge
+# Queen Margaret Bridge
 
 ![Queen Margaret Bridge, 1929](images/queen-margaret-bridge.jpg)
 

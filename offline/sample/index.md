@@ -8,6 +8,7 @@ sku: 1908931515
 * [Opening times / information](contents/info/opening.html)
 * [The Kibble Palace](contents/trail/kibble-palace.html)
 * [The Botanics Trail](tours/botanics-trail.html)
+* [Map of the Gardens](diagrams/map1.html)
 * [The Tree Trail](tours/tree-trail.html)
 * [Index](search.html)
 * [Our Shop](store.html)

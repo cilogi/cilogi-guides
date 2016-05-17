@@ -1,7 +1,7 @@
 index: 12
 tag: trail
 
-## Flag Pole
+# Flag Pole
 
 ![Flag Pole](images/flag-pole.jpg)
 

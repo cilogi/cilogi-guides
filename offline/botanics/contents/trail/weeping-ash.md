@@ -1,7 +1,7 @@
 index: 7
 tag: trail
 
-## Weeping Ash
+# Weeping Ash
 
 ![Leaves of the Weeping Ash](images/weeping-ash-leaves.jpg)
 

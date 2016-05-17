@@ -1,7 +1,7 @@
 index: 81
 tag: trail
 
-### Hopkirk Building
+# Hopkirk Building
 
 ![Head of Thomas Hopkirk](images/hopkirk-head.jpg)
 

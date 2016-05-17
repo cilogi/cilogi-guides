@@ -1,7 +1,7 @@
 index: 22
 tag: trail
 
-## Halfpenny Bridge
+# Halfpenny Bridge
 
 ![Halfpenny Bridge](images/halfpenny-bridge.jpg)
 

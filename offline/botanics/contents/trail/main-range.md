@@ -1,7 +1,7 @@
 index: 3
 tag: trail
 
-## Main Range of Glasshouses (1883)
+# Main Range of Glasshouses (1883)
 
 ![The Victorian Glasshouses](images/main-range.jpg)
 

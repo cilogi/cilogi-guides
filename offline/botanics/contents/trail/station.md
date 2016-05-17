@@ -1,7 +1,7 @@
 index: 8
 tag: trail
 
-## Botanic Gardens Station (Disused)
+# Botanic Gardens Station (Disused)
 
 ![Botanic Gardens Station (disused)](images/botanics-station.jpg)
 

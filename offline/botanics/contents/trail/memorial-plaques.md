@@ -1,7 +1,7 @@
 index: 14
 tag: trail
 
-## Memorial Plaques
+# Memorial Plaques
 
 There are a number of memorial benches and plaques
 located throughout the Gardens particularly within the

@@ -1,7 +1,7 @@
 index: 1
 tag: trail
 
-## Curator's House/Visitor Centre (1840)
+# Curator's House/Visitor Centre (1840)
 
 ![The Curator's House and Visitor Centre](images/curators-house.jpg)
 

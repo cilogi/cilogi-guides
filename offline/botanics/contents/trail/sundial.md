@@ -1,7 +1,7 @@
 index: 4
 tag: trail
 
-### Sundial
+# Sundial
 
 ![The Sundial](images/sundial.jpg)
 

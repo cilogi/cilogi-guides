@@ -1,7 +1,7 @@
 index: 2
 tag: trail
 
-## Peter Walker Memorial (1906)
+# Peter Walker Memorial (1906)
 
 ![The Peter Walker Memorial (1906)](images/peter-walker-memorial.jpg)
 

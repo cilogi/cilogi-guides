@@ -1,7 +1,7 @@
 index: 29
 tag: trail
 
-## Humpback Bridge (1908)
+# Humpback Bridge (1908)
 
 ![Humpback Bridge, 1908](images/humpback-bridge.jpg)
 

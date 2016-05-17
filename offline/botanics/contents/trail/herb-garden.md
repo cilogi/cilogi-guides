@@ -1,7 +1,7 @@
 index: 9
 tag: trail
 
-## Herb Garden
+# Herb Garden
 
 ![Herb Garden](images/herb-garden.jpg)
 

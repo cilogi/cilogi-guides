@@ -1,7 +1,7 @@
 index: 24
 tag: trail
 
-## Old Queen Margaret Bridge
+# Old Queen Margaret Bridge
 
 The first Queen Margaret Bridge was built in 1870 to
 carry Queen Margaret Road over the River Kelvin. It was

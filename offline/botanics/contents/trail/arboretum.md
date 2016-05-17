@@ -1,7 +1,7 @@
 index: 16
 tag: trail
 
-## Arboretum
+# Arboretum
 
 ![The Arboretum (1977)](images/arboretum.jpg)
 

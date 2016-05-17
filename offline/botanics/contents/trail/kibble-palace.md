@@ -2,7 +2,7 @@ index: 5
 sku: 0300096747
 tag: trail
 
-## Kibble Palace (1873)
+# Kibble Palace (1873)
 
 ![Kibble Palace from the main Garden](images/kibble-palace.jpg)
 ![Kibble Palace in 1875](images/kibble-1875.jpg)

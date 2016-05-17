@@ -1,7 +1,7 @@
 index: 6
 tag: trail
 
-## Main Gates and East and West Lodges
+# Main Gates and East and West Lodges
 
 ![Main Gates](images/main-gates.jpg)
 

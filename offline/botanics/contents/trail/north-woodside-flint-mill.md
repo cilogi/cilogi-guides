@@ -1,7 +1,7 @@
 index: 27
 tag: trail
 
-## North Woodside Flint Mill
+# North Woodside Flint Mill
 
 ![North Woodside Flint Mill, pre 1765](images/north-woodside-flint-mill.jpg)
 

@@ -1,7 +1,7 @@
 index: 10
 tag: trail
 
-## The Herbaceous Border
+# The Herbaceous Border
 
 ![Herbaceous Border](images/herbaceous-border.jpg)
 

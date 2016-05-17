@@ -1,7 +1,7 @@
 index: 26
 tag: trail
 
-## Belmont Street Bridge (1870)
+# Belmont Street Bridge (1870)
 
 ![Belmont St Bridge, 1870](images/belmont-st-bridge.jpg)
 

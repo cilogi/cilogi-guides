@@ -1,7 +1,7 @@
 index:82
 tag: trail
 
-### Euing Range
+# Euing Range
 
 ![Portrait of Willian Euing](images/euing-portrait.jpg)
 
