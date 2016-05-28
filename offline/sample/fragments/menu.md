@@ -1,3 +1,4 @@
+* [Home](index.html)
 * [Opening times / information](contents/info/opening.html)
 * [The Kibble Palace](contents/trail/kibble-palace.html)
 * [The Botanics Trail](tours/botanics-trail.html)

@@ -14,8 +14,8 @@ RA in 1879.
 
 The statue was accompanied by a couplet:
 
-> Pausing with reluctant feet<br/>
-Where the stream and river meet
+    Pausing with reluctant feet
+    Where the stream and river meet
 
 The statue was presented to Glasgow Museums in 1919 by Captain
 Wallace. 
