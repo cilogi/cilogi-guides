@@ -11,5 +11,5 @@ sku: 1908931515
 * [Map of the Gardens](maps/map1.html)
 * [The Tree Trail](tours/tree-trail.html)
 * [Index](search.html)
-* [Our Shop](store.html)
+* [Our Shop](store/index.html)
 

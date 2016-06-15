@@ -5,4 +5,4 @@
 * [Map of the Gardens](diagrams/map1.html)
 * [The Tree Trail](tours/tree-trail.html)
 * [Index](search.html)
-* [Our Shop](store.html)
+* [Our Shop](store/index.html)
