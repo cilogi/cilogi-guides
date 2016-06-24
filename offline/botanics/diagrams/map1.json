@@ -43,7 +43,7 @@
               { "id": "4",  "description": "Sundial", "pixel": [880, 359],  "marker": "blue"},
               { "id": "5",  "description": "Kibble Palace", "pixel": [980, 363]},
               { "id": "6",  "description": "Main Gates", "text":  "There's an ice cream stand here in the summer.", "pixel": [1001, 590]},
-              { "id": "7",  "description": "Weeping Ash", "pixel": [775, 487]},
+              { "id": "706","description": "Weeping Ash", "pixel": [775, 487]},
               { "id": "8",  "description": "Botanic Garden Station (disused)", "pixel": [758 , 536]},
               { "id": "9",  "description": "New Herb Garden", "pixel": [463, 536]},
               { "id": "10", "description": "Herbaceous Border", "pixel": [477, 446]},

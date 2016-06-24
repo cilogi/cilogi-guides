@@ -24,7 +24,6 @@
             "contents/trail/index.html",
             "contents/plants/economic/index.html"
     ],
-    "theme" : "jqm",
     "uiTheme" : "w",
     "email": "tim.niblett@cilogi.com",
     "defaultTour": "botanics-trail",
