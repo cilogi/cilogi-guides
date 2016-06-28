@@ -1,5 +1,6 @@
 {
     "name" : "kibble",
+    "listed" : true,
     "title": "Kibble Palace",
 
     "markers": [{"id" : "plant", "color": "green", "icon": "fa-star", "theme": "Plant"},

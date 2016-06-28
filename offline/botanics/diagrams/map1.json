@@ -1,5 +1,6 @@
 {
     "name"   : "map1",
+    "listed" : true,
     "title"  : "Gardens & River Walk",
     "markers": [{"id" : "green", "color": "green", "icon": "fa-star", "theme": "Botanics Trail"},
               {"id" : "historical", "color": "blue", "icon": "fa-eye", "theme": "Historical Site"},

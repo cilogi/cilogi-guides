@@ -1,5 +1,6 @@
 {
     "name"   : "treemap",
+    "listed" : true,
     "title"  : "Tree Trail",
     "markers": [{"id" : "green", "color": "green", "icon": "fa-tree", "theme": "Tree Trail"},
               {"id" : "toilets", "color": "red", "icon": "fa-toilets", "theme": "Toilets"},
