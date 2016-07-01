@@ -6,7 +6,7 @@
                 {"id" : "red", "color": "red", "icon": "fa-eye", "theme": "Historical Site"},
                 {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "What's New"}],
     "showLocation" : true,
-    "image": {"src" : "botanics1200optpsCOL.png"},
+    "image": {"src" : "_diagram_botanics1200optpsCOL.png"},
 
     "items": [{ "id": "4", "description": "Sundial", "pixel": [880, 359], "marker": "green"},
               { "id": "1", "description": "Curator's House", "pixel": [878, 224], "marker": "red"}],

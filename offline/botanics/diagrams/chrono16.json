@@ -4,7 +4,7 @@
 
     "markers": [{"id" : "red", "color": "red", "icon": "fa-star", "theme": "Plant"}],
 
-    "image": {"src" : "chronological-c16.jpg"},
+    "image": {"src" : "_diagram_chronological-c16.jpg"},
 
     "items": [{ "id": "401", "description": "Geranium Macrorrhizum", "pixel": [468,626], "marker": "red"},
               { "id": "402", "description": "Lychnis Chalcedonica", "pixel": [854,600], "marker": "red"}],

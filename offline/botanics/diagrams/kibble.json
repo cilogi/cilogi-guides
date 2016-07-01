@@ -6,7 +6,7 @@
     "markers": [{"id" : "plant", "color": "green", "icon": "fa-star", "theme": "Plant"},
                 {"id" : "statue", "color": "red", "icon": "fa-eye", "theme": "Statue"}],
     "showLocation" : true,
-    "image": {"src" : "kibble-diagram2.png"},
+    "image": {"src" : "_diagram_kibble-diagram2.png"},
 
     "items": [{ "id": "5002", "description": "King Robert of Sicily", "pixel": [124,660], "marker": "statue"},
               { "id": "5001", "description": "Cain", "pixel": [124, 440], "marker": "statue"},

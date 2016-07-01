@@ -10,7 +10,7 @@
     ],
     "provider"    : "mapnik",
     "showLocation" : true,
-    "image"  : {"src" : "botanics1200optpsCOL.png",
+    "image"  : {"src" : "_diagram_botanics1200optpsCOL.png",
                 "locates": [
                     {
                         "pixel": [0.0, 0.0],
