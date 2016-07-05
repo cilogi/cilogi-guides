@@ -23,7 +23,7 @@ multimillion pound restoration. This was completed in
 2006 and the glasshouse re-opened to the public on St
 Andrews day that year.
 
-### Marble Statues in the Kibble
+## Marble Statues in the Kibble
 
 [King Robert of Sicily](/transclude/5002)
 
