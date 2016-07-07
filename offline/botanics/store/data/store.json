@@ -69,6 +69,38 @@
             },
             "unitPrice": "35",
             "tags": []
+        },
+        {
+            "id": "1902831047",
+            "title": "Kibble's Palace",
+            "description": "Eric Curtis, former keeper of the Botanic Garden, has researched the beginnings in the life of Glasgow entrepreneur and eccentric, John Kibble.'",
+            "thumb": {
+                "width": 48,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/515TMJY1SWL._SL75_.jpg"
+            },
+            "image": {
+                "width": 321,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/515TMJY1SWL.jpg"
+            },
+            "unitPrice": "7.99"
+        },
+        {
+            "id": "117278583X",
+            "title": "Trees and shrubs hardy in the British Isles",
+            "description": "This is a reproduction of a book published before 1923. This book may have occasional imperfections....",
+            "thumb": {
+                "width": 55,
+                "height": 75,
+                "url": "http://ecx.images-amazon.com/images/I/31vmBJ9TNaL._SL75_.jpg"
+            },
+            "image": {
+                "width": 381,
+                "height": 500,
+                "url": "http://ecx.images-amazon.com/images/I/51xIyIq%2BClL.jpg"
+            },
+            "unitPrice": "23.99"
         }
     ]
 }

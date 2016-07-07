@@ -1,6 +1,6 @@
 index: 5005
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # The sisters of Bethany (1871)
 

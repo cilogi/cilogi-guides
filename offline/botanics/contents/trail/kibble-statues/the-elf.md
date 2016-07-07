@@ -1,6 +1,6 @@
 index: 5006
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # The Elf (1899)
 

@@ -1,6 +1,6 @@
 index: 5004
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # Ruth (c1880)
 

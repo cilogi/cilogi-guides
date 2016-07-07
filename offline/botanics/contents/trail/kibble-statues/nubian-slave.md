@@ -1,6 +1,6 @@
 index: 5007
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # Nubian Slave (after 1858)
 

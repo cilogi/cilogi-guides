@@ -1,6 +1,6 @@
 index: 5008
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # Stepping Stones (1878)
 

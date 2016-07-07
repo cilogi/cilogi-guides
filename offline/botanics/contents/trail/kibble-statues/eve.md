@@ -1,6 +1,6 @@
 index: 5003
 tag: statue
-mappedBy: 5
+containedBy: 5
 
 # Eve (c1880)
 
