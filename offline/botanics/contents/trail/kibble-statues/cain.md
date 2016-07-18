@@ -16,7 +16,7 @@ The sculpture was purchased from the Glasgow International Exhibition
 of 1901 at a cost of £300.  A plaster model was exhibited at the New
 Gallery London in 1896.
 
-### About Mullins
+#### About Mullins
 
 Mullins was born in Holborn, London. He was the son of Edward Mullins
 (born c.1808 in Box, Wiltshire), a solicitor and notary
