@@ -70,7 +70,7 @@
               { "id": "27", "description": "North Woodside Flint Mill", "latlng": [55.877964,-4.281943]},
               { "id": "28", "description": "Weir and Mill Lade", "latlng": [55.878468,-4.283945]},
               { "id": "29", "description": "Humpback Bridge", "latlng": [55.879873,-4.287989]}],
-    "zoom"  : {"min" : 16, "max": 19, "start": 17},
+    "zoom"  : {"min" : 16, "max": 18, "start": 17},
     "sizes" : {"min": 0.5, "max": 1.5, "threshold": 0.4} ,
     "bounds": {"tl": [55.884759,-4.294045], "br": [55.877300, -4.279425], "center": [55.879380, -4.291157]},
     "nextMap": "map2"
