@@ -1,0 +1,92 @@
+{
+  id: botanics-trail
+  title: The Botanics Trail
+  background: kibble-dome.jpg
+  description:
+    '''
+    The Botanic Gardens Trail starts at the [Visitor Centre](../contents/trail/curators-house.html)
+    and should take you about one and a half hours to complete.
+    '''
+  stops:
+  [
+    {
+      id: "1"
+      intro:
+        '''
+        The Curator's House is the start of the Botanics Trail.
+        The trail takes about one and a half hours to complete.
+        '''
+    }
+    { id: "2"  }
+    { id: "3"  }
+    { id: "81" }
+    { id: "82" }
+    { id: "80" }
+    { id: "4"  }
+    { id: "5"  }
+    { id: "6"  }
+    { id: "706"}
+    { id: "8"  }
+    { id: "9"  }
+    { id: "10" }
+    {
+      id: "11"
+    }
+    {
+      id: "12"
+    }
+    {
+      id: "13"
+    }
+    {
+      id: "14"
+    }
+    {
+      id: "15"
+    }
+    {
+      id: wikipedia/7125625
+      title: Kirklee Station
+    }
+    {
+      id: "16"
+    }
+    {
+      id: "17"
+    }
+    {
+      id: "18"
+    }
+    {
+      id: "19"
+    }
+    {
+      id: "20"
+    }
+    {
+      id: "21"
+    }
+    {
+      id: "23"
+    }
+    {
+      id: "24"
+    }
+    {
+      id: "25"
+    }
+    {
+      id: "26"
+    }
+    {
+      id: "27"
+    }
+    {
+      id: "28"
+    }
+    {
+      id: "29"
+      intro: This is where the tour ends.  We hope you've enjoyed it
+    }
+  ]
+}
