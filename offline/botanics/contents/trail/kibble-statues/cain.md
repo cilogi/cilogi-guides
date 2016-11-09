@@ -4,7 +4,7 @@ containedBy: 5
 
 # Cain (1899) or My Punishment is greater than I can bear
 
-![Cain by Edwin Roscoe Mullins, 1901](images/cain.jpg)
+![Cain by Edwin Roscoe Mullins, 1901](image:cain.jpg)
 
 The sculpture of Cain, son of Adam and Eve crouching in anguish at his
 punishment for jealously murdering his brother Abel

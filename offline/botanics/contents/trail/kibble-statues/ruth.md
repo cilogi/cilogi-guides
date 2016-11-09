@@ -4,7 +4,7 @@ containedBy: 5
 
 # Ruth (c1880)
 
-![Ruth by Giovanni Ciniselli, c1880](images/ruth.jpg)
+![Ruth by Giovanni Ciniselli, c1880](image:ruth.jpg)
 
 [Ruth][1], traditionally said to be an ancestor of Christ, is sculpted
 by Milanese sculptor Giovanni Cinselli (1832-1883) who specialised in

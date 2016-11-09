@@ -3,7 +3,7 @@ tag: trail
 
 # Weeping Ash
 
-![Leaves of the Weeping Ash](images/weeping-ash-leaves.jpg)
+![Leaves of the Weeping Ash](image:weeping-ash-leaves.jpg)
 
 The Weeping Ash tree (Fraxinus excelsior 'Pendula')
 adjacent to the Main Lawn is known to have been

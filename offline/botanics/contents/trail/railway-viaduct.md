@@ -3,7 +3,7 @@ tag: trail
 
 # Railway Viaduct at Garrioch (c. 1896)
 
-![Railway Viaduct at Garrioch](images/garrioch-viaduct.jpg)
+![Railway Viaduct at Garrioch](image:garrioch-viaduct.jpg)
 
 The viaducts at Garrioch Quadrant were built circa 1896 for
 the Glasgow Central and Lanarkshire &

@@ -3,7 +3,7 @@ tag: trail
 
 # World Rose Garden
 
-![World Rose Garden (2003)](images/rose-garden.jpg)
+![World Rose Garden (2003)](image:rose-garden.jpg)
 
 This World Rose Garden was designed and created for the World Rose
 Convention in 2003. The wooden gazebo and pergolas were constructed in

@@ -2,7 +2,7 @@ index: 402
 
 # Lychnis chalcedonica
 
-![Lychnis chalcedonica](images/lychnis-chalcedonica.jpg)
+![Lychnis chalcedonica](image:lychnis-chalcedonica.jpg)
 
 Lychnis chalcedonica is also known as
 _Burning Love, Dusky Salmon, Flower of Bristol, Jerusalem Cross, or Maltese Cross_

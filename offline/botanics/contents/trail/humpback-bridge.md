@@ -3,7 +3,7 @@ tag: trail
 
 # Humpback Bridge (1908)
 
-![Humpback Bridge, 1908](images/humpback-bridge.jpg)
+![Humpback Bridge, 1908](image:humpback-bridge.jpg)
 
 The 'B' Listed cast iron Humpback Bridge, which spans
 the Kelvin from the Walkway to the north eastern corner

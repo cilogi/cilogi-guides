@@ -3,7 +3,7 @@ tag: economic
 
 # Papyrus - Cyperus Papyrus
 
-![Papyrus after the rain](images/papyrus.jpg)
+![Papyrus after the rain](image:papyrus.jpg)
 
 The papyrus plant is a reed that grows in marshy areas around the
 river Nile in Egypt.  The inside of the triangular stalk was cut or

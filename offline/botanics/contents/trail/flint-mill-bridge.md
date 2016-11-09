@@ -3,7 +3,7 @@ tag: trail
 
 # Flint Mill Bridge
 
-![Flint Mill Bridge](images/flint-mill-bridge.jpg)
+![Flint Mill Bridge](image:flint-mill-bridge.jpg)
 
 This pedestrian bridge provides the link with the
 continuation south of the Kelvin Walkway to

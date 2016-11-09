@@ -4,7 +4,7 @@ containedBy: 5
 
 # Nubian Slave (after 1858)
 
-![The Nubian Slave by Antonio Rossetti, after 1858](images/nubian-slave.jpg)
+![The Nubian Slave by Antonio Rossetti, after 1858](image:nubian-slave.jpg)
 
 The statue of an oriental slave was sculpted by Italian
 Antonio Rossetti (1819-1891).  The statue was bequeathed to Glasgow

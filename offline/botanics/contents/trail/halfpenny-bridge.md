@@ -3,7 +3,7 @@ tag: trail
 
 # Halfpenny Bridge
 
-![Halfpenny Bridge](images/halfpenny-bridge.jpg)
+![Halfpenny Bridge](image:halfpenny-bridge.jpg)
 
 Built around 1886, the original foot-bridge was a
 wrought iron box girder bridge. There was a toll to cross

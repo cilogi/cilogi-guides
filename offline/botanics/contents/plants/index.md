@@ -6,5 +6,5 @@ index: 1720
 
 * [Begonias](listings/begonias)
 * [Economically important plants](listings/economic.html)
-* [Chronological Border](pages/11)
+* [Chronological Border](page:11)
 * [Trees](tours/tree-trail)

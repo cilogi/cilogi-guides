@@ -3,7 +3,7 @@ tag: trail
 
 # Kirklee Gate, Kirklee Station, Ford Road
 
-![Kirklee Gate](images/kirklee-gate.jpg)
+![Kirklee Gate](image:kirklee-gate.jpg)
 
 Exit the Gardens through Kirklee Gate and turn right
 onto Ford Rd towards the Arboretum. On your left was
@@ -11,7 +11,7 @@ the site of Kirklee Station, designed by architect J. J.
 Burnet and built in c1894 for the Glasgow Central
 Railway.
 
-![Kirklee Station (c 1894) closed 1939 in 1968](images/kirklee-station-1968.jpg)
+![Kirklee Station (c 1894) closed 1939 in 1968](image:kirklee-station-1968.jpg)
 
 The photo above was taken in 1964, after the line was closed, and 25 years
 after the station closed.

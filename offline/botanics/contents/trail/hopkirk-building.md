@@ -3,7 +3,7 @@ tag: trail
 
 # Hopkirk Building
 
-![Head of Thomas Hopkirk](images/hopkirk-head.jpg)
+![Head of Thomas Hopkirk](image:hopkirk-head.jpg)
 
 This building is dedicated to Thomas Hopkirk who was
 one of the founders of the Botanic Gardens. Built on the

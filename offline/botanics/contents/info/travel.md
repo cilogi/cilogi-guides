@@ -13,5 +13,5 @@ for details.
 
 Car parking is available off Byres road and in the [Ford Road Gate](../../diagrams/botanics.html?id=15") area.
 
-[Map showing access](maps/gettingHere)
+[Map showing access](map:gettingHere)
 

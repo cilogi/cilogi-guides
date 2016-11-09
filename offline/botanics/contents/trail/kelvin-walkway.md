@@ -3,7 +3,7 @@ tag: trail
 
 # Kelvin Walkway
 
-![The Kelvin Walkway](images/kelvin-walkway.jpg)
+![The Kelvin Walkway](image:kelvin-walkway.jpg)
 
 The wooded banks and grassy slopes of the River
 Kelvin have long been admired for their beauty and the

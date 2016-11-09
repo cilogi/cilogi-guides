@@ -3,7 +3,7 @@ tag: trail
 
 # Euing Range
 
-![Portrait of Willian Euing](images/euing-portrait.jpg)
+![Portrait of Willian Euing](image:euing-portrait.jpg)
 
 William Euing (1788-1874) a well known businessman
 gave a gift to the Royal Botanical Institution of Glasgow

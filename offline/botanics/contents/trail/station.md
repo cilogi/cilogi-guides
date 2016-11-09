@@ -3,7 +3,7 @@ tag: trail
 
 # Botanic Gardens Station (Disused)
 
-![Botanic Gardens Station (disused)](images/botanics-station.jpg)
+![Botanic Gardens Station (disused)](image:botanics-station.jpg)
 
 The Botanic Gardens Station, which had been located
 on Great Western Road was built in c1894 for the

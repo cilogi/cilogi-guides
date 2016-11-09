@@ -3,7 +3,7 @@ tag: trail latlng:55.882611,-4.289905
 
 # Kirklee Bridge (1900)
 
-![Kirklee Bridge, 1900](images/kirklee-bridge.jpg)
+![Kirklee Bridge, 1900](image:kirklee-bridge.jpg)
 
 The Kirklee Bridge was built during 1899 - 1900 for
 Glasgow Corporation Highways Department by

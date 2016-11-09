@@ -3,7 +3,7 @@ tag: trail
 
 # Main Range of Glasshouses (1883)
 
-![The Victorian Glasshouses](images/main-range.jpg)
+![The Victorian Glasshouses](image:main-range.jpg)
 
 These Victorian Glasshouses were originally built in
 Burma teak in the early 1880s and house a wide range

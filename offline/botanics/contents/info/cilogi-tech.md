@@ -22,13 +22,13 @@ The principal features of our platform are:
    in the guide. You don't have to go through a gateway, or download
    an application;
      
-     ![A QR code and short URL for instant access to a Cilogi guide](images/qrcode.png)
+     ![A QR code and short URL for instant access to a Cilogi guide](image:qrcode.png)
      
 2. A short numeric code can be entered with an on-screen keypad to get
    information about an specific which has a physical label with
    the code;
      
-     ![A keypad (with label shown as overlay) provides instant access to exhibits](images/keypad-code.png)
+     ![A keypad (with label shown as overlay) provides instant access to exhibits](image:keypad-code.png)
      
 3. Guides contain an integrated shop which provides offers
    for individual exhibits, and immediate in-guide purchasing;
@@ -95,7 +95,7 @@ other exhibit), and from this page the whole guide is available, as
 shown in the image below, which is from
 [this page](http://xstatic.s3-website-eu-west-1.amazonaws.com/tim@timniblett.net/botanics/contents/trail/weeping-ash.html). 
 
-![Weeping Ash from the Glasgow Botanics Gardens](images/weeping-ash.jpg)
+![Weeping Ash from the Glasgow Botanics Gardens](image:weeping-ash.jpg)
 
 A page linked in this way provides a seamless and elegant means of
 entering a guide, even for visitors who may not have intended using
@@ -107,7 +107,7 @@ Once the guide has been launched simple numeric codes can be used to
 move directly to pages for individual exhibits.  All that is required
 is for the number to be placed with the exhibit.
 
-![A keypad (with label shown as overlay) provides instant access to exhibits](images/keypad-code.png)
+![A keypad (with label shown as overlay) provides instant access to exhibits](image:keypad-code.png)
    
 The advantage of a small code is that is can be placed discreetly with
 small exhibits, so that items in a crowded display case can be
@@ -247,7 +247,7 @@ as part of the code base.
   
 ### Search
 
-![Full text search interface.  Search works offline and for dynamically added content](images/search.png)
+![Full text search interface.  Search works offline and for dynamically added content](image:search.png)
 
 Cilogi provides a simple full text search facility.  As with the database
 it is possible to generate an inverted index at compile time and we do
@@ -274,7 +274,7 @@ Which of these approaches is best depends on whether a single page
 can be part of more than one tour. If so, then the second approach is
 mandated. Otherwise the first is simpler.
 
-![A tour page built from a client-side template and a tour specification](images/tour-page.jpg)
+![A tour page built from a client-side template and a tour specification](image:tour-page.jpg)
 
 A couple of points should be made about each approach.  In the
 compilation approach links are inserted directly into the HTML
@@ -313,7 +313,7 @@ into Cilogi guides:
   [transclusion](/wiki.html?target=Wikipedia:Transclusion)
   of a Wikipedia article can be included on a page; 
   
-  ![Transclusion of a Wikipedia article, starting with the image of Black Pepper](images/pepper.jpg)
+  ![Transclusion of a Wikipedia article, starting with the image of Black Pepper](image:pepper.jpg)
   
 * A page can just _be_ a Wikipedia page.
 
@@ -341,7 +341,7 @@ Here is an example:
     * just use an asterisk
     * Links [like this](/wiki.html?target=Link]
     
-    ![An image](images/sample.png)
+    ![An image](image:sample.png)
     
 
 Authors work on a local folder attached to

@@ -3,7 +3,7 @@ tag: trail
 
 # Queen Margaret Bridge
 
-![Queen Margaret Bridge, 1929](images/queen-margaret-bridge.jpg)
+![Queen Margaret Bridge, 1929](image:queen-margaret-bridge.jpg)
 
 The bridge seen today was built during 1926-29 by
 Thomas Somers & Considere Constructions Ltd,

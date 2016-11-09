@@ -3,7 +3,7 @@ tag: trail
 
 # Flag Pole
 
-![Flag Pole](images/flag-pole.jpg)
+![Flag Pole](image:flag-pole.jpg)
 
 When the original Douglas fir flagpole failed its replacement was
 selected and stored, but when work began to craft it, it was found to

@@ -3,7 +3,7 @@ tag: trail
 
 # Peter Walker Memorial (1906)
 
-![The Peter Walker Memorial (1906)](images/peter-walker-memorial.jpg)
+![The Peter Walker Memorial (1906)](image:peter-walker-memorial.jpg)
 
 Peter Walker was a wealthy Glasgow businessman who
 frequently visited the Botanic Gardens. The granite

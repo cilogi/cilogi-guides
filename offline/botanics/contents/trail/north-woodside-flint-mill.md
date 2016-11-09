@@ -3,7 +3,7 @@ tag: trail
 
 # North Woodside Flint Mill
 
-![North Woodside Flint Mill, pre 1765](images/north-woodside-flint-mill.jpg)
+![North Woodside Flint Mill, pre 1765](image:north-woodside-flint-mill.jpg)
 
 Although its origins are unclear, the North Woodside
 Mill was erected by Archibald Stirling of Keir, owner of

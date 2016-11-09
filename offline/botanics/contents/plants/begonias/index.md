@@ -2,7 +2,7 @@ index: 103
 
 # Begonias
 
-![Begonia Ulmifolia from Hooker's Exotic Flora](images/begonia-ulmifolia.jpg)
+![Begonia Ulmifolia from Hooker's Exotic Flora](image:begonia-ulmifolia.jpg)
 
 About 1000 begonia species are found growing wild in the tropics and
 sub-tropics of the world.  In addition the creation of many hybrids

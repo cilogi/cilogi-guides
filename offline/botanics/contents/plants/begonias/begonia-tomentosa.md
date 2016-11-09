@@ -4,7 +4,7 @@ tag : begonia
 # Begonia tomentosa
 
 
-![Begonia tomentosa](images/begonia-tomentosa.jpg)
+![Begonia tomentosa](image:begonia-tomentosa.jpg)
 
 This bushy begonia has attractive foliage with felt-like leaves. The
 many flowers are pink with white edges and red hairs, blooming in

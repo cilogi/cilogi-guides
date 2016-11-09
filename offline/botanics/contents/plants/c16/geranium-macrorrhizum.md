@@ -2,7 +2,7 @@ index: 401
 
 # Geranium macrorrhizum
 
-![Geranium macrorrhizum](images/geranium-macrorrhizum.jpg)
+![Geranium macrorrhizum](image:geranium-macrorrhizum.jpg)
 
 
 It has five-lobed (palmate) leaves that are aromatic when crushed,

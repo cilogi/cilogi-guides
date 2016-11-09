@@ -3,7 +3,7 @@ tag: trail
 
 # Filmy Fern House
 
-![Ferns in the filmy Fern house](images/filmy-fern-house.jpg)
+![Ferns in the filmy Fern house](image:filmy-fern-house.jpg)
 
 The fern house dates back over 100 years to late
 Victorian times and can be seen on the OS map of

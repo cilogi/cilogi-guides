@@ -4,15 +4,15 @@ background: botanic-flower.jpg
 
 # Glasgow Botanic Gardens
 
-* [Opening times / information](contents/info/opening.html)
-* [Getting here](contents/info/travel.html)
-* [Map of the Gardens](diagrams/map1.html)
-* [The plants](contents/plants/index.html)
-* [History of the Gardens](contents/history/index.html)
-* [The Kibble Palace](contents/trail/kibble-palace.html)
-* [The Botanics Trail](tours/botanics-trail.html)
-* [The Tree Trail](tours/tree-trail.html)
+* [Opening times / information](page:1700)
+* [Getting here](page:1701)
+* [Map of the Gardens](map:map1)
+* [The plants](page:1720)
+* [History of the Gardens](page:5000)
+* [The Kibble Palace](page:5)
+* [The Botanics Trail](tour:botanics-trail)
+* [The Tree Trail](tour:tree-trail)
 * [Index](search.html)
 * [Our Shop](store/index.html)
-* [Using this guide](contents/info/guide.html)
+* [Using this guide](page:1702)
 

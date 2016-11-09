@@ -3,7 +3,7 @@ tag: trail
 
 # Belmont Street Bridge (1870)
 
-![Belmont St Bridge, 1870](images/belmont-st-bridge.jpg)
+![Belmont St Bridge, 1870](image:belmont-st-bridge.jpg)
 
 The Belmont Street Bridge was built in 1870 on ground
 belonging to the City of Glasgow Bank to give access

@@ -4,7 +4,7 @@ containedBy: 5
 
 # Stepping Stones (1878)
 
-![Stepping Stones by William Hamo Thorneycroft, 1878](images/stepping-stones.jpg)
+![Stepping Stones by William Hamo Thorneycroft, 1878](image:stepping-stones.jpg)
 
 The young girl carrying her infant brother across a brook is captured
 by [William Hamo Thorneycroft][1] who lived from 1850 to 1925.

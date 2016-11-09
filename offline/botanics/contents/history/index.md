@@ -11,13 +11,13 @@ Gardens were ultimately re-established in the West End in May 1817,
 when the work of laying out a botanic garden was begun on an eight
 acre site at Sandyford, at the west end of Sauchiehall Street
 
-![Sandyford](images/sandyford.jpg)
+![Sandyford](image:sandyford.jpg)
 
 This site was acquired by [Thomas Hopkirk](/wiki/Thomas_Hopkirk) who founded the Royal Botanic
 Institution of Glasgow. The Institution managed the Gardens until they
 were taken over by the Corporation in 1891.
 
-![Thomas Hopkirk](images/hopkirk.jpg)
+![Thomas Hopkirk](image:hopkirk.jpg)
 
 Funds were raised by public subscription, and the University made a
 substantial contribution on the understanding that a room was set
@@ -52,7 +52,7 @@ Stewart Murray's long and distinguished career as the first Curator of
 the Botanic Garden. In part the structure of the Gardens we know today
 was laid down by him.
 
-![Stewart Murry Layout](images/stewart-murray-layout.jpg)
+![Stewart Murry Layout](image:stewart-murray-layout.jpg)
 
 This plan taken from the 1842 map by R. Manin shows the original
 layout planned by Stewart Murray.
@@ -68,14 +68,14 @@ involved in the layout of the Glasgow Necropolis and he designed and
 laid out the cemeteries at Sighthill, Glasgow, and at Paisley and
 Greenock. After retiring in 1852 he continued as Consulting Curator.
 
-![Murray Layout Photo](images/murray-layout-photo.jpg)
+![Murray Layout Photo](image:murray-layout-photo.jpg)
 
 The present Botanic Gardens were laid out and the collection
 transferred along with the original range of glasshouses. The only
 plant from the old Garden known to be in the collection today is a
 Weeping Ash tree which can be seen to the south of the main lawn.
 
-![Weeping Ash](images/weeping-ash.jpg)
+![Weeping Ash](image:weeping-ash.jpg)
 
 The move was completed in 1842 and the Gardens then opened to members
 of the Royal Botanical lnstitution and their families for an annual
@@ -114,7 +114,7 @@ In 1874 the Kibble Crystal Art Palace and Conservatory as it was then
 known, had 39 statues as advertised in Tweed's Guide to Glasgow of
 1874.
 
-![Kibble Palace in 1875](images/kibble-1875.jpg)
+![Kibble Palace in 1875](image:kibble-1875.jpg)
 This image of the Kibble taken in 1875 shows the large hall erected
 for John Kibbles oxy-hydrogen lantern performances.
 
@@ -128,13 +128,13 @@ William Ewart Gladstone were installed as Lord Rectors of the
 University of Glasgow in 1873 and 1879, and delivered their Rectorial
 addresses in the Kibble Palace.
 
-![Disraeli installed as Rector in 1873](images/disraeli-rector.jpg)
+![Disraeli installed as Rector in 1873](image:disraeli-rector.jpg)
 
 From the 18801s the Kibble was planted up with temperate plants
 including an important collection of tree ferns from the southern
 hemisphere.
 
-![Kibble Ferns](images/kibble-ferns.jpg)
+![Kibble Ferns](image:kibble-ferns.jpg)
 
 To this day John Kibble has been the only person to Bicycle across
 Loch Long on floats.
@@ -142,7 +142,7 @@ Loch Long on floats.
 In 1875 an ornamental iron bandstand was erected on the lawn in front
 of the Main Range of Glasshouses.
 
-![Bandstand](images/bandstand.jpg)
+![Bandstand](image:bandstand.jpg)
 
 The Band of Prince Albert's Light Infantry were first to perform here
 on 4 August 1875. By 1912 a new pavilion style band-stand was
@@ -174,14 +174,14 @@ botany. Thus the original intentions of the founders have been
 safeguarded, and the position of the Gardens in the lie ofthe City has
 been maintained.
 
-![1890 map](images/1890map.jpg)
+![1890 map](image:1890map.jpg)
 
 This 1890 map of the Botanic Gardens shows how the gardens extended
 east of the current Queen Margaret Drive into the neighbouring North
 Park Estate which originally belonged to John Hamilton, who was thrice
 Lord Provost of the city.
 
-![North Park House](images/northparkhouse.jpg)
+![North Park House](image:northparkhouse.jpg)
 
 North Park House (the former BBC Scotland Building) was purchased in
 1882 by Mrs Isabella Elder (1828- 1905) wife of the famous John Elder

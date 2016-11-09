@@ -3,7 +3,7 @@ tag: trail
 
 # Sundial
 
-![The Sundial](images/sundial.jpg)
+![The Sundial](image:sundial.jpg)
 
 The sundial was made for the Botanic Gardens during
 the first half of the 19th Century. It stands on a millstone

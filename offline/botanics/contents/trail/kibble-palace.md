@@ -4,10 +4,10 @@ tag: trail
 
 # Kibble Palace (1873)
 
-![Kibble Palace from the main Garden](images/kibble-palace.jpg)
-![Kibble Palace in 1875](images/kibble-1875.jpg)
-![Kibble Palace entrance to main area](images/kibble-interior.jpg)
-![Kibble Palace Roof from Interior](images/kibble-interior2.jpg)
+![Kibble Palace from the main Garden](image:kibble-palace.jpg)
+![Kibble Palace in 1875](image:kibble-1875.jpg)
+![Kibble Palace entrance to main area](image:kibble-interior.jpg)
+![Kibble Palace Roof from Interior](image:kibble-interior2.jpg)
 
 This is an 'A' listed 19th century, curvilinear iron
 structure of exquisite design and form. Originally

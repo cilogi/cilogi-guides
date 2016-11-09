@@ -3,7 +3,7 @@ tag: trail
 
 # Curator's House/Visitor Centre (1840)
 
-![The Curator's House and Visitor Centre](images/curators-house.jpg)
+![The Curator's House and Visitor Centre](image:curators-house.jpg)
 
 [road to the Isles](audios/road-to-the-isles.mp3)
 

@@ -3,7 +3,7 @@ tag: trail
 
 # Herb Garden
 
-![Herb Garden](images/herb-garden.jpg)
+![Herb Garden](image:herb-garden.jpg)
 
 The original Herb Garden, laid out in 1957, was adjacent to the Kibble
 Palace; the plants were lifted and relocated to their new site around

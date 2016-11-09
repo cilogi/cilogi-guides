@@ -3,7 +3,7 @@ tag: trail
 
 # Arboretum
 
-![The Arboretum (1977)](images/arboretum.jpg)
+![The Arboretum (1977)](image:arboretum.jpg)
 
 The newest part of the garden was officially opened on 27 April 1977
 when Parks Convener John McQueenie planted a
@@ -24,4 +24,4 @@ North American plants to Britain. He introduced the
 [Douglas Fir](/wiki.html?target=Douglas-fir), originally the _Oregon
 Pine_ until it was renamed after him.
 
-![Douglas Fir](images/douglas-fir.jpg)
+![Douglas Fir](image:douglas-fir.jpg)

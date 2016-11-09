@@ -3,7 +3,7 @@ tag: trail
 
 # Halfpenny Bridge House
 
-![Halfpenny Bridge House](images/halfpenny-bridge-house.jpg)
+![Halfpenny Bridge House](image:halfpenny-bridge-house.jpg)
 
 This is a single-storey red brick building with pitched
 slate tiled roof. It was originally used as an old man's

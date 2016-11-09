@@ -3,7 +3,7 @@ tag: trail
 
 # The Herbaceous Border
 
-![Herbaceous Border](images/herbaceous-border.jpg)
+![Herbaceous Border](image:herbaceous-border.jpg)
 
 These delightful borders form another of the Gardens traditional
 horticultural features. Divided into two sections by the centre path,

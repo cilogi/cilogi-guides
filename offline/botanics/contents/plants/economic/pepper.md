@@ -3,7 +3,7 @@ tag: economic
 
 # Pepper -- Piper Nigrum
 
-![Unripe catkin of black pepper (Piper nigrum) plant](images/black-pepper-catkin.jpg)
+![Unripe catkin of black pepper (Piper nigrum) plant](image:black-pepper-catkin.jpg)
 
 The ancient Greeks imported pepper from India both as a spice and as a medicine.
 Even today the finest black pepper, known as _Black Gold_, still comes from the

@@ -3,7 +3,7 @@ tag: trail
 
 # Main Gates and East and West Lodges
 
-![Main Gates](images/main-gates.jpg)
+![Main Gates](image:main-gates.jpg)
 
 The entrance and lodges were constructed in 1894 by
 the City Architect Alex B McDonald (1847 - 1915) and

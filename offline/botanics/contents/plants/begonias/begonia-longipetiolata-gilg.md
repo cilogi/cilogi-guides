@@ -3,6 +3,6 @@ tag : begonia
 
 # Begonia longipetiolata 'Gilg'.
 
-![Begonia sericoneura](images/begonia-longipetiolata-gilg.jpg)
+![Begonia sericoneura](image:begonia-longipetiolata-gilg.jpg)
 .
 
