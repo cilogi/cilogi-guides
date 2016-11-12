@@ -4,7 +4,7 @@ index: 1720
 
 # Our Flora
 
-* [Begonias](listings/begonias)
-* [Economically important plants](listings/economic.html)
+* [Begonias](listing:begonias)
+* [Economically important plants](listing:economic)
 * [Chronological Border](page:11)
-* [Trees](tours/tree-trail)
+* [Trees](tour:tree-trail)

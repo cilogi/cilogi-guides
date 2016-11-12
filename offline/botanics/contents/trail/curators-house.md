@@ -5,7 +5,7 @@ tag: trail
 
 ![The Curator's House and Visitor Centre](image:curators-house.jpg)
 
-[road to the Isles](audios/road-to-the-isles.mp3)
+[road to the Isles](audio:road-to-the-isles.mp3)
 
 The 'B' listed Curators House was built in 1840, and is still known by
 this name. Designed by [Charles Wilson][1], a central figure in the

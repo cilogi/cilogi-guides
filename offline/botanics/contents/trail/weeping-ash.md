@@ -11,4 +11,4 @@ transplanted from the Botanic Garden at Sandyford in
 1841. It had been given in 1818 by Robert Austin, a
 nurseryman, and one of the original directors.
 
-More on Ash at [Wikipedia](/wiki.html?target=Fraxinus_excelsior).
+More on Ash at [Wikipedia](/wiki/Fraxinus_excelsior).

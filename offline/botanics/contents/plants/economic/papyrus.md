@@ -31,5 +31,5 @@ papyrus paper making, but also to a decline in the papyrus plant
 cultivation.  Eventually, the papyrus plant disappeared from the area
 of the Nile, where it was once the lifeblood of ancient Egypt.
 
-More on [Wikipedia](/wiki.html?target=Papyrus).
+More on [Wikipedia](/wiki/Papyrus).
 
