@@ -4,7 +4,7 @@ mappedBy: 5
 
 # Eve (c1880)
 
-![Eve by Scipione Tadolini, c1880](images/eve.jpg)
+![Eve by Scipione Tadolini, c1880](image:eve.jpg)
 
 This marble statue of Eve, the first woman, was created
 by Italian sculptor Scipione Tadolini (1822-1892). This

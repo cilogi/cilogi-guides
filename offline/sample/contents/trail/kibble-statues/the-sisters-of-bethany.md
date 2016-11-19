@@ -4,7 +4,7 @@ mappedBy: 5
 
 # The sisters of Bethany (1871)
 
-![The Sisters of Bethany by John Warrington Wood, 1871](images/sisters-of-bethany.jpg)
+![The Sisters of Bethany by John Warrington Wood, 1871](image:sisters-of-bethany.jpg)
 
 The subtitle is _The Master is come and calleth for Thee_.  The
 subject is from the [Gospel of John (12, 1-7)][1] where Martha serves
