@@ -6,14 +6,15 @@
                 {"id" : "red", "color": "red", "icon": "fa-eye", "theme": "Historical Site"},
                 {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "What's New"}],
     "showLocation" : true,
-    "image": {"src" : "_diagram_botanics1200optpsCOL.png"},
+    "overlay": {
+        "images": [{"src" : "_diagram_botanics1200optpsCOL.png"}],
+        "zoom": {"min" : 1, "max": 4, "start": 3}
 
+    },
     "items": [{ "id": "4", "description": "Sundial", "pixel": [880, 359], "marker": "green"},
               { "id": "1", "description": "Curator's House", "pixel": [878, 224], "marker": "red"}],
 
     "prevMap": "map1",
-
-    "zoom": {"min" : 1, "max": 4, "start": 3},
     "sizes": {"min": 0.5, "max": 2.0, "threshold": 1.0},
     "layer": 1
 }

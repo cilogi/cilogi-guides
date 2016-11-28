@@ -8,32 +8,37 @@
               {"id" : "cafe", "color": "red", "icon": "fa-coffee", "theme": "Cafe"},
               {"id" : "entrance", "color": "red", "icon": "fa-user", "theme": "Entrance"}
     ],
-    "provider"    : "mapnik",
-    "showLocation" : true,
-    "image"  : {"src" : "_diagram_botanics1200optpsCOL.png",
-                "locates": [
-                    {
-                        "pixel": [0.0, 0.0],
-                        "latlng": [55.881846736578304, -4.293551445007324],
-                        "tag": "nw corner"
-                    },
-                    {
-                        "pixel": [1200.0, 0.0],
-                        "latlng": [55.879614344497924, -4.286578421624719],
-                        "tag": "ne corner"
-                    },
-                    {
-                        "pixel": [1200.0, 650.0],
-                        "latlng": [55.8774956100752, -4.288734197616577],
-                        "tag": "se corner"
-                    },
-                    {
-                        "pixel": [0.0, 650.0],
-                        "latlng": [55.879728123990134, -4.295707220999184],
-                        "tag": "sw corner"
-                    }
-                ]
+    "overlay": {
+        "bounds": {"tl": [55.884202, -4.294497], "br": [55.877465, -4.286322], "center": [55.8797043, -4.2911777]},
+        "image"  : [{"src" : "_diagram_botanics1200optpsCOL.png",
+                    "locates": [
+                        {
+                            "pixel": [0.0, 0.0],
+                            "latlng": [55.881846736578304, -4.293551445007324],
+                            "tag": "nw corner"
+                        },
+                        {
+                            "pixel": [1200.0, 0.0],
+                            "latlng": [55.879614344497924, -4.286578421624719],
+                            "tag": "ne corner"
+                        },
+                        {
+                            "pixel": [1200.0, 650.0],
+                            "latlng": [55.8774956100752, -4.288734197616577],
+                            "tag": "se corner"
+                        },
+                        {
+                            "pixel": [0.0, 650.0],
+                            "latlng": [55.879728123990134, -4.295707220999184],
+                            "tag": "sw corner"
+                        }
+                    ]
+        }],
+        "provider" : "mapnik",
+        "zoom"  : {"min" : 16, "max": 18, "start": 17}
+
     },
+    "showLocation" : true,
     "items": [
         { "id": "701",  "description": "Corsican Pine", "latlng": [55.879457, -4.291821]},
         { "id": "702",  "description": "Chinese Mahogony", "latlng": [55.879034, -4.289167]},
@@ -63,8 +68,6 @@
         { "id": "719", "description": "Monkey Puzzle", "latlng": [55.879863, -4.291434]},
         { "id": "720", "description": "Monarch Birch", "latlng": [55.879114, -4.291713]}
     ],
-    "zoom"  : {"min" : 16, "max": 18, "start": 17},
     "sizes" : {"min": 0.7, "max": 2.1, "threshold": 0.5} ,
-    "bounds": {"tl": [55.884202, -4.294497], "br": [55.877465, -4.286322], "center": [55.8797043, -4.2911777]},
     "nextMap": "map1"
 }

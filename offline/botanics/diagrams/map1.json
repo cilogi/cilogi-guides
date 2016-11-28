@@ -46,33 +46,45 @@
             "theme": "What's New"
         }
     ],
-    "provider": "mapnik",
-    "showLocation": true,
-    "image": {
-        "src": "_diagram_botanics1200optpsCOL.png",
-        "locates": [
-            {
-                "pixel": [0.0, 0.0],
-                "latlng": [55.881846736578304, -4.293551445007324],
-                "tag": "nw corner"
-            },
-            {
-                "pixel": [1200.0, 0.0],
-                "latlng": [55.879614344497924, -4.286578421624719],
-                "tag": "ne corner"
-            },
-            {
-                "pixel": [1200.0, 650.0],
-                "latlng": [55.8774956100752, -4.288734197616577],
-                "tag": "se corner"
-            },
-            {
-                "pixel": [0.0, 650.0],
-                "latlng": [55.879728123990134, -4.295707220999184],
-                "tag": "sw corner"
-            }
-        ]
+    "overlay": {
+        "bounds": {
+            "tl": [55.884759, -4.294045],
+            "br": [55.877300, -4.279425],
+            "center": [55.879380, -4.291157]
+        },
+        "images": [{
+            "src": "_diagram_botanics1200optpsCOL.png",
+            "locates": [
+                {
+                    "pixel": [0.0, 0.0],
+                    "latlng": [55.881846736578304, -4.293551445007324],
+                    "tag": "nw corner"
+                },
+                {
+                    "pixel": [1200.0, 0.0],
+                    "latlng": [55.879614344497924, -4.286578421624719],
+                    "tag": "ne corner"
+                },
+                {
+                    "pixel": [1200.0, 650.0],
+                    "latlng": [55.8774956100752, -4.288734197616577],
+                    "tag": "se corner"
+                },
+                {
+                    "pixel": [0.0, 650.0],
+                    "latlng": [55.879728123990134, -4.295707220999184],
+                    "tag": "sw corner"
+                }
+            ]
+        }],
+        "provider": "mapnik",
+        "zoom": {
+            "min": 16,
+            "max": 18,
+            "start": 17
+        }
     },
+    "showLocation": true,
     "items": [
         {
             "id": "1",
@@ -257,20 +269,10 @@
             "latlng": [55.879873, -4.287989]
         }
     ],
-    "zoom": {
-        "min": 16,
-        "max": 18,
-        "start": 17
-    },
     "sizes": {
         "min": 0.5,
         "max": 1.5,
         "threshold": 0.4
-    },
-    "bounds": {
-        "tl": [55.884759, -4.294045],
-        "br": [55.877300, -4.279425],
-        "center": [55.879380, -4.291157]
     },
     "nextMap": "map2"
 }
