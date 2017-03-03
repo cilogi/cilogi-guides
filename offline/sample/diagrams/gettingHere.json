@@ -9,8 +9,7 @@
         "bounds": {"tl": [55.885317, -4.304213], "br": [55.873582, -4.278614]},
         "images": [],
         "provider"    : "mapnik",
-        "zoom"  : {"min" : 15, "max": 17, "start": 16},
-
+        "zoom"  : {"min" : 15, "max": 17, "start": 16}
     },
     "items": [
         {"description": "Margaret Drive Gate", "latlng": [55.878920, -4.287637], "marker" : "info"},
@@ -18,6 +17,6 @@
         {"description": "Main Gate", "latlng": [55.877989, -4.289662], "marker" : "info"},
         {"description": "Hillhead Underground", "text": "Travel from the main stations", "latlng": [55.875232, -4.293385], "marker" : "tube"}
     ],
-    "sizes" : {"min": 0.8, "max": 1.25, "threshold": 0.75} ,
+    "sizes" : {"min": 0.8, "max": 1.25, "threshold": 0.75}
 }
 

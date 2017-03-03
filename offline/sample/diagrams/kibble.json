@@ -6,8 +6,8 @@
                 {"id" : "statue", "color": "red", "icon": "fa-eye", "theme": "Statue"}],
     "showLocation" : true,
     "overlay": {
-        "images": [{"src" : "kibble-diagram2.png"}],
-        "zoom": {"min" : 1, "max": 3, "start": 1},
+        "images": [{"src" : "_diagram_kibble-diagram2.png"}],
+        "zoom": {"min" : 1, "max": 3, "start": 1}
     },
     "items": [{ "id": "5002", "description": "King Robert of Sicily", "pixel": [124,660], "marker": "statue"},
               { "id": "5001", "description": "Cain", "pixel": [124, 440], "marker": "statue"},
