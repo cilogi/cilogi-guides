@@ -5,7 +5,7 @@ sku: 1104375869
 
 # King Robert of Sicily (c1927)
 
-![King Robert of Sicily by George Henry Paulin, c1927](images/king-robert-of-sicily.jpg)
+![King Robert of Sicily by George Henry Paulin, c1927](image:king-robert-of-sicily.jpg)
 
 The seated statue of King Robert and his monkey, executed by the
 Scottish sculptor George Henry Paulin (1888-1962). King Robert is

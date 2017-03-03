@@ -2,7 +2,7 @@
     "id": "botanics-trail",
     "title": "The Botanics Trail",
     "background": "kibble-dome.jpg",
-    "description": "The Botanic Gardens Trail starts at the [Curator's House](page/1)\nand should take you about one and a half hours to complete.",
+    "description": "The Botanic Gardens Trail starts at the [Curator's House](page:1)\nand should take you about one and a half hours to complete.",
     "stops": [
         {
             "id": "1",

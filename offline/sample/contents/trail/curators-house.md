@@ -3,7 +3,7 @@ tag: trail
 
 # Curator's House/Visitor Centre (1840)
 
-![The Curator's House and Visitor Centre](images/curators-house.jpg)
+![The Curator's House and Visitor Centre](image:curators-house.jpg)
 
 
 The 'B' listed Curators House was built in 1840, and is still known by
