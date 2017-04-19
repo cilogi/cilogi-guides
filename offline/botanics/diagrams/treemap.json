@@ -10,7 +10,7 @@
     ],
     "overlay": {
         "bounds": {"tl": [55.884202, -4.294497], "br": [55.877465, -4.286322], "center": [55.8797043, -4.2911777]},
-        "image"  : [{"src" : "_diagram_botanics1200optpsCOL.png",
+        "image"  : {"src" : "_diagram_botanics1200optpsCOL.png",
                     "locates": [
                         {
                             "pixel": [0.0, 0.0],
@@ -33,7 +33,7 @@
                             "tag": "sw corner"
                         }
                     ]
-        }],
+        },
         "provider" : "mapnik",
         "zoom"  : {"min" : 16, "max": 18, "start": 17}
 

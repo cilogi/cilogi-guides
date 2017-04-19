@@ -52,7 +52,7 @@
             "br": [55.877300, -4.279425],
             "center": [55.879380, -4.291157]
         },
-        "images": [{
+        "image": {
             "src": "_diagram_botanics1200optpsCOL.png",
             "locates": [
                 {
@@ -76,7 +76,7 @@
                     "tag": "sw corner"
                 }
             ]
-        }],
+        },
         "provider": "mapnik",
         "zoom": {
             "min": 16,

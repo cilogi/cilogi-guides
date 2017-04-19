@@ -5,5 +5,5 @@
     "description": "Many plants have an important economic use.",
     "background": "papyrus.jpg",
     "tags": ["economic"],
-    "metaData": {"index": [6000]}
+    "metaData": {"index": ["6000"]}
 }

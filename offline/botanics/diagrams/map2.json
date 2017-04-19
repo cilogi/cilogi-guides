@@ -7,7 +7,7 @@
                 {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "What's New"}],
     "showLocation" : true,
     "overlay": {
-        "images": [{"src" : "_diagram_botanics1200optpsCOL.png"}],
+        "image": {"src" : "_diagram_botanics1200optpsCOL.png"},
         "zoom": {"min" : 1, "max": 4, "start": 3}
 
     },
