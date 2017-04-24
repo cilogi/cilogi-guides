@@ -5,6 +5,6 @@ description: A guide to Glasgow's Kelvingrove Park.
 
 # Kelvingrove Park
 
-* [Kelvingrove Park Trail](tours/kelvingrove-park-trail)
-* [History of the Park](contents/history/kelvingrove-park-history.html)
-* [Map of the park](diagrams/default-map.html)
+* [Kelvingrove Park Trail](tour:kelvingrove-park-trail)
+* [History of the Park](page:200)
+* [Map of the park](map:default-map)
