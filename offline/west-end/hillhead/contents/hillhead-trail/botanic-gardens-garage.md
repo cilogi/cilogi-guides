@@ -3,7 +3,7 @@ location: 55.877072,-4.290358
 
 # Botanic Gardens Garage
 
-![Botanic Gardens Garage](botanics-garage.jpg)
+![Botanic Gardens Garage](image:botanics-garage.jpg)
 
 The Botanic Gardens Garage is the oldest motor garage surviving in
 Glasgow, and possibly in the UK. Built in Vinicombe Street from 1906 -

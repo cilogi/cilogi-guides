@@ -3,7 +3,7 @@ location: 55.874059,-4.284613
 
 # Eton Terrace, 41-43 Oakfield Avenue
 
-![Eton Terrace](eton-terrace.jpg)
+![Eton Terrace](image:eton-terrace.jpg)
 
 A short terrace built in 1865 by Alexander (Greek) Thompson.  The
 houses at each end have been likened to temples.

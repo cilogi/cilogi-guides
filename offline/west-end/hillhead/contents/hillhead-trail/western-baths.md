@@ -3,7 +3,7 @@ location: 55.876608,-4.290646
 
 # Western Baths
 
-![Western Baths](western-baths.jpg)
+![Western Baths](image:western-baths.jpg)
 
 The Western Baths is a private swimming and leisure club.  It was
 founded in 1876.  It is a Category A listed building.  It is one of

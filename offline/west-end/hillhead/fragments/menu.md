@@ -1,2 +1,2 @@
 * [Home](index.html)
-* [The Hillhead Trail](tours/hillhead-trail)
+* [The Hillhead Trail](tour:hillhead-trail)

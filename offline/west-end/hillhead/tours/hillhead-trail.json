@@ -7,11 +7,6 @@
     "stops": [
         { "id": "100" },
         { "id": "101" },
-        {
-            "id": "stop/1",
-            "title": "Walk to the Western Baths",
-            "intro": "From the Curler's rest head left (left, looking at the pub), turn right on Great George Street and then cross the road to take Cresswell Lane on the left.\n\nAt the end of Cresswell Lane turn right then left onto Cranworth Street (after Burgh Lane). The Western Baths are on the left halfway up Cranworth Street. "
-        },
         { "id": "102" },
         { "id": "103" },
         { "id": "104" },

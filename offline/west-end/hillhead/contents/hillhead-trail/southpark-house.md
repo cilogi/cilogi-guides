@@ -3,7 +3,7 @@ location: 55.873905,-4.287087
 
 # Southpark House
 
-![Southpark House](southpark-house.jpg)
+![Southpark House](image:southpark-house.jpg)
 
 Southpark House was built around 1850 as a double villa.
 
