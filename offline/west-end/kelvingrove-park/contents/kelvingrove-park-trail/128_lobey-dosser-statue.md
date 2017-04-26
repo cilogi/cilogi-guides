@@ -5,7 +5,7 @@ marker: sculpture
 
 # Lobey Dosser
 
-![Bronze of Lobey Dosser](lobey-dosser-statue.jpg)
+![Bronze of Lobey Dosser](image:lobey-dosser-statue.jpg)
 
 This bronze was created in 1992.  It is the world's only statue of a two-legged
 horse.  It shows Sheriff Lobey Dosser and his nemesis Rank
@@ -28,7 +28,7 @@ There is another statue from the same series, of G.I, Bride which was
 placed in Partick Station in 2011.  This was sculpted by MacColl
 himself.
 
-![G.I. Bride](gi-bride.jpg)
+![G.I. Bride](image:gi-bride.jpg)
 
 MacColl is responsible for the garden restaurant at the Ubiquitous Chip in
 Ashton Lane, as well as the interior design of several pubs in the area, including:
