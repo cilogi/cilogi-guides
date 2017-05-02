@@ -4,8 +4,7 @@
 
     "markers": [{"id" : "red", "color": "red", "icon": "fa-star", "theme": "Plant"}],
     "overlay": {
-        "image": {"src" : "_diagram_chronological-c16.jpg"},
-        "zoom": {"min" : 1, "max": 4, "start": 1}
+        "image": {"src" : "_diagram_chronological-c16.jpg"}
     },
 
     "items": [{ "id": "401", "description": "Geranium Macrorrhizum", "pixel": [468,626], "marker": "red"},

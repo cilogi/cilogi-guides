@@ -8,6 +8,8 @@
               {"id" : "cafe", "color": "red", "icon": "fa-coffee", "theme": "Cafe"},
               {"id" : "entrance", "color": "red", "icon": "fa-user", "theme": "Entrance"}
     ],
+    "zoom"  : {"min" : 16, "max": 18, "start": 17},
+    "provider" : "mapbox",
     "overlay": {
         "bounds": {"tl": [55.884202, -4.294497], "br": [55.877465, -4.286322], "center": [55.8797043, -4.2911777]},
         "image"  : {"src" : "_diagram_botanics1200optpsCOL.png",
@@ -33,10 +35,7 @@
                             "tag": "sw corner"
                         }
                     ]
-        },
-        "provider" : "mapnik",
-        "zoom"  : {"min" : 16, "max": 18, "start": 17}
-
+        }
     },
     "showLocation" : true,
     "items": [

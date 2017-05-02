@@ -46,6 +46,12 @@
             "theme": "What's New"
         }
     ],
+    "zoom": {
+         "min": 16,
+         "max": 18,
+         "start": 17
+     },
+    "provider": "mapbox",
     "overlay": {
         "bounds": {
             "tl": [55.884759, -4.294045],
@@ -76,14 +82,9 @@
                     "tag": "sw corner"
                 }
             ]
-        },
-        "provider": "mapnik",
-        "zoom": {
-            "min": 16,
-            "max": 18,
-            "start": 17
         }
-    },
+
+     },
     "showLocation": true,
     "items": [
         {
@@ -274,5 +275,5 @@
         "max": 1.5,
         "threshold": 0.4
     },
-    "nextMap": "map2"
+    "nextMap": "treemap"
 }
