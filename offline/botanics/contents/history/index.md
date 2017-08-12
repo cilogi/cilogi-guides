@@ -30,6 +30,7 @@ of the new Gardens. Hopkirk gifted the plants cultivated in his own
 garden at Dalbeth to form the nucleus of the new Botanic Gardens.
 
 [William Jackson Hooker](/wiki.html?target=William_Jackson_Hooker),
+
 one of the most outstanding of British botanists. was appointed to the
 chair of Botany at Glasgow in 1821. He was largely responsible for the
 remarkable success of the Gardens in the early years. This was a
@@ -115,6 +116,7 @@ known, had 39 statues as advertised in Tweed's Guide to Glasgow of
 1874.
 
 ![Kibble Palace in 1875](image:kibble-1875.jpg)
+
 This image of the Kibble taken in 1875 shows the large hall erected
 for John Kibbles oxy-hydrogen lantern performances.
 

@@ -1,6 +1,5 @@
 index: 701
 tag: tree-trail
-sku: 0881929743
 
 # Corsican Pine
 

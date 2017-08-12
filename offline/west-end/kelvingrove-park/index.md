@@ -7,4 +7,4 @@ description: A guide to Glasgow's Kelvingrove Park.
 
 * [Kelvingrove Park Trail](tour:kelvingrove-park-trail)
 * [History of the Park](page:200)
-* [Map of the park](map:default-map)
+* [Map of the park](map:default-diagram)

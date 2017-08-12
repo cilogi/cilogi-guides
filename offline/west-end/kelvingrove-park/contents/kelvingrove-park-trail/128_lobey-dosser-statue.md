@@ -2,6 +2,7 @@ index: 128
 location: 55.869809,-4.275301
 tag: statue
 marker: sculpture
+sku: 1851584056
 
 # Lobey Dosser
 
@@ -18,7 +19,7 @@ a _bajin_ is Glasgow slang for _bad one_.
 These are characters from a cartoon strip by [Bud Neill][1].  The cartoon
 started in the Evening Times in 1949 where it ran for 7 years, then
 moving to the Sunday Mail.  It developed a cult following after
-Neill's 1970 death.
+Neill's death in 1970.
 
 The statue is located opposite the pub where it was conceived. It was
 designed by two art students Tony Morrow and Nick Gillion based on a
