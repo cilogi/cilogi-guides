@@ -82,8 +82,8 @@ to phone capabilities.
 ## Discovery via QR codes and URLs
 
 How do you get to find out about a guide?  Our solution is to provide
-[QR codes](/wiki.html?target=QR_code) and
-[short code URLs](/wiki.html?target=URL_shortener)
+[QR codes](/wiki/QR_code) and
+[short code URLs](/wiki/URL_shortener)
 throughout the collection.  A QR code leads to the guide when you take
 a picture of it with the phone's camera; a short code URL can be typed
 in with little effort. 
@@ -133,7 +133,7 @@ have to input more than the minimum of personal details (email and
 password), and (c) you're already signed up to it.
 
 You set up a store by providing a comma separated file, which is
-parsed, converted to [JSON](/wiki.html?target=JSON) and
+parsed, converted to [JSON](/wiki/JSON) and
 loaded (asynchronously) when any page of the website is loaded.  The
 comma separated file can easily be output from a database.
 
@@ -287,7 +287,7 @@ The on-the-fly approach depends on (a) use of persistent storage -- we
 use [HTML local storage](http://dev.w3.org/html5/webstorage/) and (b)
 the ability to intercept and modify pages before they are displayed.
 This latter ability is provided by the
-[jQuery Mobile](/wiki.html?target=JQuery_Mobile) framework,
+[jQuery Mobile](/wiki/JQuery_Mobile) framework,
 which is the web framework we use.  jQuery Mobile provides first class
 support for iOS, Android and Blackberry 6.
 
@@ -296,7 +296,7 @@ support for iOS, Android and Blackberry 6.
 No-one has the resources to provide comprehensive information relating
 to all the exhibits in a collection. For instance a gallery may have a
 work by
-[Alberto Giacometti](/wiki.html?target=Alberto_Giacometti)
+[Alberto Giacometti](/wiki/Alberto_Giacometti)
 on display. As a visitor I may be interested in looking at other work,
 outside the collection, by this artist and then following up on these
 artists. Its just not possible to provide all this information as a
@@ -310,7 +310,7 @@ into Cilogi guides:
 
 * A link to Wikipedia can be included in text;
 * The
-  [transclusion](/wiki.html?target=Wikipedia:Transclusion)
+  [transclusion](/wiki/Wikipedia:Transclusion)
   of a Wikipedia article can be included on a page; 
   
   ![Transclusion of a Wikipedia article, starting with the image of Black Pepper](image:pepper.jpg)
@@ -328,7 +328,7 @@ Authors can generate guides just by editing text files, and by
 dropping images into the appropriate directory. Work can be shared, so
 that multiple authors can work  on a guide simultaneously.
 
-Pages are written in [Markdown](/wiki.html?target=Markdown), a simple markup
+Pages are written in [Markdown](/wiki/Markdown), a simple markup
 language which allows pages to be created with a simple text editor.
 Here is an example:
     
@@ -339,7 +339,7 @@ Here is an example:
     
     * Lists are easy
     * just use an asterisk
-    * Links [like this](/wiki.html?target=Link]
+    * Links [like this](/wiki/Link]
     
     ![An image](image:sample.png)
     
@@ -371,9 +371,9 @@ You retain ownership of the content, which sits in a folder on your
 computer. 
 
 We are using cloud infrastructure, currently from Amazon with
-[S3](/wiki.html?target=Amazon_S3), Google with
-[App Engine](/wiki.html?target=App_Engine) and
-[Dropbox](/wiki.html?target=Dropbox_(service)).
+[S3](/wiki/Amazon_S3), Google with
+[App Engine](/wiki/App_Engine) and
+[Dropbox](/wiki/Dropbox_(service)).
 
 Using the cloud eliminated fixed infrastructure costs, and to a large
 extent the requirement for in-house maintenance.  Costs are
@@ -384,23 +384,23 @@ bursty traffic.
 
 Cilogi's architecture is that of a JavaScript(CoffeeScript, Dart, GWT
 if you prefer) application on the client with
-[REST](/wiki.html?target=Representational_state_transfer)
+[REST](/wiki/Representational_state_transfer)
 services provided from Cilogi's infrastructure.
 
 Mobile phones are personal devices so JavaScript-based customization
 on a per-user basis works well and provides most of what a
 server-based solution can.  Services such as
-[Disqus](/wiki.html?target=Disqus), work on mobile websites
+[Disqus](/wiki/Disqus), work on mobile websites
 and require only JavaScript (and
-[JSON](http://en.wikipedia.org/wiki.html?target=JSONP)). If
+[JSON](http://en.wikipedia.org/wiki/JSONP)). If
 necessary it is possible to password protect sensitive information via
 encryption.
 
 -----
 
 Cilogi currently works on two cloud platforms,
-[Amazon S3](/wiki.html?target=Amazon_S3) and
-[Google App Engine](/wiki.html?target=App_Engine). Amazon
+[Amazon S3](/wiki/Amazon_S3) and
+[Google App Engine](/wiki/App_Engine). Amazon
 S3 supports purely static sites, with web services only available via
 JSONP.  App Engine provides a scalable full-service platform.
 
