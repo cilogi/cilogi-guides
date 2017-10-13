@@ -1,4 +1,4 @@
-background: weeping-ash.jpg
+background: weeping-ash-background.jpg
 listview: true
 index: 1720
 

@@ -12,5 +12,6 @@
 
     "sizes": {"min": 1, "max": 1.7, "threshold": 0.5},
     "layer": 1,
+    "listed": false,
     "metaData": {"index": ["400"]}
 }

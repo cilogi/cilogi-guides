@@ -1,5 +1,5 @@
 index: 5008
-tag: statue
+tag: statue kibble-statue
 containedBy: 5
 
 # Stepping Stones (1878)

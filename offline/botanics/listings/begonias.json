@@ -3,7 +3,6 @@
     "type": "text",
     "title": "Begonias in the Gardens",
     "description": "The Gardens contains the National Begonia Collection",
-    "background": "begonia-sample.jpg",
     "tags": ["begonia"],
-    "metaData": {"index": ["5000"]}
+    "metaData": {"index": ["5000"], "background": ["begonia-sample.jpg"]}
 }

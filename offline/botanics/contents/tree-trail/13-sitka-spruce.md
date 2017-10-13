@@ -5,7 +5,7 @@ sku: 0881929743
 
 # Sitka Spruce
 
-![Himalayan Birch](himalayan-birch.jpg)
+![Sitka Spruce](sitka-spruce.jpg)
 
 <p class="species-info"><em>Picea sitchensis</em> Carriere</p>
 

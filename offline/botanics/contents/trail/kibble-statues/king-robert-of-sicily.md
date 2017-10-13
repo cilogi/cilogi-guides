@@ -1,5 +1,5 @@
 index: 5002
-tag: statue
+tag: statue kibble:statue
 containedBy: 5
 sku: 1104375869
 
