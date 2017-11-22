@@ -11,7 +11,6 @@
               { "id": "402", "description": "Lychnis Chalcedonica", "pixel": [854,600], "marker": "red"}],
 
     "sizes": {"min": 1, "max": 1.7, "threshold": 0.5},
-    "layer": 1,
     "listed": false,
     "metaData": {"index": ["400"]}
 }

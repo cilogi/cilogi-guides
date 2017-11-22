@@ -18,6 +18,5 @@
               { "id": "5008", "description": "Stepping Stones", "pixel": [830,930], "marker": "statue"},
               { "id": "5007", "description": "The Nubian Slave", "pixel": [620,750], "marker": "statue"}
     ],
-    "sizes": {"min": 0.5, "max": 2.0, "threshold": 1.0},
-    "layer": 1
+    "sizes": {"min": 0.5, "max": 2.0, "threshold": 1.0}
 }
