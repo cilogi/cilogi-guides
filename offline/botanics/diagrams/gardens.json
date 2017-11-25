@@ -1,7 +1,7 @@
 {
   "name": "gardens",
   "listed": true,
-  "title": "Gardens & River Walk",
+  "title": "Map of Gardens & River",
   "markers": [
     {
       "id": "green",
@@ -60,9 +60,9 @@
     },
     {
       "id": "listing",
-      "color": "black",
+      "color": "maroon",
       "icon": "fa-list",
-      "theme": "Listing",
+      "theme": "Collection",
       "shape": "round"
     }
   ],
