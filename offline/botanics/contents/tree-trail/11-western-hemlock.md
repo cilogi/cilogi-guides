@@ -11,7 +11,7 @@ sku: 117278583X
 Native range: The pacific region of North America: Alaska to California and areas around the Rocky Mountains
 (British Columbia,Idaho and Montana)
 
-The tree was introduced to Scotland in 1852 by John Jeffrey.
+The tree was introduced to Scotland in 1852 by [John Jeffrey](/wiki/John_Jeffrey_&#40;botanist&#41;).
 
 The name _heterophylla_ relates to the varying lengths of the needles (leaves). In Greek, hetero means ‘different’
   and _phylla_ means leaf.

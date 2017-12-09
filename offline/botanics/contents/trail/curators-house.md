@@ -25,4 +25,4 @@ Obelisk is a feature of the [Southern Necropolis Heritage Trail][3].
 
 [1]: /wiki/Charles_Wilson_(Scottish_architect)
 [2]: /wiki/Southern_Necropolis
-[3]: http://www.southernnecropolis.co.uk/SN_final.pdf)
+[3]: http://www.southernnecropolis.co.uk/SN_final.pdf

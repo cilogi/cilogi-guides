@@ -1,5 +1,6 @@
 background: weeping-ash-background.jpg
 listview: true
+search: true
 index: 1720
 
 # Our Flora

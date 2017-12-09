@@ -341,7 +341,7 @@ Here is an example:
     * just use an asterisk
     * Links [like this](/wiki/Link]
     
-    ![An image](image:sample.png)
+    ![An image](image:botanic-flower.jpg)
     
 
 Authors work on a local folder attached to

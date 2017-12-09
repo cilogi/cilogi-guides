@@ -17,10 +17,10 @@ The species was first introduced into Britain in 1853 by John Matthew who sent s
 William Lobb also sent seeds to the famous plant nursery of James Veitch and Co. in Chelsea. There they propagated
   trees for more general sale (12 guineas a dozen).
 
-‘Sequoia’ is thought to be in honour of Sequoyah (c1765-1843), the first native American to convert the (Cherokee)
+‘Sequoia’ is thought to be in honour of [Sequoyah](/wiki/Sequoyah) (c1765-1843), the first native American to convert the (Cherokee)
   language into written form; ‘Dendron’ is Greek for ‘tree’.
 
-In an attempt to save the remaining stands of _Sequoiadendron giganteum_ from loggers, John Muir of Dunbar (1838-1914)
+In an attempt to save the remaining stands of _Sequoiadendron giganteum_ from loggers, [John Muir](/wiki/John_Muir) of Dunbar (1838-1914)
   campaigned in the United States for a policy of forest conservation. This led to the first national park.
 
 The timber of the tree is brittle and of low value as lumber. Undeterred, the loggers felled the great trees for
@@ -31,7 +31,7 @@ The trees are considered young or immature until they are around 100 years old w
 The number of naturally occurring _Sequoiadendron giganteum_ is declining and the ‘Big Trees’ now have IUCN endangered status.
 
 This tree was planted in 1993 and is documented on the National Tree Register. If you would like to see mature examples
-of Giant Redwoods then visit the Royal Botanic Gardens Benmore near Dunoon. It is a member of the National Tree
+of Giant Redwoods then visit the [Royal Botanic Gardens Benmore](/wiki/Benmore_Botanic_Garden) near Dunoon. It is a member of the National Tree
 Collections of Scotland. Benmore has a long avenue of fifty Giant Redwoods, planted in 1863 by the then owners,
 the Younger family.
 
