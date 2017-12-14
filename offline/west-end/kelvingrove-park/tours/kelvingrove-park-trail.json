@@ -1,8 +1,8 @@
 {
     "id": "kelvingrove-park-trail",
     "title": "Kelvingrove Park Trail",
-    "background": "carlyle-monument.jpg",
     "description": "The trail starts at Kelvingrove Museum and takes about 90 minutes",
+    "metaData": {"background": ["carlyle-monument.jpg"]},
     "stops": [
         { "id": "101" },
         { "id": "102" },

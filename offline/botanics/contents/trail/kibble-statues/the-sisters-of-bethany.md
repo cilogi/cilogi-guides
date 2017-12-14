@@ -7,9 +7,11 @@ containedBy: 5
 ![The Sisters of Bethany by John Warrington Wood, 1871](image:sisters-of-bethany.jpg)
 
 The subtitle is _The Master is come and calleth for Thee_.  The
-subject is from the [Gospel of John (12, 1-7)][1] where Martha serves
+subject is from the [Gospel of John (12, 1-7)](http://m.kingjamesbibleonline.org/John-Chapter-12/) 
+where Martha serves
 supper to Christ and Lazarus and Mary anoints Christ's feet with
-[Spikenard] and then wipes his feet with her hair.  Bethany is the
+[Spikenard](/wiki/Spikenard) and then wipes his feet with her hair.  
+[Bethany](/wiki/Bethany_&#40;biblical_village&#41;) is the
 name of the village.
 
 The statue was exhibited at the RA in 1979.  It was presented to
@@ -31,6 +33,3 @@ In 1877 he was elected to the Guild of St Luke in Rome, a singular
 honour for a foreign artist. Wood died suddenly of complications of a
 heart condition at his apartments in the Lion Hotel in Bridge Street,
 Warrington. 
-
-[1]: http://m.kingjamesbibleonline.org/John-Chapter-12/
-[2]: /wiki/Spikenard

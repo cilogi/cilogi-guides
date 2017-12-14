@@ -1,8 +1,8 @@
 {
     "id": "botanics-trail",
     "title": "The Botanics Trail",
-    "background": "kibble-dome.jpg",
     "description": "The Botanic Trail starts at the [Visitor Centre](page:1) and should take you about one and a half hours to complete.",
+    "metaData": {"background": ["kibble-dome.jpg"]},
     "stops": [
         {
             "id": "1",

@@ -1,9 +1,9 @@
 {
     "id": "hillhead-trail",
     "title": "The Hillhead Trail",
-    "background": "hillhead-mural.jpg",
     "description": "The trail starts at Hillhead Subway station\nand should take you about one and a half hours to complete.",
     "location": [55.873812, -4.289074],
+    "metaData": {"background": ["hillhead-mural.jpg"]},
     "stops": [
         { "id": "100" },
         { "id": "101" },
