@@ -1,5 +1,6 @@
 index: 5006
-tag: statue kibble-statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 
 # The Elf (1899)

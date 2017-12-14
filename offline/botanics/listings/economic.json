@@ -1,8 +1,0 @@
-{
-    "id": "economic",
-    "type": "text",
-    "title": "Economically Useful Plants",
-    "description": "Many plants have an important economic use.",
-    "tags": ["economic"],
-    "metaData": {"index": ["6000"], "background": ["papyrus.jpg"]}
-}

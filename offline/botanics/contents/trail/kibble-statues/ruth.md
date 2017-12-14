@@ -1,5 +1,6 @@
 index: 5004
-tag: statue kibble-statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 
 # Ruth (c1880)

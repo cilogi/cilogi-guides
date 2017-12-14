@@ -1,5 +1,6 @@
 index: 5005
-tag: statue kibble-statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 
 # The sisters of Bethany (1871)
