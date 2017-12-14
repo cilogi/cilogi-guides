@@ -29,7 +29,7 @@ Botany, [Dr Robert Graham](/wiki/Robert_Graham_%28botanist%29), and he took an a
 of the new Gardens. Hopkirk gifted the plants cultivated in his own
 garden at Dalbeth to form the nucleus of the new Botanic Gardens.
 
-[William Jackson Hooker](/wiki.html?target=William_Jackson_Hooker),
+[William Jackson Hooker](/wiki/William_Jackson_Hooker),
 one of the most outstanding of British botanists. was appointed to the
 chair of Botany at Glasgow in 1821. He was largely responsible for the
 remarkable success of the Gardens in the early years. This was a
@@ -43,7 +43,7 @@ botany.
 The rapid expansion of Glasgow soon made the small eight acre site at
 Sandyford unsuitable and by 1839 an area had been purchased in the
 newly opened estate of
-Kelvinside. [Sir Joseph Paxton](/wiki.html?target=Joseph_Paxton)
+Kelvinside. [Sir Joseph Paxton](/wiki/Joseph_Paxton)
 (1803-65) was commissioned to design a new garden on the lands on the
 south bank of the gorge section of the River Kelvin.
 
@@ -115,6 +115,7 @@ known, had 39 statues as advertised in Tweed's Guide to Glasgow of
 1874.
 
 ![Kibble Palace in 1875](image:kibble-1875.jpg)
+
 This image of the Kibble taken in 1875 shows the large hall erected
 for John Kibbles oxy-hydrogen lantern performances.
 

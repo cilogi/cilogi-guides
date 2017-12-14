@@ -1,5 +1,6 @@
 index: 5007
-tag: statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 
 # Nubian Slave (after 1858)

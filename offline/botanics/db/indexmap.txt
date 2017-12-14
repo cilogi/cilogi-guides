@@ -31,7 +31,7 @@
 18	contents/trail/railway-viaduct.html	Railway Viaduct at Garrioch (c. 1896)
 8	contents/trail/station.html	Botanic Gardens Station (Disused)
 4	contents/trail/sundial.html	Sundial
-7	contents/trail/weeping-ash.html	Weeping Ash
+706	contents/trail/weeping-ash.html	Weeping Ash
 28	contents/trail/weir-and-mill-lade.html	Weir and Mill Lade
 13	contents/trail/world-rose-garden.html	World Rose Garden
 -	splash.html	Welcome to Glasgow Botanics Gardens

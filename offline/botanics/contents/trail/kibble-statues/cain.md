@@ -1,5 +1,6 @@
 index: 5001
-tag: statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 
 # Cain (1899) or My Punishment is greater than I can bear

@@ -1,5 +1,6 @@
 index: 5002
-tag: statue
+tag: statue 
+tag: kibble:statue
 containedBy: 5
 sku: 1104375869
 
@@ -17,5 +18,5 @@ King Robert of Sicily is a character in a well-known medieval poem,
 _Roberd of Cisyle_, extant from the late 14th Century.
 [Longfellow](/wiki/Henry_Wadsworth_Longfellow) wrote a poem based on
 this in 1863 which we reproduce
-[here](king-robert-of-sicily-longfellow.html).
+[here](page:6000).
 

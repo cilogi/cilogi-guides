@@ -3,7 +3,7 @@ location: 55.876984,-4.290514
 
 # Salon Cinema
 
-![Salon Cinema](salon-cinema.jpg)
+![Salon Cinema](image:salon-cinema.jpg)
 
 The Salon cinema was originally Hillhead's _Proposed Electric Cinema_.
 Its architects were Brand and Lithgow.

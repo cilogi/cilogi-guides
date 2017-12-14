@@ -1,6 +1,5 @@
 index: 702
 tag: tree-trail
-sku: 0715320211
 
 # Chinese Mahogony
 

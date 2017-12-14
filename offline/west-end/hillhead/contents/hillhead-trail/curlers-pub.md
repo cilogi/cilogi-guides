@@ -3,7 +3,7 @@ location: 55.875327,-4.293582
 
 # Curler's Rest (formerly Curlers Tavern)
 
-![The Curlers Rest](curlers-rest.jpg)
+![The Curlers Rest](image:curlers-rest.jpg)
 
 The pub takes its name from the Curling pond which used to lie
 opposite.  The Partick Curling Club (established 1842) had its pond

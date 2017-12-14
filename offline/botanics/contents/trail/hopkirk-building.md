@@ -12,4 +12,4 @@ refurbishment to turn it into a multi-functional space
 which is available for schools to carry out science
 studies during visits to the Gardens.
 
-[Wikipedia Article on Thomas Hopkirk](/wiki/Thomas_Hopkirk)
+[Thomas Hopkirk on Wikipedia](/wiki/Thomas_Hopkirk)

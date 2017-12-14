@@ -3,7 +3,7 @@ location: 55.875294,-4.293601
 
 # Hillhead Underground Station
 
-![Alasdair Gray Mural in Hillhead Station](hillhead-mural.jpg)
+![Alasdair Gray Mural in Hillhead Station](image:hillhead-mural.jpg)
 
 Hillhead Underground was opened in 1896 as part of the Glasgow
 Subway.  The subway is the third oldest in the world after the London

@@ -3,7 +3,7 @@ location: 55.868247,-4.280204
 
 # Park Gardens Staircase
 
-![park Gardens Staircase](park-gardens-staircase.jpg)
+![Park Gardens Staircase](park-gardens-staircase.jpg)
 
 The staircase was built from grey Bonawe granite from Argyll in 1853-4.
 

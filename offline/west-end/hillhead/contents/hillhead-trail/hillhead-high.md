@@ -3,7 +3,7 @@ location: 55.874495,-4.285409
 
 # Hillhead High School
 
-![Hillhead High School](hillhead-high-school.jpg)
+![Hillhead High School](image:hillhead-high-school.jpg)
 
 Built between 1928-31 by E. G. Wylie (1885-1954), after his design won
 a competition in 1921.  Made of red brick and laid out like a

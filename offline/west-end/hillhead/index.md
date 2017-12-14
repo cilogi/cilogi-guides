@@ -4,4 +4,5 @@ background: gilbert-scott.jpg
 
 # Glasgow Hillhead
 
-* [The Hillhead Trail](tours/hillhead-trail)
+* [The Hillhead Trail](tour:hillhead-trail)
+* [Map](map:default_diagram)

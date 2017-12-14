@@ -15,13 +15,13 @@ with intrepid tales, as well as precious and exotic plant
 seeds.
 
 The most famous Scottish Plant Hunters included
-[Archibald Menzies](/wiki/Archibald_Menzies), [David Douglas](/wiki/David_Douglas),
+[Archibald Menzies](/wiki/Archibald_Menzies), [David Douglas](/wiki/David_Douglas_&#40;botanist&#41;),
 [Thomas Drummond](/wiki/Thomas_Drummond_&#40;botanist&#41;)
 and [John Jeffrey](/wiki/John_Jeffrey_&#40;botanist&#41;).
 
-[David Douglas](/wiki/David_Douglas), who is immortalised by the [Douglas
+[David Douglas](/wiki/David_Douglas_&#40;botanist&#41;), who is immortalised by the [Douglas
 Fir tree](/wiki/Douglas_fir), collected more than 240 species. He is also
-famous for introducing the [Sitka Spruce](13-sitka-spruce.html), which is now
+famous for introducing the [Sitka Spruce](page:713), which is now
 the mainstay of the UK’s commercial forestry. Discover
 both trees on this __tree trail__.
 
@@ -35,5 +35,5 @@ Arboretum.
 
 Plant hunters still exist today. They are conservationists
 searching for and trying to save threatened trees such
-as the [Moroccan Fir](18-moroccan-fir.html) and the [Arran Whitebeam](14-arran-whitebeam.html). You
+as the [Moroccan Fir](page:718) and the [Arran Whitebeam](page:714). You
 can see both on the Trail.

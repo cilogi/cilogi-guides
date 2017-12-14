@@ -1,37 +1,8 @@
 {
     "title": "Kelvingrove Park",
-    "description": "Kelvingrove Park was built in the 1850s for the inhabitants of Glasgow's west end.  It was landscaped by Joseph Paxton and contains many interesting reminders and relics of Glasgow's past.  Take a tour!"
-    "guideImage": "herbaceous-border.jpg",
-    "filesize" : {
-        "max" : 120,
-        "except" : [
-                "*.html",
-                "*.json",
-                "*js/*",
-                "*css/*",
-                "*scripts/*",
-                "*styles/*"
-        ]
-    },
-    "blogs" : [
-            "blog/"
-    ],
-    "templates" : {
-        "*.md":      "md.ftl"
-     },
-    "listview" : [
-            "contents/plants/index.html",
-            "contents/trail/index.html",
-            "contents/plants/economic/index.html"
-    ],
-    "theme" : "jqm",
-    "uiTheme" : "w",
-    "email": "tim.niblett@cilogi.com",
+    "description": "Kelvingrove Park was built in the 1850s for the inhabitants of Glasgow's west end.  It was landscaped by Joseph Paxton and contains many interesting reminders and relics of Glasgow's past.  Take a tour!",
     "defaultTour": "hillhead-trail",
     "mapTitle": "Kelvingrove",
-    "showKeypad": false,
-    "shared": true,
     "latlng": [55.870307, -4.284043],
-    "bounds": {"tl": [55.872539, -4.294827], "br": [55.866459, -4.278985]}
-
+    "copyright": "Cilogi 2017"
 }
