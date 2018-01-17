@@ -14,6 +14,5 @@ background: botanic-flower.jpg
 * [The Botanics Trail](tour:botanics-trail)
 * [The Tree Trail](tour:tree-trail)
 * [Index](search.html)
-* [Our Shop](store/index.html)
-* [Using this guide](page:1702)
+* [Our Shop](shop/index.html)
 

@@ -1,10 +1,10 @@
 {
-    "storeName": "botanics",
-    "storeCurrency": "GBP",
+    "shopTitle": "Botanic Gardens Shop",
+    "shopCurrency": "GBP",
     "skus": [
         {
-            "id": "0715320211",
-            "title": "Hillier Gardener's Guide to Trees and Shrubs",
+            "id": "1907057471",
+            "title": "The Hillier Manual of Trees and Shrubs",
             "description": "Unique in its detailed and comprehensive coverage of temperate-zone trees and shrubs, and backed by the world-famous Hillier name, this book provides great expertise in a highly illustrated, eminently usable package.",
             "thumb": {
                 "width": 57,
@@ -102,5 +102,29 @@
             },
             "unitPrice": "23.99"
         }
-    ]
+    ],
+    "skuMap": {
+        "5000": ["1908931515"],
+        "5": ["1902831047"],
+        "5002": ["1104375869"],
+        "701": ["0881929743"],
+        "710": ["0881929743"],
+        "711": ["117278583X"],
+        "712": ["117278583X"],
+        "713": ["117278583X","0881929743"],
+        "715": ["117278583X"],
+        "716": ["117278583X"],
+        "717": ["0881929743"],
+        "718": ["0881929743"],
+        "719": ["0881929743","0002200139"],
+        "702": ["1907057471"],
+        "720": ["117278583X","0002200139"],
+        "703": ["117278583X"],
+        "704": ["117278583X"],
+        "705": ["1907057471","1851532072"],
+        "706": ["117278583X"],
+        "707": ["1907057471"],
+        "708": ["1907057471"],
+        "709": ["1907057471"]
+    }
 }
