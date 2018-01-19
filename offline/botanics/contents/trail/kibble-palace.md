@@ -1,5 +1,4 @@
 index: 5
-sku: 1902831047
 tag: trail
 
 # Kibble Palace (1873)

@@ -1,6 +1,5 @@
 index: 715
 tag: tree-trail
-sku: 117278583X
 
 # Japanese Alder
 

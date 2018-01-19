@@ -1,6 +1,5 @@
 index: 717
 tag: tree-trail
-sku: 0881929743
 
 # Scots Pine
 

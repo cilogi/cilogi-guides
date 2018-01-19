@@ -1,6 +1,5 @@
 index: 704
 tag: tree-trail
-sku: 117278583X
 
 # Maidenhair Tree
 

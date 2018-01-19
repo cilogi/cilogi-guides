@@ -1,7 +1,5 @@
 index: 713
 tag: tree-trail
-sku: 117278583X
-sku: 0881929743
 
 # Sitka Spruce
 

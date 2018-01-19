@@ -1,7 +1,5 @@
 index: 720
 tag: tree-trail
-sku: 117278583X
-sku: 0002200139
 
 # Monarch Birch
 

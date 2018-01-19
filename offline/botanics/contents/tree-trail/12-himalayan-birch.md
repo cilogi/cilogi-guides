@@ -1,6 +1,5 @@
 index: 712
 tag: tree-trail
-sku: 117278583X
 
 # Himalayan Birch
 

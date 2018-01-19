@@ -1,7 +1,5 @@
 index: 719
 tag: tree-trail
-sku: 0881929743
-sku: 0002200139
 
 # Monkey Puzzle
 

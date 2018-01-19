@@ -1,6 +1,5 @@
 index: 708
 tag: tree-trail
-sku: 1907057471
 
 # Dawn Redwood
 

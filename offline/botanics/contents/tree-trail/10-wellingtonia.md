@@ -1,6 +1,5 @@
 index: 710
 tag: tree-trail
-sku: 0881929743
 
 # Wellingtonia
 

@@ -1,6 +1,5 @@
 index: 716
 tag: tree-trail
-sku: 117278583X
 
 # Paperbark Maple
 

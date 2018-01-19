@@ -1,6 +1,5 @@
 index: 718
 tag: tree-trail
-sku: 0881929743
 
 # Moroccan Fir
 

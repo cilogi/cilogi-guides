@@ -2,7 +2,6 @@ index: 5002
 tag: statue 
 tag: kibble:statue
 containedBy: 5
-sku: 1104375869
 
 # King Robert of Sicily (c1927)
 

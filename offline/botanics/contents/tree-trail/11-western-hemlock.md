@@ -1,6 +1,5 @@
 index: 711
 tag: tree-trail
-sku: 117278583X
 
 # Western Hemlock
 

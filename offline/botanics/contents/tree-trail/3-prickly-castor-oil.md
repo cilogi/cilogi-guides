@@ -1,6 +1,5 @@
 index: 703
 tag: tree-trail
-sku: 117278583X
 
 # Prickly Castor Oil Tree
 

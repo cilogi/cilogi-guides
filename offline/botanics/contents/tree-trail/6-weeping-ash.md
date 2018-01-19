@@ -1,6 +1,5 @@
 index: 706
 tag: trail tree-trail
-sku: 117278583X
 
 # Weeping Ash
 

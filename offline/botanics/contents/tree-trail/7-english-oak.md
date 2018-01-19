@@ -1,6 +1,5 @@
 index: 707
 tag: tree-trail
-sku: 1907057471
 
 # English Oak
 

@@ -1,7 +1,5 @@
 index: 705
 tag: tree-trail
-sku: 1907057471
-sku: 1851532072
 
 # Sycamore
 

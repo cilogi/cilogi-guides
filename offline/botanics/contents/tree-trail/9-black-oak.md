@@ -1,6 +1,5 @@
 index: 709
 tag: tree-trail
-sku: 1907057471
 
 # Black Oak
 
