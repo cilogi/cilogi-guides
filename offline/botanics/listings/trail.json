@@ -1,8 +1,0 @@
-{
-    "id": "trail",
-    "type": "image",
-    "title": "The Botanics Trail in Pictures",
-    "description": "Images from the Botanics Trail",
-    "tags": ["trail"],
-    "metaData": {"background": ["botanic-flower.jpg"], "color": ["red", "green", "blue"]}
-}
