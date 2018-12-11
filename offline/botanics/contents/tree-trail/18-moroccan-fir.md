@@ -7,7 +7,7 @@ tag: tree-trail
 
 <p class="species-info"><em>Abies pinsapo</em> var <em>marocana</em> Ceballos & Bolanus</p>
 
-Native Range: Mountain range near Chechaouen, Morocco.
+Native Range: Mountain range near [Chechaouen, Morocco](/wiki/Chefchaouen).
 
 The tree is found on north facing slopes with an optimal altitude of between 1,400 and 1,800 metres. It was only
 identified as being distinct from the Spanish Fir,_Abies pinsapo_ var _pinsapo_, in 1906 and arrived in European parks

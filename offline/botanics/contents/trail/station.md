@@ -32,4 +32,4 @@ was destroyed by fire in 1970.
 
 Here is a recent video of the interior of the station.
 
-<iframe width="300" height="170" src="http://www.youtube.com/embed/dCJnCuT8u00" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="170" src="https://www.youtube.com/embed/dCJnCuT8u00" frameborder="0" allowfullscreen></iframe>
