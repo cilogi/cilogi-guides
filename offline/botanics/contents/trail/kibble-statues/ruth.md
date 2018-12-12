@@ -27,7 +27,7 @@ the Lord do so to me, and more also, if ought but death part thee and me.
 
 There is a popular song [Whither Thou Goest](/wiki/Whither_Thou_Goest) which
 was often performed live by Leonard Cohen.
-
+        
 Ruth is mentioned in one of Keats' most famous poems, [_Ode to a
 Nightingale_](http://www.online-literature.com/keats/479/).
 
