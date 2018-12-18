@@ -143,6 +143,7 @@ In 1875 an ornamental iron bandstand was erected on the lawn in front
 of the Main Range of Glasshouses.
 
 ![Bandstand](image:bandstand.jpg)
+![Drawing of Bandstand in 1887](image:bandstand-1887.jpg)
 
 The Band of Prince Albert's Light Infantry were first to perform here
 on 4 August 1875. By 1912 a new pavilion style band-stand was
