@@ -1,0 +1,6 @@
+#!/bin/bash
+tgt="../thumbs"
+mkdir -p $tgt
+vipsthumbnail -c -o $tgt/%s__128x128.jpg[Q=30] *.jpg
+vipsthumbnail --size=180x90 -c -o $tgt/%s__180x90.jpg[Q=30] *.jpg
+vipsthumbnail --size=16 -c -o $tgt/%s__16.jpg[Q=30] *.jpg
