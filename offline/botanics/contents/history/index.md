@@ -4,7 +4,7 @@ index: 5000
 # History of Glasgow Botanic Gardens
 
 Glasgow Botanic Gardens have had a varied history.  They evolved from
-a Physic Garden established in the grounds of the old College in 1705,
+a Physic Garden established in the grounds of the old College in 1704,
 for teaching purposes and maintained for about one hundred years.  The
 Gardens were ultimately re-established in the West End in May 1817,
 when the work of laying out a botanic garden was begun on an eight

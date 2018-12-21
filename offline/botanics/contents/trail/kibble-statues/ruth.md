@@ -11,7 +11,7 @@ containedBy: 5
 by Milanese sculptor Giovanni Cinselli (1832-1883) who specialised in
 portraits of Biblical and mythological figures.
 
-[Ruth](wiki/Book_of_Ruth) is shown sitting on a tree stump with corn sheaves in her
+[Ruth](/wiki/Book_of_Ruth) is shown sitting on a tree stump with corn sheaves in her
 left hand. These symbolize the harvesting of the corn in her future
 huband, [Boaz's](/wiki/Boaz) field.
 
@@ -43,13 +43,7 @@ Charmed magic casements, opening on the foam<br/>
 Of perilous seas, in faery lands forlorn.
 
 The statue is carved in white marble on a dark plinth.  It was loaned
-for the Kelvingrove International Exhibition of 1888 by Leonard
-Gow and presented to the City by his family in 1927.
+for the [Kelvingrove International Exhibition of 1888](/wiki/International_Exhibition_of_Science,_Art_and_Industry) 
+by [Leonard Gow](http://www.glasgowwestaddress.co.uk/1909_Glasgow_Men/Gow_Leonard.htm) 
+and presented to the City by his family in 1927.
 
-You may wish to take a moment to hear Benedict Cumberbatch read the 
-Ode on YouTube.
-
-<iframe width="100%" 
-        src="https://www.youtube.com/embed/TdphtMWjies?rel=0" 
-        frameborder="0" gesture="media" allow="encrypted-media" 
-        allowfullscreen></iframe>
