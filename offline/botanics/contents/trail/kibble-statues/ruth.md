@@ -47,3 +47,18 @@ for the [Kelvingrove International Exhibition of 1888](/wiki/International_Exhib
 by [Leonard Gow](http://www.glasgowwestaddress.co.uk/1909_Glasgow_Men/Gow_Leonard.htm) 
 and presented to the City by his family in 1927.
 
+You may wish to take a moment to hear Benedict Cumberbatch read the 
+Ode on YouTube. Ruth's verse is at 4:01.
+
+[Benedict Cumberbatch reading Ode to a Nightingale](youtube:TdphtMWjies)
+
+<!--
+You may wish to take a moment to hear Benedict Cumberbatch read the 
+Ode on YouTube.
+
+<iframe width="100%" 
+        src="https://www.youtube.com/embed/TdphtMWjies?rel=0" 
+        frameborder="0" gesture="media" allow="encrypted-media" 
+        allowfullscreen></iframe>
+-->        
+

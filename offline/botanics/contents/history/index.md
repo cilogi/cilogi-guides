@@ -11,6 +11,7 @@ when the work of laying out a botanic garden was begun on an eight
 acre site at Sandyford, at the west end of Sauchiehall Street
 
 ![Sandyford](image:sandyford.jpg)
+![Plan of the Botanic Gardens at Sandyford, 1827](image:sandyford-plan-1827)
 
 This site was acquired by [Thomas Hopkirk](/wiki/Thomas_Hopkirk) who founded the Royal Botanic
 Institution of Glasgow. The Institution managed the Gardens until they
@@ -38,6 +39,9 @@ species, and the publication of botanical drawings of them. It was
 mainly due to his work that within ten years of its foundation Glasgow
 Botanic Gardens already had a prominent position in the world of
 botany.
+
+![William Jackson Hooker, 1850s](image:william-hooker-1850s.jpg)
+![Illustration by Hooker: Banksia Integrifolia](image:banksia_integrifolia.jpg)
 
 The rapid expansion of Glasgow soon made the small eight acre site at
 Sandyford unsuitable and by 1839 an area had been purchased in the
