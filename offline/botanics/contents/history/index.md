@@ -55,7 +55,7 @@ Stewart Murray's long and distinguished career as the first Curator of
 the Botanic Garden. In part the structure of the Gardens we know today
 was laid down by him.
 
-![Stewart Murry Layout](image:stewart-murray-layout.jpg)
+![Stewart Murray Layout](image:stewart-murray-layout.jpg)
 
 This plan taken from the 1842 map by R. Manin shows the original
 layout planned by Stewart Murray.
