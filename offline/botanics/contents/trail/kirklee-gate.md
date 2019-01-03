@@ -1,7 +1,7 @@
 index: 15
 tag: trail
 
-# Kirklee Gate, Kirklee Station, Ford Road
+# Kirklee Gate
 
 ![Kirklee Gate](image:kirklee-gate.jpg)
 

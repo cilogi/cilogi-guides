@@ -273,14 +273,13 @@
     {
       "id": "15",
       "description": "Kirklee Gate.",
-      "text": "You can park here if you like.  No cost as its residential.",
       "pixel": [
         6,
         42
       ]
     },
     {
-      "id": "wikipedia/7125625"
+      "id": "wikipedia:7125625"
     },
     {
       "description": "Margaret Drive Gate",

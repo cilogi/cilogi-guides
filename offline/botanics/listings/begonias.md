@@ -1,5 +1,5 @@
 id: begonias
-index: 5000
+index: 7000
 type: text
 background: begonia-flowers.jpg
 

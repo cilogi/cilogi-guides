@@ -6,7 +6,8 @@ background: kibble-dome.jpg
 The Botanic Trail starts at the [Visitor Centre](1) and should take you about one and a half hours to complete.
 
 * [Curator's House/Visitor Centre (1840)](1)
-  The Curator's House is the start of the Botanics Trail. The trail takes about one and a half hours to complete.
+  The Curator's House is the start of the Botanics Trail. 
+  The trail takes about one and a half hours to complete.
 * [Peter Walker Memorial (1906)](2)
 * [Main Range of Glasshouses (1883)](3)
 * [National Begonia Collection](listing:begonias)
