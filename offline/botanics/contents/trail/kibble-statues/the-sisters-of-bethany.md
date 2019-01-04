@@ -13,7 +13,11 @@ where Martha serves
 supper to Christ and Lazarus and Mary anoints Christ's feet with
 [Spikenard](/wiki/Spikenard) and then wipes his feet with her hair.  
 [Bethany](/wiki/Bethany_&#40;biblical_village&#41;) is the
-name of the village.
+name of the village. Mary and Martha are the sisters of Bethany.
+
+An Anglican religious order, the 
+[Society of the Sisters of Bethany](/wiki/Society_of_the_Sisters_of_Bethany)
+was founded in 1866 and is now sited in []Southsea](/wiki/Southsea).
 
 The statue was exhibited at the RA in 1979.  It was presented to
 Glasgow Museums in 1936 by Dr Douglas White of Overtoun.
