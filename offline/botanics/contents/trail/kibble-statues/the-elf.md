@@ -24,3 +24,5 @@ The work was much prized by John and is carved in relief on the
 wooden base of his self portrait of 1942, which is in the National
 Museum of Wales.
 
+[Goscombe John Self Portrait](image:william-goscombe-john-self-portrait.jpg)
+
