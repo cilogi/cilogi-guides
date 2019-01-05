@@ -6,6 +6,7 @@ containedBy: 5
 # The Elf (1899)
 
 ![The Elf by William Goscombe John, 1899](image:the-elf.jpg)
+![The Original Elf in Bronze](image:the-elf-bronze.jpg)
 
 Welsh sculptor [William Goscombe John](/wiki/Goscombe_John) (1860-1952) regarded the 'Elf' as
 one of his greatest achievements.  This stood in Kelvingrove Art
