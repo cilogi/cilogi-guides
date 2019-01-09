@@ -3,6 +3,7 @@ tag: trail
 
 # Old Queen Margaret Bridge
 
+![Remains of the Old Queen Margaret Brige](old-queen-margaret-bridge.jpg)
 The first Queen Margaret Bridge was built in 1870 to
 carry Queen Margaret Road over the River Kelvin. It was
 constructed of two lattice girder spans carried on tall
