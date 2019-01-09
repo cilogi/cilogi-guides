@@ -1,11 +1,7 @@
-out/
-target/
-*.iml
-.idea
 *~
-classes/
 *.zip
-bower_components/
+bower_components
 secret.properties
-online/backups/
-botanics-link/
+online/backups
+botanics-link
+.DS_Store
