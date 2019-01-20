@@ -1,5 +1,6 @@
 index: 21
 tag: trail
+location: 55.881458,-4.291396
 
 # Halfpenny Bridge House
 
