@@ -1,7 +1,8 @@
-*~
+f*~
 *.zip
 bower_components
 secret.properties
 online/backups
 botanics-link
 .DS_Store
+offline/botanics/guide.json
