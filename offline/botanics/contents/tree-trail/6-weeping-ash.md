@@ -1,4 +1,5 @@
 index: 706
+location: 55.878627,-4.290530
 tag: trail tree-trail
 
 # Weeping Ash
