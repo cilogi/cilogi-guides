@@ -1,4 +1,5 @@
 index: 16
+location: 55.883429,-4.289101
 tag: trail
 
 # Arboretum

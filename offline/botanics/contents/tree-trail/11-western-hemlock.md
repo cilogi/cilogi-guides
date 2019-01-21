@@ -1,4 +1,5 @@
 index: 711
+location: 55.883063,-4.290153
 tag: tree-trail
 
 # Western Hemlock

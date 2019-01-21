@@ -1,4 +1,5 @@
 index: 17
+location: 55.88417,-4.289775
 tag: trail
 
 # Garrioch Footbridge

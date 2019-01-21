@@ -1,4 +1,5 @@
 index: 718
+location: 55.880346,-4.292316
 tag: tree-trail
 
 # Moroccan Fir

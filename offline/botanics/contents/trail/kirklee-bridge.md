@@ -1,5 +1,6 @@
 index: 19
-tag: trail latlng:55.882611,-4.289905
+location: 55.882611,-4.289905
+tag: trail
 
 # Kirklee Bridge (1900)
 

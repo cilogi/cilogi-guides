@@ -1,4 +1,5 @@
 index: 702
+location: 55.879034,-4.289167
 tag: tree-trail
 
 # Chinese Mahogony

@@ -1,4 +1,5 @@
 index: 25
+location: 55.877863,-4.281332
 tag: trail
 
 # Flint Mill Bridge

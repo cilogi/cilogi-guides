@@ -1,4 +1,5 @@
 index: 703
+location: 55.878645,-4.288546
 tag: tree-trail
 
 # Prickly Castor Oil Tree

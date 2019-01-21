@@ -1,4 +1,5 @@
 index: 716
+location: 55.883157,-4.289585
 tag: tree-trail
 
 # Paperbark Maple

@@ -1,4 +1,5 @@
 index: 714
+location: 55.883764,-4.289574
 tag: tree-trail
 
 # Arran Whitebeam

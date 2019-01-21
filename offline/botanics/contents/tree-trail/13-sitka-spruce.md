@@ -1,4 +1,5 @@
 index: 713
+location: 55.883448,-4.289649
 tag: tree-trail
 
 # Sitka Spruce

@@ -1,4 +1,5 @@
 index: 705
+location: 55.878238,-4.289696
 tag: tree-trail
 
 # Sycamore

@@ -1,4 +1,5 @@
 index: 24
+location: 55.878747,-4.284552
 tag: trail
 
 # Old Queen Margaret Bridge

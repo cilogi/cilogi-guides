@@ -1,4 +1,5 @@
 index: 29
+location: 55.879873,-4.287989
 tag: trail
 
 # Humpback Bridge (1908)

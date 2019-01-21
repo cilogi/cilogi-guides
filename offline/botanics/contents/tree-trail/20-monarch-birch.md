@@ -1,4 +1,5 @@
 index: 720
+location: 55.879114,-4.291713
 tag: tree-trail
 
 # Monarch Birch

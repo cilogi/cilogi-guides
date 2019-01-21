@@ -1,4 +1,5 @@
 index: 27
+location: 55.877964,-4.281943
 tag: trail
 
 # North Woodside Flint Mill

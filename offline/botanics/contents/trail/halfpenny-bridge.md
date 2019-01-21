@@ -1,4 +1,5 @@
 index: 22
+location: 55.88157,-4.29203
 tag: trail
 
 # Halfpenny Bridge

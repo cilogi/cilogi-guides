@@ -319,35 +319,19 @@
         },
         {
             "id": "16",
-            "description": "Arboretum",
-            "latlng": [
-                55.883429,
-                -4.289101
-            ]
+            "description": "Arboretum"
         },
         {
             "id": "17",
-            "description": "Garrioch Footbridge",
-            "latlng": [
-                55.88417,
-                -4.289775
-            ]
+            "description": "Garrioch Footbridge"
         },
         {
             "id": "19",
-            "description": "Kirklee Bridge",
-            "latlng": [
-                55.882611,
-                -4.289905
-            ]
+            "description": "Kirklee Bridge"
         },
         {
             "id": "20",
-            "description": "Kelvin Walkway",
-            "latlng": [
-                55.882136,
-                -4.29056
-            ]
+            "description": "Kelvin Walkway"
         },
         {
             "id": "21",
@@ -355,67 +339,35 @@
         },
         {
             "id": "22",
-            "description": "Halfpenny Bridge",
-            "latlng": [
-                55.88157,
-                -4.29203
-            ]
+            "description": "Halfpenny Bridge"
         },
         {
             "id": "23",
-            "description": "Queen Margaret Bridge",
-            "latlng": [
-                55.879572,
-                -4.286236
-            ]
+            "description": "Queen Margaret Bridge"
         },
         {
             "id": "24",
-            "description": "Old Queen Margaret Bridge",
-            "latlng": [
-                55.878747,
-                -4.284552
-            ]
+            "description": "Old Queen Margaret Bridge"
         },
         {
             "id": "25",
-            "description": "Flint Mill Bridge",
-            "latlng": [
-                55.877863,
-                -4.281332
-            ]
+            "description": "Flint Mill Bridge"
         },
         {
             "id": "26",
-            "description": "Belmont Street Bridge",
-            "latlng": [
-                55.877556,
-                -4.279623
-            ]
+            "description": "Belmont Street Bridge"
         },
         {
             "id": "27",
-            "description": "North Woodside Flint Mill",
-            "latlng": [
-                55.877964,
-                -4.281943
-            ]
+            "description": "North Woodside Flint Mill"
         },
         {
             "id": "28",
-            "description": "Weir and Mill Lade",
-            "latlng": [
-                55.878468,
-                -4.283945
-            ]
+            "description": "Weir and Mill Lade"
         },
         {
             "id": "29",
-            "description": "Humpback Bridge",
-            "latlng": [
-                55.879873,
-                -4.287989
-            ]
+            "description": "Humpback Bridge"
         },
         {
             "id": "map:kibble",
@@ -438,181 +390,101 @@
         {
             "id": "701",
             "description": "Corsican Pine",
-            "latlng": [
-                55.879457,
-                -4.291821
-            ],
             "marker": "orange"
         },
         {
             "id": "702",
             "description": "Chinese Mahogony",
-            "latlng": [
-                55.879034,
-                -4.289167
-            ],
             "marker": "orange"
         },
         {
             "id": "703",
             "description": "Prickly Castor Oil Tree",
-            "latlng": [
-                55.878645,
-                -4.288546
-            ],
             "marker": "orange"
         },
         {
             "id": "704",
             "description": "Maidenhair tree",
-            "latlng": [
-                55.878503,
-                -4.288929
-            ],
             "marker": "orange"
         },
         {
             "id": "705",
             "description": "Sycamore",
-            "latlng": [
-                55.878238,
-                -4.289696
-            ],
             "marker": "orange"
         },
         {
             "id": "706",
             "description": "Weeping Ash",
-            "latlng": [
-                55.878627,
-                -4.290530
-            ],
             "marker": "orange"
         },
         {
             "id": "707",
             "description": "English Oak",
-            "latlng": [
-                55.878765,
-                -4.291657
-            ],
             "marker": "orange"
         },
         {
             "id": "708",
             "description": "Dawn Redwood",
-            "latlng": [
-                55.879765,
-                -4.292847
-            ],
             "marker": "orange"
         },
         {
             "id": "709",
             "description": "Black Oak",
-            "latlng": [
-                55.880748,
-                -4.293441
-            ],
             "marker": "orange"
         },
         {
             "id": "710",
             "description": "Wellingtonia",
-            "latlng": [
-                55.882114,
-                -4.291633
-            ],
             "marker": "orange"
         },
         {
             "id": "711",
             "description": "Western Hemlock",
-            "latlng": [
-                55.883063,
-                -4.290153
-            ],
             "marker": "orange"
         },
         {
             "id": "712",
             "description": "Himalayan Birch",
-            "latlng": [
-                55.883205,
-                -4.290181
-            ],
             "marker": "orange"
         },
         {
             "id": "713",
             "description": "Sitka Spruce",
-            "latlng": [
-                55.883448,
-                -4.289649
-            ],
             "marker": "orange"
         },
         {
             "id": "714",
             "description": "Arran Whitebeam",
-            "latlng": [
-                55.883764,
-                -4.289574
-            ],
             "marker": "orange"
         },
         {
             "id": "715",
             "description": "Japanese Alder.",
-            "latlng": [
-                55.883163,
-                -4.289333
-            ],
             "marker": "orange"
         },
         {
             "id": "716",
             "description": "Paperbark Maple",
-            "latlng": [
-                55.883157,
-                -4.289585
-            ],
             "marker": "orange"
         },
         {
             "id": "717",
             "description": "Scots Pine",
-            "latlng": [
-                55.880438,
-                -4.292523
-            ],
             "marker": "orange"
         },
         {
             "id": "718",
             "description": "Moroccan Fir",
-            "latlng": [
-                55.880346,
-                -4.292316
-            ],
             "marker": "orange"
         },
         {
             "id": "719",
             "description": "Monkey Puzzle",
-            "latlng": [
-                55.879863,
-                -4.291434
-            ],
             "marker": "orange"
         },
         {
             "id": "720",
             "description": "Monarch Birch",
-            "latlng": [
-                55.879114,
-                -4.291713
-            ],
             "marker": "orange"
         }
     ],

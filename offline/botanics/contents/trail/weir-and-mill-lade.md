@@ -1,4 +1,5 @@
 index: 28
+location: 55.878468,-4.283945
 tag: trail
 
 # Weir and Mill Lade

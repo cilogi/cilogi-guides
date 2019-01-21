@@ -1,4 +1,5 @@
 index: 708
+location: 55.879765,-4.292847
 tag: tree-trail
 
 # Dawn Redwood

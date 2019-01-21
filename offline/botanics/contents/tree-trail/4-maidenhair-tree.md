@@ -1,4 +1,5 @@
 index: 704
+location: 55.878503,-4.288929
 tag: tree-trail
 
 # Maidenhair Tree

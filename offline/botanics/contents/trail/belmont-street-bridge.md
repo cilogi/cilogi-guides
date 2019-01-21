@@ -1,4 +1,5 @@
 index: 26
+location: 55.877556,-4.279623
 tag: trail
 
 # Belmont Street Bridge (1870)

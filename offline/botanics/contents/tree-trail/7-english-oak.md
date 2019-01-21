@@ -1,4 +1,5 @@
 index: 707
+location: 55.878765,-4.291657
 tag: tree-trail
 
 # English Oak

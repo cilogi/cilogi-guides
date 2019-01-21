@@ -1,4 +1,5 @@
 index: 712
+location: 55.883205,-4.290181
 tag: tree-trail
 
 # Himalayan Birch

@@ -1,4 +1,5 @@
 index: 717
+location: 55.880438,-4.292523
 tag: tree-trail
 
 # Scots Pine

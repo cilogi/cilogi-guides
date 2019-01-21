@@ -1,4 +1,5 @@
 index: 719
+location: 55.879863,-4.291434
 tag: tree-trail
 
 # Monkey Puzzle

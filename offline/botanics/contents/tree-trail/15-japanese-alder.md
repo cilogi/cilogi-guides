@@ -1,4 +1,5 @@
 index: 715
+location: 55.883163,-4.289333
 tag: tree-trail
 
 # Japanese Alder

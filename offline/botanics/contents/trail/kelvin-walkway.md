@@ -1,4 +1,5 @@
 index: 20
+location: 55.882136,-4.29056
 tag: trail
 
 # Kelvin Walkway

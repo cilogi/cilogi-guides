@@ -1,4 +1,5 @@
 index: 709
+location: 55.880748,-4.293441
 tag: tree-trail
 
 # Black Oak

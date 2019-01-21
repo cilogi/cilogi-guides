@@ -1,4 +1,5 @@
 index: 710
+location: 55.882114,-4.291633
 tag: tree-trail
 
 # Wellingtonia

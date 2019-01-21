@@ -1,4 +1,5 @@
 index: 701
+location: 55.879457,-4.291821
 tag: tree-trail
 
 # Corsican Pine
