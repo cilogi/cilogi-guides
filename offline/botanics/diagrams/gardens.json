@@ -490,11 +490,10 @@
     ],
     "routes": [
         {
-            "Id": "7000",
-            "Src": "kelvin-walkway.gpx",
-            "Title": "The Kelvin Walkway",
-            "Description": "",
-            "Marker": "route"
+            "id": "20",
+            "src": "kelvin-walkway.gpx",
+            "title": "The Kelvin Walkway",
+            "marker": "route"
         }
     ],
     "sizes": {
