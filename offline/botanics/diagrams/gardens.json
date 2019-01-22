@@ -491,7 +491,7 @@
     "routes": [
         {
             "id": "20",
-            "src": "kelvin-walkway.gpx",
+            "src": "kelvin-walkway",
             "title": "The Kelvin Walkway",
             "marker": "route"
         }
