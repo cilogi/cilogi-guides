@@ -493,7 +493,12 @@
             "id": "20",
             "src": "kelvin-walkway",
             "title": "The Kelvin Walkway",
-            "marker": "route"
+            "marker": "route",
+            "style": {
+                "weight": 10,
+                "opacity": 0.5,
+                "color": "blue"
+            }
         }
     ],
     "sizes": {
