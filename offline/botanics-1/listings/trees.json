@@ -1,9 +1,0 @@
-{
-    "id": "trees",
-    "type": "text",
-    "title": "Trees",
-    "description": "The Garden's trees",
-    "background": "weeping-ash-background.jpg",
-    "tags": ["tree"],
-    "metaData": {"index": [5002]}
-}
