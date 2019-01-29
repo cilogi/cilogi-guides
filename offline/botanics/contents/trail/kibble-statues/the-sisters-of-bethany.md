@@ -17,7 +17,7 @@ name of the village. Mary and Martha are the sisters of Bethany.
 
 An Anglican religious order, the 
 [Society of the Sisters of Bethany](/wiki/Society_of_the_Sisters_of_Bethany)
-was founded in 1866 and is now sited in []Southsea](/wiki/Southsea).
+was founded in 1866 and is now sited in [Southsea](/wiki/Southsea).
 
 The statue was exhibited at the RA in 1979.  It was presented to
 Glasgow Museums in 1936 by Dr Douglas White of Overtoun.
