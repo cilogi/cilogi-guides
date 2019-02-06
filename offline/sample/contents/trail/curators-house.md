@@ -19,9 +19,5 @@ Gardens' Library and Herbarium.  Members of staff, apprentices and
 visiting professional botanists and horticulturists are welcome to use
 the library on request.
 
-[Charles Wilson][1] is buried in the [Southern Necropolis][2] and his
-Obelisk is a feature of the [Southern Necropolis Heritage Trail][3].
-
 [1]: /wiki.html?target=Charles_Wilson_(Scottish_architect)
-[2]: /wiki/Southern_Necropolis
-[3]: http://www.southernnecropolis.co.uk/SN_final.pdf)
+

@@ -1,0 +1,13 @@
+{
+    "id": "botanics-trail",
+    "title": "The Botanics Trail",
+    "background": "kibble-dome.jpg",
+    "description": "Le sentier des jardins botaniques commence à la [Maison du conservateur] (page:1)\n et devrait vous prendre environ une heure et demie à compléter.",
+    "stops": [
+        {
+            "id": "1",
+            "intro": "La Maison du Conservateur est le début de la piste botanique.\nLe trajet dure environ une heure et demie."
+        },
+        { "id": "5" }
+    ]
+}

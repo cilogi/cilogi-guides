@@ -21,22 +21,3 @@ The Kibble Place was closed in 2003 in advance of a
 multimillion pound restoration. This was completed in
 2006 and the glasshouse re-opened to the public on St
 Andrews day that year.
-
-## Marble Statues in the Kibble
-
-[King Robert of Sicily](/transclude/5002)
-
-[Cain by Edwin Roscoe Mullins](/transclude/5001)
-
-[Eve by Scipione Tadolini, c1880](/transclude/5003)
-
-[Ruth by Giovanni Cinselli](/transclude/5004)
-
-[The Sisters of Bethany by John Warrington Wood](/transclude/5005)
-
-[The Elf by William Gascombe John](/transclude/5006)
-
-[The Nubian Slave by Antonio Rossetti](/transclude/5007)
-
-[Stepping Stones by William Hamo Thorneycroft](/transclude/5008)
-

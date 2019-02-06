@@ -1,5 +1,6 @@
 f*~
 *.zip
+*.exe
 bower_components
 secret.properties
 online/backups
