@@ -1,9 +1,9 @@
 index: 1
 tag: trail
 
-# Maison du conservateur / centre d'accueil (1840)
+# Maison du conservateur (1840)
 
-![La maison du curateur et le centre d'accueil] (image:curators-house.jpg)
+![La maison du curateur](image:curators-house.jpg)
 
 
 La maison des conservateurs classée «B» a été construite en 1840 et est toujours connue de

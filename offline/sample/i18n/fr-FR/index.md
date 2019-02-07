@@ -6,7 +6,7 @@ background: botanic-flower.jpg
 
 * [Accueil] (page:0)
 * [Horaires / informations] (page:1700)
-* [The Kibble Palace] (page:5)
+* [Le Palais Kibble] (page:5)
 * [Le sentier de botanique] (tour:sentier de botanique)
 * [Carte des jardins] (map:map1)
 * [Le sentier des arbres](tour:tree-trail)

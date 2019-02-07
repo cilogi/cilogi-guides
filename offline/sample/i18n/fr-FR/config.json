@@ -1,22 +1,7 @@
 {
-    "title": "Glasgow Botanic Gardens",
-    "description": "A comprehensive mobile guide to Glasgow Botanic Gardens.  Information about the plants, the Kibble Palace, a Tree Trail and a tour of the gardens.",
+    "title": "Jardins botaniques de Glasgow",
+    "description": "Un guide complet sur les jardins botaniques de Glasgow. Informations sur les plantes, le palais Kibble, un sentier des arbres et une visite des jardins.",
     "guideImage": "kibble-palace.jpg",
-    "filesize" : {
-        "max" : 120,
-        "except" : [
-                "*.html",
-                "*.json",
-                "*js/*",
-                "*css/*",
-                "*scripts/*",
-                "*styles/*"
-        ]
-    },
-    "templates" : {
-        "*.md":      "md.ftl"
-     },
-    "email": "tim.niblett@cilogi.com",
     "showKeypad": true,
     "latlng": [55.879813,-4.291162]
 }
