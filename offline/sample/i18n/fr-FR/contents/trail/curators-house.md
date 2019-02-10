@@ -7,7 +7,7 @@ tag: trail
 
 
 La maison des conservateurs classée «B» a été construite en 1840 et est toujours connue de
-Ce nom. Conçu par [Charles Wilson] [1], une figure centrale de la
+Ce nom. Conçu par [Charles Wilson][1], une figure centrale de la
 développement de l’architecture de Glasgow et de l’urbanisme au milieu
 19ème siècle, la maison est une villa asymétrique de 2 étages avec simple
 aile à étages et jardin d'hiver situé à l'ouest dans son propre enclos
