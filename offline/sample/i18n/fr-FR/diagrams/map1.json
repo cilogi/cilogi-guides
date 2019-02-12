@@ -2,13 +2,13 @@
     "name"   : "map1",
     "listed": true,
     "title"  : "Jardins & Promenade Fluviale",
-    "markers": [{"id" : "green", "color": "green", "icon": "fa-star", "theme": "Sentier Botanique"},
-              {"id" : "historical", "color": "blue", "icon": "fa-eye", "theme": "Site historique"},
+    "markers": [{"id" : "green", "color": "green", "icon": "fa-star", "theme": "Sentier Bot."},
+              {"id" : "historical", "color": "blue", "icon": "fa-eye", "theme": "Site hist."},
               {"id" : "toilets", "color": "red", "icon": "fa-toilets", "theme": "Toilettes"},
-              {"id" : "playground", "color": "red", "icon": "fa-child", "theme": "Cour de récréation"},
+              {"id" : "playground", "color": "red", "icon": "fa-child", "theme": "Cour de réc."},
               {"id" : "cafe", "color": "red", "icon": "fa-coffee", "theme": "Café"},
-              {"id" : "blue", "color": "blue", "icon": "fa-eye", "theme": "Sentier Botanique"},
-              {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "Quoi de neuf?"}
+              {"id" : "blue", "color": "blue", "icon": "fa-eye", "theme": "Sentier Bot."},
+              {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "Neuf"}
     ],
     "zoom"  : {"min" : 16, "max": 18, "start": 17},
     "provider" : "mapbox",
