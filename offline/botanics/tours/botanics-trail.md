@@ -1,4 +1,5 @@
 id: botanics-trail
+index: 2000
 background: kibble-dome.jpg
 
 # The Botanics Trail

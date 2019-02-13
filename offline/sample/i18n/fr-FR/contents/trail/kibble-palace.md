@@ -1,7 +1,6 @@
 index: 5
 tag: trail
 
-#
 # Palais de Kibble (1873)
 
 ![Le Palais de Kibble depuis le jardin principal](image:kibble-palace.jpg)

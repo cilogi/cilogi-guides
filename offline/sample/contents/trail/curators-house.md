@@ -1,3 +1,4 @@
+languages: fr-FR
 index: 1
 tag: trail
 
