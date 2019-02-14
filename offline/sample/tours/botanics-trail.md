@@ -1,7 +1,8 @@
 id: botanics-trail
 index: 2001
 background: kibble-dome.jpg
-languages: fr-FR
+language: fr-FR
+language: de-DE
 =
 # The Botanics Trail
 

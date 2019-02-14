@@ -1,8 +1,8 @@
 id: trail
 type: image
 background: botanic-flower.jpg
-languages: fr-FR
-
+language: fr-FR
+language: de-DE
 tag: trail
 
 # The Botanics Trail in Pictures

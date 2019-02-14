@@ -1,4 +1,5 @@
-languages: fr-FR
+language: fr-FR
+language: de-DE
 index: 0
 listview : true
 background: botanic-flower.jpg
