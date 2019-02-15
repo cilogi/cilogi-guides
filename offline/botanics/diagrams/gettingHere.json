@@ -1,4 +1,5 @@
 {
+    "id"   : "gettingHere",
     "name"   : "gettingHere",
     "title"  : "Travelling to the Gardens",
     "markers": [{"id" : "info", "color": "green", "icon": "fa-info", "theme": "Info"},

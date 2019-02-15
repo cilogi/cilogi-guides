@@ -1,21 +1,105 @@
 {
-    "name" : "kibble",
-    "listed" : true,
-    "title": "Kibble Palace Map",
-    "markers": [{"id" : "plant", "color": "green", "icon": "fa-star", "theme": "Plant"},
-                {"id" : "statue", "color": "red", "icon": "fa-eye", "theme": "Statue"}],
-    "showLocation" : false,
-    "overlay": {
-        "image": {"src" : "_diagram_kibble-diagram2.png"}
+  "id": "kibble",
+  "name": "kibble",
+  "listed": true,
+  "title": "Kibble Palace Map",
+  "markers": [
+    {
+      "id": "plant",
+      "color": "green",
+      "icon": "fa-star",
+      "theme": "Plant"
     },
-    "items": [{ "id": "5002", "description": "King Robert of Sicily", "pixel": [124,660], "marker": "statue"},
-              { "id": "5001", "description": "Cain", "pixel": [124, 440], "marker": "statue"},
-              { "id": "5003", "description": "Eve", "pixel": [660, 570], "marker": "statue"},
-              { "id": "5004", "description": "Ruth", "pixel": [720,270], "marker": "statue"},
-              { "id": "5005", "description": "The Sisters of Bethany", "pixel": [1150,200], "marker": "statue"},
-              { "id": "5006", "description": "The Elf", "pixel": [1380, 670], "marker": "statue"},
-              { "id": "5008", "description": "Stepping Stones", "pixel": [830,930], "marker": "statue"},
-              { "id": "5007", "description": "The Nubian Slave", "pixel": [620,750], "marker": "statue"}
-    ],
-    "sizes": {"min": 0.5, "max": 2.0, "threshold": 1.0}
+    {
+      "id": "statue",
+      "color": "red",
+      "icon": "fa-eye",
+      "theme": "Statue"
+    }
+  ],
+  "showLocation": false,
+  "overlay": {
+    "image": {
+      "src": "_diagram_kibble-diagram2.png"
+    }
+  },
+  "items": [
+    {
+      "id": "5002",
+      "description": "King Robert of Sicily",
+      "pixel": [
+        124,
+        660
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5001",
+      "description": "Cain",
+      "pixel": [
+        124,
+        440
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5003",
+      "description": "Eve",
+      "pixel": [
+        660,
+        570
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5004",
+      "description": "Ruth",
+      "pixel": [
+        720,
+        270
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5005",
+      "description": "The Sisters of Bethany",
+      "pixel": [
+        1150,
+        200
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5006",
+      "description": "The Elf",
+      "pixel": [
+        1380,
+        670
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5008",
+      "description": "Stepping Stones",
+      "pixel": [
+        830,
+        930
+      ],
+      "marker": "statue"
+    },
+    {
+      "id": "5007",
+      "description": "The Nubian Slave",
+      "pixel": [
+        620,
+        750
+      ],
+      "marker": "statue"
+    }
+  ],
+  "sizes": {
+    "min": 0.5,
+    "max": 2.0,
+    "threshold": 1.0
+  }
 }

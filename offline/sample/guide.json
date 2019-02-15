@@ -265,88 +265,6 @@
   ],
   "images": [
     {
-      "id": "kibble-interior.jpg",
-      "url": "media/images/kibble-interior.jpg",
-      "title": "The Kibble Palace entrance to main area",
-      "digest": "00c5dhroD7p0TPBM05RzorQq3uEhfeM4WGYbk0IIc70=",
-      "width": 800,
-      "height": 600,
-      "srcset": [
-        {
-          "Tag": "750",
-          "Url": "media/images/srcset/kibble-interior__750.jpg",
-          "Width": 750,
-          "Height": 563
-        }
-      ]
-    },
-    {
-      "id": "_diagram_botanics1200optpsCOL.png",
-      "url": "media/images/_diagram_botanics1200optpsCOL.png",
-      "digest": "t5uxY2VmOlIYaA2KRuHGfwW3XNIrj_WdBNjjDV9QIAY=",
-      "width": 1200,
-      "height": 650
-    },
-    {
-      "id": "kibble-palace1.jpg",
-      "url": "media/images/kibble-palace1.jpg",
-      "digest": "qwsF3UAKEDozVboxQftzfvJ62PXkMh2ZOKr_jASAC5E=",
-      "width": 375,
-      "height": 322
-    },
-    {
-      "id": "kibble-ferns.jpg",
-      "url": "media/images/kibble-ferns.jpg",
-      "digest": "chhXKAnSntDqeuIp1yzwK8f3ddqmX7Cj1fXJWcLh0G0=",
-      "width": 325,
-      "height": 278
-    },
-    {
-      "id": "kibble-roof.jpg",
-      "url": "media/images/kibble-roof.jpg",
-      "digest": "WDfvoYdXoRsghozaq3HcLSBg9l0sQ3rAgo4m9FRksik=",
-      "width": 240,
-      "height": 180
-    },
-    {
-      "id": "curators-house.jpg",
-      "url": "media/images/curators-house.jpg",
-      "title": "The Curator's House and Visitor Centre",
-      "digest": "55_TuKPmqSSJfGp4Sgz9j8jNH5wk44uyobJpH4XUyLc=",
-      "width": 2000,
-      "height": 1402,
-      "srcset": [
-        {
-          "Tag": "750",
-          "Url": "media/images/srcset/curators-house__750.jpg",
-          "Width": 750,
-          "Height": 526
-        },
-        {
-          "Tag": "1500",
-          "Url": "media/images/srcset/curators-house__1500.jpg",
-          "Width": 1500,
-          "Height": 1052
-        }
-      ]
-    },
-    {
-      "id": "kibble-1875.jpg",
-      "url": "media/images/kibble-1875.jpg",
-      "title": "The Kibble Palace in 1875",
-      "digest": "as3sgGKIqnKmT5J9m0gLh4rSc2084Tu_HNX3lAspe5o=",
-      "width": 326,
-      "height": 183
-    },
-    {
-      "id": "kibble-interior2.jpg",
-      "url": "media/images/kibble-interior2.jpg",
-      "title": "The Kibble Palace Roof from Interior",
-      "digest": "G1LQc3xLtK77ugyEd_GRU38cSGGb0tmRPDwKij3rSsU=",
-      "width": 640,
-      "height": 436
-    },
-    {
       "id": "kibble-palace.jpg",
       "url": "media/images/kibble-palace.jpg",
       "title": "The Kibble Palace from the main Garden",
@@ -378,17 +296,100 @@
       ]
     },
     {
+      "id": "_diagram_botanics1200optpsCOL.png",
+      "url": "media/images/_diagram_botanics1200optpsCOL.png",
+      "digest": "t5uxY2VmOlIYaA2KRuHGfwW3XNIrj_WdBNjjDV9QIAY=",
+      "width": 1200,
+      "height": 650
+    },
+    {
+      "id": "kibble-roof.jpg",
+      "url": "media/images/kibble-roof.jpg",
+      "digest": "WDfvoYdXoRsghozaq3HcLSBg9l0sQ3rAgo4m9FRksik=",
+      "width": 240,
+      "height": 180
+    },
+    {
+      "id": "kibble-interior2.jpg",
+      "url": "media/images/kibble-interior2.jpg",
+      "title": "The Kibble Palace Roof from Interior",
+      "digest": "G1LQc3xLtK77ugyEd_GRU38cSGGb0tmRPDwKij3rSsU=",
+      "width": 640,
+      "height": 436
+    },
+    {
+      "id": "kibble-ferns.jpg",
+      "url": "media/images/kibble-ferns.jpg",
+      "digest": "chhXKAnSntDqeuIp1yzwK8f3ddqmX7Cj1fXJWcLh0G0=",
+      "width": 325,
+      "height": 278
+    },
+    {
+      "id": "kibble-interior.jpg",
+      "url": "media/images/kibble-interior.jpg",
+      "title": "The Kibble Palace entrance to main area",
+      "digest": "00c5dhroD7p0TPBM05RzorQq3uEhfeM4WGYbk0IIc70=",
+      "width": 800,
+      "height": 600,
+      "srcset": [
+        {
+          "Tag": "750",
+          "Url": "media/images/srcset/kibble-interior__750.jpg",
+          "Width": 750,
+          "Height": 563
+        }
+      ]
+    },
+    {
+      "id": "curators-house.jpg",
+      "url": "media/images/curators-house.jpg",
+      "title": "The Curator's House and Visitor Centre",
+      "digest": "55_TuKPmqSSJfGp4Sgz9j8jNH5wk44uyobJpH4XUyLc=",
+      "width": 2000,
+      "height": 1402,
+      "srcset": [
+        {
+          "Tag": "750",
+          "Url": "media/images/srcset/curators-house__750.jpg",
+          "Width": 750,
+          "Height": 526
+        },
+        {
+          "Tag": "1500",
+          "Url": "media/images/srcset/curators-house__1500.jpg",
+          "Width": 1500,
+          "Height": 1052
+        }
+      ]
+    },
+    {
       "id": "kibble-dome.jpg",
       "url": "media/images/kibble-dome.jpg",
       "digest": "FOOe9AFk_FdZ7INYP12zAdX-QjUU-ekznoCBvL86zkc=",
       "width": 400,
       "height": 600
+    },
+    {
+      "id": "kibble-1875.jpg",
+      "url": "media/images/kibble-1875.jpg",
+      "title": "The Kibble Palace in 1875",
+      "digest": "as3sgGKIqnKmT5J9m0gLh4rSc2084Tu_HNX3lAspe5o=",
+      "width": 326,
+      "height": 183
+    },
+    {
+      "id": "kibble-palace1.jpg",
+      "url": "media/images/kibble-palace1.jpg",
+      "digest": "qwsF3UAKEDozVboxQftzfvJ62PXkMh2ZOKr_jASAC5E=",
+      "width": 375,
+      "height": 322
     }
   ],
   "tours": [
     {
       "id": "botanics-trail",
       "title": "The Botanics Trail",
+      "url": "tours/botanics-trail.md",
       "description": "The Botanic Gardens Trail starts at the [Curator's House](page:1) and should take you about one and a half hours to complete.",
       "stops": [
         {
@@ -424,6 +425,7 @@
       "id": "trail",
       "type": "image",
       "title": "The Botanics Trail in Pictures",
+      "url": "listings/trail.md",
       "description": "Images from the Botanics Trail\n",
       "tags": [
         "trail"
