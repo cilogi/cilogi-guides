@@ -1,6 +1,7 @@
 language: en-GB
 index: 5
 tag: trail
+sku: 1902831047
 
 # Palais de Kibble (1873)
 

@@ -2,6 +2,7 @@ language: en-GB
 index: 0
 listview : true
 background: botanic-flower.jpg
+sku: 1908931515
 
 # Jardins botaniques de Glasgow
 

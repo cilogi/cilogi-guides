@@ -2,6 +2,8 @@ language: fr-FR
 language: de-DE
 index: 1
 tag: trail
+sku: 1908931515
+sku: 0300096747
 
 # Curator's House/Visitor Centre (1840)
 
@@ -21,5 +23,5 @@ Gardens' Library and Herbarium.  Members of staff, apprentices and
 visiting professional botanists and horticulturists are welcome to use
 the library on request.
 
-[1]: /wiki.html?target=Charles_Wilson_(Scottish_architect)
+[1]: /wiki/Charles_Wilson_(Scottish_architect)
 

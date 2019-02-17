@@ -1,0 +1,106 @@
+{
+    "shopTitle": "Botanic Gardens Shop",
+    "shopCurrency": "GBP",
+    "skus": [
+        {
+            "id": "1907057471",
+            "title": "The Hillier Manual of Trees and Shrubs",
+            "description": "Unique in its detailed and comprehensive coverage of temperate-zone trees and shrubs, and backed by the world-famous Hillier name, this book provides great expertise in a highly illustrated, eminently usable package.",
+            "thumb": {
+                "width": 57,
+                "height": 75,
+                "url": "61Bf4KgTcxL._SL75_.jpg"
+            },
+            "image": {
+                "width": 381,
+                "height": 500,
+                "url": "61Bf4KgTcxL.jpg"
+            },
+            "unitPrice": "20",
+            "tags": []
+        },
+        {
+            "id": "0881929743",
+            "title": "Conifers of the World: The Complete Reference",
+            "description": "Researched for more than three decades, this definitive work provides up-to-date descriptions of all the true conifers of the world, including 545 species of trees and shrubs. Written for accessibility to both horticultural and botanical audiences, it is the first comprehensive update of conifer taxonomy in nearly a century.\n\n Noted conifer taxonomist James E. Eckenwalder discusses the relationships among the groups, practical usages, champion trees, fossil occurrences, and biology.\n\n New identification guides for the families and genera are based whenever possible on foliage features and thus should be easier to use than traditional conifer keys, which focus on seasonal, and often microscopic, cone characters.\n\n Eckenwalder shares the reasoning behind his taxonomic decisions, many of which are unique to this book, reflecting a comprehensive reevaluation of conifer classification. He also outlines the features sought in cultivars of each genus, particular cultivation concerns, and conifers recommended for cultivation under various conditions and to achieve different effects.\n\n Some 3,000 cultivars have been available in recent times, more than five times the total number of conifer species. Several hundred original illustrations include drawings of the seed cones for all genera as well as for representative species.\n\n Maps of the natural distribution of each genus allow for easy comparison of ranges. Handsome black-and-white photographs of species in their natural habitats and attractive color photos further enrich the volume. More than 100 images reproduce foliage of many genera as an aid in identification.\n\n With its unprecedented attention to detail and extensive bibliography, this major work is an essential reference for botanists, naturalists, and horticulturists.",
+            "thumb": {
+                "width": 56,
+                "height": 75,
+                "url": "413IMKVLPwL._SL75_.jpg"
+            },
+            "image": {
+                "width": 389,
+                "height": 500,
+                "url": "61PCBvxbHGL.jpg"
+            },
+            "unitPrice": "45",
+            "tags": []
+        },
+        {
+            "id": "1908931515",
+            "title": "The Story of Glasgow's Botanic Gardens",
+            "description": "",
+            "thumb": {
+                "width": 53,
+                "height": 75,
+                "url": "619FmMeAGNL._SL75_.jpg"
+            },
+            "image": {
+                "width": 354,
+                "height": 500,
+                "url": "619FmMeAGNL.jpg"
+            },
+            "unitPrice": "14.99",
+            "tags": []
+        },
+        {
+            "id": "0300096747",
+            "title": "Glasgow (Pevsner Architectural Guides: Buildings of Scotland)",
+            "description": "Glasgow has a wide array of architectural treasures: the greatest medieval cathedral in Scotland; fragments of a seventeenth- and eighteenth-century 'merchant city'; the well-preserved heart of a planned new town, Blythswood; a city centre dense with Victorian and Edwardian commercial buildings; stately nineteenth-century terraces lining the Great Western Road and picturesquely crowning Woodlands Hill; opulent villas in suburbs like Pollokshields and Kelvinside; and streets of tenements from the workaday to the grand.\n\n The twentieth century has encircled the city with a broad belt of public housing, and this too has a fascinating history that encompasses garden suburbs, early experiments in high-rise, comprehensive redevelopments and new interpretations of the tenement tradition. Charles Rennie Mackintosh and Alexander 'Greek' Thomson are, of course, internationally known, but the exceptional talents of Glasgow's many other architects, such as Charles Wilson, James Salmon Jr. and Jack Coia, have helped to shape the city's distinctive character.",
+            "thumb": {
+                "width": 41,
+                "height": 75,
+                "url": "41T5PFESN3L._SL75_.jpg"
+            },
+            "image": {
+                "width": 261,
+                "height": 475,
+                "url": "41T5PFESN3L.jpg"
+            },
+            "unitPrice": "35",
+            "tags": []
+        },
+        {
+            "id": "1902831047",
+            "title": "Kibble's Palace",
+            "description": "Eric Curtis, former keeper of the Botanic Garden, has researched the beginnings in the life of Glasgow entrepreneur and eccentric, John Kibble.'",
+            "thumb": {
+                "width": 48,
+                "height": 75,
+                "url": "515TMJY1SWL._SL75_.jpg"
+            },
+            "image": {
+                "width": 321,
+                "height": 500,
+                "url": "515TMJY1SWL.jpg"
+            },
+            "unitPrice": "7.99"
+        },
+        {
+            "id": "117278583X",
+            "title": "Trees and shrubs hardy in the British Isles",
+            "description": "This is a reproduction of a book published before 1923. This book may have occasional imperfections....",
+            "thumb": {
+                "width": 55,
+                "height": 75,
+                "url": "31vmBJ9TNaL._SL75_.jpg"
+            },
+            "image": {
+                "width": 381,
+                "height": 500,
+                "url": "51xIyIq%2BClL.jpg"
+            },
+            "unitPrice": "23.99"
+        }
+    ]
+}

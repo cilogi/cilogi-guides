@@ -2,6 +2,7 @@ language: fr-FR
 language: de-DE
 index: 5
 tag: trail
+sku: 1902831047
 
 # The Kibble Palace (1873)
 

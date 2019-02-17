@@ -1,6 +1,8 @@
 langusge: en-GB
 index: 1
 tag: trail
+sku: 1908931515
+sku: 0300096747
 
 # Maison du conservateur (1840)
 
@@ -20,5 +22,5 @@ Bibliothèque des jardins et Herbier. Membres du personnel, apprentis et
 les botanistes et horticulteurs professionnels en visite sont invités à utiliser
 la bibliothèque sur demande.
 
-[1]: /wiki.html?target=Charles_Wilson_(Scottish_architect)
+[1]: /wiki/Charles_Wilson_(Scottish_architect)
 
