@@ -2,9 +2,11 @@
 
 We put cookies on your phone or computer.
  
-We use data analytics so that we can see how 
+We use data analytics (Google analytics) so that we can see how 
 you and other visitors use the guide. This is really useful
 in helping us understand what needs to improve.
+
+We do not use Google for advertising.
  
 We do not store any personally identifiable information.
 
