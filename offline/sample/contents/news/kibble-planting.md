@@ -2,6 +2,8 @@ index: 602
 tag: news
 date: March 14th 2019
 expires: March 24th 2019
+author: Tim Niblett
+email: support@cilogi.com
 
 # New Kibble Palace Planting
 

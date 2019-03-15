@@ -4,5 +4,9 @@
   "description": "A comprehensive mobile guide to Glasgow Botanic Gardens.  Information about the plants, the Kibble Palace, a Tree Trail and a tour of the gardens.",
   "copyright": "Tim Niblett, 2019",
   "defaulTour": "botanics-trail",
-  "latlng": [55.879813,-4.291162]
+  "latlng": [55.879813,-4.291162],
+  "author": {
+    "name": "Cilogi",
+    "email": "support@cilogi.com"
+  }
 }

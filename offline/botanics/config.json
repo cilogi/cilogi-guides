@@ -7,5 +7,9 @@
   "latlng": [
     55.879813,
     -4.291162
-  ]
+  ],
+  "author": {
+    "name": "Cilogi",
+    "email": "support@cilogi.com"
+  }
 }

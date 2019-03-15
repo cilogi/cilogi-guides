@@ -1,6 +1,6 @@
 =
 * [Home](page:0)
-* [New](page:600)
+* [What's New?](page:600)
 * [The Kibble Palace](page:5)
 * [The Botanics Trail](tour:botanics-trail)
 * [Map of the Gardens](map:map1)

@@ -8,7 +8,7 @@ sku: 1908931515
 # Glasgow Botanic Gardens
 
 * [Home](page:0)
-* [New](page:600)
+* [What's New?](page:600)
 * [Opening times / information](page:1700)
 * [The Kibble Palace](page:5)
 * [The Botanics Trail](tour:botanics-trail)
