@@ -10,4 +10,6 @@ description: Jasminum Rex is flowering in the Palm House.
 
 Jasminum Rex is flowering in the Palm House at the moment. It has an amazingly sweet scent, and the largest leaves of any Jasmine.
 
+Have a look at the [Kibble Palace](page:5) while you are here.
+
 
