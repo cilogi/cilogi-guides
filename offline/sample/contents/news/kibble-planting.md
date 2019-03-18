@@ -5,9 +5,12 @@ expires: March 24th 2019
 author: Tim Niblett
 email: support@cilogi.com
 
+description: We have recently replanted 
+description: a section of the Kibble Palace.
+
 # New Kibble Palace Planting
 
 ![Kibble Planting](kibble-planting.jpg)
 
-We have recently replanted a section of the Kibble Palace with a large range of South African plant species
-including Proteas, Aloes and Pelargoniums.
+We have recently replanted a section of the Kibble Palace with a large range of South African plant species including Proteas, Aloes and Pelargoniums.
+
