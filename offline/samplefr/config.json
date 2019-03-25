@@ -1,0 +1,11 @@
+{
+    "title": "Jardins botaniques de Glasgow",
+    "description": "Un guide complet sur les jardins botaniques de Glasgow. Informations sur les plantes, le palais Kibble, un sentier des arbres et une visite des jardins.",
+    "guideImage": "kibble-palace.jpg",
+    "showKeypad": true,
+    "latlng": [55.879813,-4.291162],
+    "authors": [{
+        "name": "Cilogi",
+        "email": "support@cilogi.com"
+    }]
+}

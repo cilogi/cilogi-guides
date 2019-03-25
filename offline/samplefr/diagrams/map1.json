@@ -1,0 +1,91 @@
+{
+    "name"   : "map1",
+    "listed": true,
+    "title"  : "Jardins & Promenade Fluviale",
+    "markers": [{"id" : "green", "color": "green", "icon": "fa-star", "theme": "Sentier Bot."},
+              {"id" : "historical", "color": "blue", "icon": "fa-eye", "theme": "Site hist."},
+              {"id" : "toilets", "color": "red", "icon": "fa-toilets", "theme": "Toilettes"},
+              {"id" : "playground", "color": "red", "icon": "fa-child", "theme": "Cour de réc."},
+              {"id" : "cafe", "color": "red", "icon": "fa-coffee", "theme": "Café"},
+              {"id" : "blue", "color": "blue", "icon": "fa-eye", "theme": "Sentier Bot."},
+              {"id" : "news", "color": "blue", "icon": "fa-bullseye", "theme": "Neuf"}
+    ],
+    "zoom"  : {"min" : 16, "max": 18, "start": 17},
+    "provider" : "mapbox",
+    "center": [
+        55.879394,
+        -4.291165
+    ],
+    "bounds": {
+        "tl": [
+            55.884618,
+            -4.294534
+        ],
+        "br": [
+            55.874495,
+            -4.277840
+        ]
+    },
+    "overlay": {
+        "image": {
+            "src": "_diagram_botanics1200optpsCOL.png",
+            "locates": [
+                {
+                    "pixel": [
+                        0.0,
+                        0.0
+                    ],
+                    "latlng": [
+                        55.881846736578304,
+                        -4.293551445007324
+                    ],
+                    "tag": "nw corner"
+                },
+                {
+                    "pixel": [
+                        1200.0,
+                        0.0
+                    ],
+                    "latlng": [
+                        55.879614344497924,
+                        -4.286578421624719
+                    ],
+                    "tag": "ne corner"
+                },
+                {
+                    "pixel": [
+                        1200.0,
+                        650.0
+                    ],
+                    "latlng": [
+                        55.8774956100752,
+                        -4.288734197616577
+                    ],
+                    "tag": "se corner"
+                },
+                {
+                    "pixel": [
+                        0.0,
+                        650.0
+                    ],
+                    "latlng": [
+                        55.879728123990134,
+                        -4.295707220999184
+                    ],
+                    "tag": "sw corner"
+                }
+            ]
+        }
+    },
+    "showLocation": true,
+    "items": [{ "id": "1",  "description": "Maison du conservateur", "pixel": [878, 224], "marker": "historical"},
+              { "id": "5",  "description": "Palais de Kibble", "pixel": [980, 363]},
+              { "id": "50", "description": "Toilettes.", "text":  "Handicapés et infirmiers. Ouvert de 9h à 16h45 en été, de 9h à 16h15 en hiver", "pixel": [1111, 209], "marker": "toilets"}
+
+    ],
+    "sizes": {
+        "min": 0.5,
+        "max": 1.5,
+        "threshold": 0.4
+    }
+}
