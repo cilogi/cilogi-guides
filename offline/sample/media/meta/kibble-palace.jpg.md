@@ -4,7 +4,7 @@ date: March 1st 2019
 copyright: Tim Niblett, 2019
 licence: https://creativecommons.org/licenses/by-sa/4.0/
 
-# The Curator's House and Visitor Centre
+# The Kibble Palace from the Gardens
 
-This image shows the Curator's House entrance, with Cafe awnings out.
-The Cafe is open year-round. Hours vary.
+This photo was taken in Spring, after the borders have been filled with
+early blooms.
