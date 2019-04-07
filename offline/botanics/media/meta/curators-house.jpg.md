@@ -1,4 +1,4 @@
-uploader: Tim Niblett
+uploader: TimN
 email: tim.niblett@cilogi.com
 date: March 1st 2019
 copyright: Tim Niblett, 2019

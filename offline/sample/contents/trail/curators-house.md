@@ -5,7 +5,7 @@ tag: trail
 sku: 1908931515
 sku: 0300096747
 
-# Curator's House/Visitor Centre (1840)
+# Curator's House (1840)
 
 ![The Curator's House and Visitor Centre](image:curators-house.jpg)
 
