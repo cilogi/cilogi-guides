@@ -2,7 +2,7 @@ uploader: TimN
 email: tim.niblett@cilogi.com
 date: March 1st 2019
 copyright: Tim Niblett, 2019
-licence: [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+licence: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
 
 # The Curator's House and Visitor Centre
 
